@@ -6,8 +6,8 @@ categories:
 - Upcoming Row 1
 subtitle: Smaller versions of three maps
 release-date: 2017-08-14 20:00:00 -04:00
-main-image: "/uploads/block3.jpg"
-three-images: "/uploads/block3.jpg"
-featured-image: "/uploads/image-2.jpg"
+main-image: "/uploads/map-pack-featured.jpg"
+three-images: "/uploads/map-pack-one-third.jpg"
+featured-image: "/uploads/map-pack-featured.jpg"
 ---
 
