@@ -8,6 +8,7 @@ subtitle: FREE Communication-Based Emotes
 release-date: 2017-08-14 20:00:00 -04:00
 main-image: "/uploads/emotes-main.jpg"
 three-images: "/uploads/emotes-one-third.jpg"
+featured-image: "/uploads/emotes-main.jpg"
 ---
 
 Dying to talk to players, but don't have a mic? Perhaps Jason is near and you want to remain quiet, yet communicate with a nearby player. Good news! 
