@@ -6,7 +6,7 @@ categories:
 - Upcoming Row 1
 subtitle: Ooo, what could it be?
 release-date: 2017-08-31 00:00:00 -04:00
-show-day: true
+show-day: false
 main-image: "/uploads/clothing-pack-main.jpg"
 two-images: "/uploads/clothing-pack-main.jpg"
 three-images: "/uploads/clothing-pack-main.jpg"
