@@ -153,11 +153,12 @@ layout: home
                             
                             {% assign upcomingrow1 = site.content-packs | where:"categories","Upcoming Row 1" | sort: 'release-date' | reverse %}
 							{% for post in upcomingrow1 limit:3 %}
+							{% assign islocked4 = post.locked %}
 							<div class="col {% if forloop.length == 1 %}col-1{% endif %}{% if forloop.length == 2 %}col-2{% endif %}{% if forloop.length == 3 %}col-4{% endif %}">
-                                <div class="upcoming-post" onclick="window.location.href = '{{site.baseurl}}{{post.url}}';" {% if forloop.length == 1 %}style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.one-image}});"{% endif %}{% if forloop.length == 2 %}style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.two-images}});"{% endif %}{% if forloop.length == 3 %}style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.three-images}});"{% endif %}>
+                                <div class="upcoming-post" {% if islocked4 != true %}onclick="window.location.href = '{{site.baseurl}}{{post.url}}';"{% endif %} {% if forloop.length == 1 %}style="{% if islocked4 == true %}opacity: 1 !important;cursor: initial !important;{% endif %}background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.one-image}});"{% endif %}{% if forloop.length == 2 %}style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.two-images}});"{% endif %}{% if forloop.length == 3 %}style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.three-images}});"{% endif %}>
                                     <div class="overlay">
                                         <div class="overlay-desc">
-                                            <h3><a href="#">{{ post.title }}</a></h3>
+                                            <h3>{{ post.title }}</h3>
                                             <span>{{ post.subtitle }}</span>
                                         </div>
                                     </div>
@@ -174,11 +175,12 @@ layout: home
                         <div class="row">
                             {% assign upcomingrow2 = site.content-packs | where:"categories","Upcoming Row 2" | sort: 'release-date' | reverse %}
 							{% for post in upcomingrow2 limit:3 %}
+							{% assign islocked5 = post.locked %}
 							<div class="col {% if forloop.length == 1 %}col-1{% endif %}{% if forloop.length == 2 %}col-2{% endif %}{% if forloop.length == 3 %}col-4{% endif %}">
-                                <div class="upcoming-post" onclick="window.location.href = '{{site.baseurl}}{{post.url}}';" {% if forloop.length == 1 %}style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.one-image}});"{% endif %}{% if forloop.length == 2 %}style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.two-images}});"{% endif %}{% if forloop.length == 3 %}style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.three-images}});"{% endif %}>
+                                <div class="upcoming-post" {% if islocked5 != true %}onclick="window.location.href = '{{site.baseurl}}{{post.url}}';"{% endif %} {% if forloop.length == 1 %}style="{% if islocked5 == true %}opacity: 1 !important;cursor: initial !important;{% endif %}background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.one-image}});"{% endif %}{% if forloop.length == 2 %}style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.two-images}});"{% endif %}{% if forloop.length == 3 %}style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.three-images}});"{% endif %}>
                                     <div class="overlay">
                                         <div class="overlay-desc">
-                                            <h3><a href="#">{{ post.title }}</a></h3>
+                                            <h3>{{ post.title }}</h3>
                                             <span>{{ post.subtitle }}</span>
                                         </div>
                                     </div>
@@ -194,11 +196,12 @@ layout: home
                         <div class="row">
                             {% assign upcomingrow3 = site.content-packs | where:"categories","Upcoming Row 3" | sort: 'release-date' | reverse %}
 							{% for post in upcomingrow3 limit:3 %}
+							{% assign islocked6 = post.locked %}
 							<div class="col {% if forloop.length == 1 %}col-1{% endif %}{% if forloop.length == 2 %}col-2{% endif %}{% if forloop.length == 3 %}col-4{% endif %}">
-                                <div class="upcoming-post" onclick="window.location.href = '{{site.baseurl}}{{post.url}}';" {% if forloop.length == 1 %}style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.one-image}});"{% endif %}{% if forloop.length == 2 %}style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.two-images}});"{% endif %}{% if forloop.length == 3 %}style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.three-images}});"{% endif %}>
+                                <div class="upcoming-post" {% if islocked6 != true %}onclick="window.location.href = '{{site.baseurl}}{{post.url}}';"{% endif %} {% if forloop.length == 1 %}style="{% if islocked6 == true %}opacity: 1 !important;cursor: initial !important;{% endif %}background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.one-image}});"{% endif %}{% if forloop.length == 2 %}style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.two-images}});"{% endif %}{% if forloop.length == 3 %}style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{post.three-images}});"{% endif %}>
                                     <div class="overlay">
                                         <div class="overlay-desc">
-                                            <h3><a href="#">{{ post.title }}</a></h3>
+                                            <h3>{{ post.title }}</h3>
                                             <span>{{ post.subtitle }}</span>
                                         </div>
                                     </div>
