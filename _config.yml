@@ -5,6 +5,9 @@ collections:
   content-packs:
     title: Content Packs
     output: true
+  in-progress:
+    title: In Progress
+    output: true
   posts:
     title: Posts
     output: true
