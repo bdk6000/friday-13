@@ -46,6 +46,7 @@ defaults:
     layout: contentpacks
     subtitle: ''
     release-date: ''
+    main-image: ''
     one-image: ''
     two-images: ''
     three-images: ''
