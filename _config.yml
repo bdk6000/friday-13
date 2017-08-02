@@ -46,6 +46,7 @@ defaults:
     layout: contentpacks
     subtitle: ''
     release-date: ''
+    show-day: 'false'
     main-image: ''
     one-image: ''
     two-images: ''
