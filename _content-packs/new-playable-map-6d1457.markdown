@@ -4,6 +4,7 @@ date: 2017-08-02 16:30:00 -04:00
 categories:
 - Upcoming Row 3
 subtitle: Based on the films
+release-date: 2017-08-16 00:00:00 -04:00
 three-images: "/uploads/clothing-pack-main.jpg"
 ---
 
