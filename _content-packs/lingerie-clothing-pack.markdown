@@ -5,7 +5,7 @@ categories:
 - Upcoming Row 2
 - Featured Box 3
 subtitle: Ooo, what could it be?
-release-date: 2017-09-30 00:00:00 -04:00
+release-date: 2017-08-31 00:00:00 -04:00
 main-image: "/uploads/clothing-pack-main.jpg"
 two-images: "/uploads/clothing-pack-main.jpg"
 featured-image: "/uploads/clothing-pack-featured.jpg"
