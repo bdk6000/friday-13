@@ -12,6 +12,7 @@ one-image: "/uploads/clothing-full-width.jpg"
 two-images: "/uploads/clothing-half-width.jpg"
 three-images: "/uploads/clothing-one-third.jpg"
 featured-image: "/uploads/clothing-featured.jpg"
+locked: true
 ---
 
 Ah, come on...Everyone likes a secret!
