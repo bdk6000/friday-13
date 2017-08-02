@@ -53,9 +53,10 @@ defaults:
     featured-image: ''
     released: 'false'
 permalink: pretty
-Banner Title: We’re Going<br />to PAX
-Banner Subtitle: Here's a little something about what’s happening.
-Banner Image: "/uploads/banner.jpg"
-Upcoming Row 1 Title: AUGUST
-Upcoming Row 2 Title: SEPTEMBER
-Upcoming Row 3 Title: OCTOBER
+banner-image: "/uploads/banner.jpg"
+banner-title-line-1: We’re Going
+banner-title-line-2: to PAX
+banner-subtitle: Here's a little something about what’s happening.
+upcoming-row-1-title: AUGUST
+upcoming-row-2-title: SEPTEMBER
+upcoming-row-3-title: OCTOBER
