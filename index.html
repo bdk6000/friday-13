@@ -4,10 +4,10 @@ layout: home
 ---
 
         <!-- Banner Starts Here -->
-        <div class="banner">
+        <div class="banner" style="background-image: url({{site.baseurl}}{{site.banner-image}}) !important;">
             <div class="container">
                 <div class="banner-text">
-                    <h1>We&#8217;re Going <span class="breakhidemob"><br></span>to PAX</h1>
+                    <h1>{{ site.banner-line-1 }}<span class="breakhidemob"><br></span>{{ site.banner-line-2 }}</h1>
                     <div class="contentline">{{ site.banner-subtitle }}</div>
                 </div>
             </div>
@@ -146,7 +146,7 @@ layout: home
                 
                 <div class="upcoming-row">
                     <div class="upcoming-area cf">
-                    <div class="fliptext"><div class="textarea">AUGUST</div></div>
+                    <div class="fliptext"><div class="textarea">{{ site.upcoming-row-1-title }}</div></div>
                         <div class="row">
                             
                             {% assign upcomingrow1 = site.content-packs | where:"categories","Upcoming Row 1" | sort: 'release-date' | reverse %}
@@ -168,7 +168,7 @@ layout: home
                 </div>
                 <div class="upcoming-row">
                     <div class="upcoming-area cf">
-                    <div class="fliptext"><div class="textarea">SEPTEMBER</div></div>
+                    <div class="fliptext"><div class="textarea">{{ site.upcoming-row-2-title }}</div></div>
                         <div class="row">
                             {% assign upcomingrow2 = site.content-packs | where:"categories","Upcoming Row 2" | sort: 'release-date' | reverse %}
 							{% for post in upcomingrow2 limit:3 %}
@@ -188,7 +188,7 @@ layout: home
                 </div>
                 <div class="upcoming-row">
                     <div class="upcoming-area cf">
-                    <div class="fliptext"><div class="textarea">OCTOBER</div></div>
+                    <div class="fliptext"><div class="textarea">{{ site.upcoming-row-3-title }}</div></div>
                         <div class="row">
                             {% assign upcomingrow3 = site.content-packs | where:"categories","Upcoming Row 3" | sort: 'release-date' | reverse %}
 							{% for post in upcomingrow3 limit:3 %}
