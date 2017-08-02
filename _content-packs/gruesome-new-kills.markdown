@@ -9,3 +9,4 @@ main-image: "/uploads/new-kill.jpg"
 one-image: "/uploads/new-kill.jpg"
 ---
 
+We are adding new kills for ALL Jasons! How many kills? Stay tuned for more information. 
