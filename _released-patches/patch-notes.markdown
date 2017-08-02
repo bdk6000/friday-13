@@ -6,10 +6,6 @@ categories:
 release-date: 2017-06-28 00:00:00 -04:00
 ---
 
-We have a hotfix out right now for Steam users that addresses the memory leak issue as well as a few bugs that have been encountered on all platforms.
-This is our next round of patches being worked on, with substantial patches coming to all three platforms relatively soon; so those users on Xbox One and PS4 should see this memory leak issue resolved in short order! We are currently testing and evaluating and will update the moment when we are able.
-Again, thank you for your continued patience and support!
-Notes;
 - Fixed cause of some random mid-game freeze crashes.
 - Fixed a memory leak for dedicated servers.
 - Forbidding Hunter (Tommy Jarvis) counselor selections.
