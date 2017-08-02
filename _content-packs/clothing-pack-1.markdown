@@ -6,3 +6,4 @@ main-image: "/uploads/clothing-pack-main.jpg"
 released: true
 ---
 
+Everyone likes to play dress up, especially Chad. This was a free update to all players that included two new outfits per counselor.
