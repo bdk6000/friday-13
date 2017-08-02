@@ -10,6 +10,7 @@ one-image: "/uploads/counselors-full-width.jpg"
 two-images: "/uploads/counselors-half-width.jpg"
 three-images: "/uploads/counselors-one-third.jpg"
 featured-image: "/uploads/counselors-featured.jpg"
+locked: true
 ---
 
 Two new counselors added to the roster. Fresh meat for our mask wearing friend. 
