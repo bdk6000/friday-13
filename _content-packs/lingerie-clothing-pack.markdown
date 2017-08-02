@@ -7,10 +7,11 @@ categories:
 subtitle: Ooo, what could it be?
 release-date: 2017-08-31 00:00:00 -04:00
 show-day: false
-main-image: "/uploads/clothing-pack-main.jpg"
-two-images: "/uploads/clothing-pack-main.jpg"
-three-images: "/uploads/clothing-pack-main.jpg"
-featured-image: "/uploads/clothing-pack-featured.jpg"
+main-image: "/uploads/clothing-main.jpg"
+one-image: "/uploads/clothing-full-width.jpg"
+two-images: "/uploads/clothing-half-width.jpg"
+three-images: "/uploads/clothing-one-third.jpg"
+featured-image: "/uploads/clothing-featured.jpg"
 ---
 
 Ah, come on...Everyone likes a secret!
