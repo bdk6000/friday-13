@@ -161,7 +161,9 @@ layout: home
                                             <h3>{{ post.title }}</h3>
                                             <span>{{ post.subtitle }}</span>
                                         </div>
-                                    </div>
+					{% if islocked4 == true %}<div class="overlay-locked">
+					    <img src="{{site.baseurl}}/images/lock.png" alt="Locked" width="16" height="20" />
+                                        </div>{% endif %}
                                 </div>                            
                             </div>
 							{% endfor %}
@@ -183,6 +185,9 @@ layout: home
                                             <h3>{{ post.title }}</h3>
                                             <span>{{ post.subtitle }}</span>
                                         </div>
+					{% if islocked5 == true %}<div class="overlay-locked">
+					    <img src="{{site.baseurl}}/images/lock.png" alt="Locked" width="16" height="20" />
+                                        </div>{% endif %}
                                     </div>
                                 </div>                            
                             </div>
@@ -204,6 +209,9 @@ layout: home
                                             <h3>{{ post.title }}</h3>
                                             <span>{{ post.subtitle }}</span>
                                         </div>
+					{% if islocked6 == true %}<div class="overlay-locked">
+					    <img src="{{site.baseurl}}/images/lock.png" alt="Locked" width="16" height="20" />
+                                        </div>{% endif %}
                                     </div>
                                 </div>                            
                             </div>
