@@ -40,7 +40,7 @@ defaults:
     release-date: ""
 - scope:
     type: content-packs
-   values:
+  values:
     layout: "contentpacks"
     subtitle: ""
     release-date: ""
