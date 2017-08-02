@@ -20,8 +20,8 @@ layout: home
                     {% assign fbox1 = site.content-packs | where:"categories","Featured Box 1" | sort: 'release-date' | reverse %}
 		    {% for post in fbox1 limit:1 %}
 		    {% assign islocked1 = post.locked %}
-		    <div class="post-area firstbox" style="border-left:0px;" {% if islocked1 != true %}onclick="window.location.href = '{{site.baseurl}}{{post.url}}';"{% endif %}>
-                    <div class="post-img" style="{% if islocked1 == true %}opacity:1 !important;cursor:initial !important;{% endif %}background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{ post.featured-image }});">
+		    <div class="post-area firstbox{% if islocked1 == true %} locked{% endif %}" style="border-left:0px;" {% if islocked1 != true %}onclick="window.location.href = '{{site.baseurl}}{{post.url}}';"{% endif %}>
+                    <div class="post-img" style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{ post.featured-image }});">
                     </div>
                     <div class="post-text">
                         <span>{{ post.release-date | date: "%B" }} {% assign showdaynum1 = post.show-day %}{% if showdaynum1 == true %}{{ post.release-date | date: "%-d" }}{% endif %}</span>
@@ -36,8 +36,8 @@ layout: home
                     {% assign fbox2 = site.content-packs | where:"categories","Featured Box 2" | sort: 'release-date' | reverse %}
 		    {% for post in fbox2 limit:1 %}
 		    {% assign islocked2 = post.locked %}
-		    <div class="post-area middlebox" {% if islocked2 != true %}onclick="window.location.href = '{{site.baseurl}}{{post.url}}';"{% endif %}>
-                    <div class="post-img" style="{% if islocked2 == true %}opacity:1 !important;cursor:initial !important;{% endif %}background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{ post.featured-image }});">
+		    <div class="post-area middlebox{% if islocked2 == true %} locked{% endif %}" {% if islocked2 != true %}onclick="window.location.href = '{{site.baseurl}}{{post.url}}';"{% endif %}>
+                    <div class="post-img" style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{ post.featured-image }});">
                     </div>
                     <div class="post-text">
                         <span>{{ post.release-date | date: "%B" }} {% assign showdaynum2 = post.show-day %}{% if showdaynum2 == true %}{{ post.release-date | date: "%-d" }}{% endif %}</span>
@@ -51,7 +51,7 @@ layout: home
                     {% assign fbox3 = site.content-packs | where:"categories","Featured Box 3" | sort: 'release-date' | reverse %}
 		    {% for post in fbox3 limit:1 %}
 		    {% assign islocked3 = post.locked %}
-		    <div class="post-area lastbox" style="{% if islocked3 == true %}opacity:1 !important;cursor:initial !important;{% endif %}border-right:0px;" {% if islocked3 != true %}onclick="window.location.href = '{{site.baseurl}}{{post.url}}';"{% endif %}>
+		    <div class="post-area lastbox{% if islocked3 == true %} locked{% endif %}" style="{% if islocked3 == true %}opacity:1 !important;cursor:initial !important;{% endif %}border-right:0px;" {% if islocked3 != true %}onclick="window.location.href = '{{site.baseurl}}{{post.url}}';"{% endif %}>
                     <div class="post-img" style="background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.baseurl}}{{ post.featured-image }});">
                     </div>
                     <div class="post-text">
