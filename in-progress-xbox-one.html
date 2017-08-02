@@ -17,7 +17,7 @@ layout: content
                                         <div id="tab-1" class="tab-content current">
                                             <ul class="list-style">
                                             	{% assign xboxissues = site.in-progress | where:"categories","XBOX ONE" | sort: 'date' | reverse %}
-					   							{% for post in xboxissues limit:6 %}
+					   							{% for post in xboxissues %}
                                                 <li>{{ post.title }}</li>
                                                 {% endfor %}
                                             </ul>
@@ -25,7 +25,7 @@ layout: content
                                         <div id="tab-2" class="tab-content">
                                             <ul class="list-style">
                                                 {% assign ps4issues = site.in-progress | where:"categories","PS4" | sort: 'date' | reverse %}
-					   							{% for post in ps4issues limit:6 %}
+					   							{% for post in ps4issues %}
                                                 <li>{{ post.title }}</li>
                                                 {% endfor %}
                                             </ul>
@@ -33,7 +33,7 @@ layout: content
                                         <div id="tab-3" class="tab-content">
                                             <ul class="list-style">
                                                 {% assign steamissues = site.in-progress | where:"categories","STEAM" | sort: 'date' | reverse %}
-					   							{% for post in steamissues limit:6 %}
+					   							{% for post in steamissues %}
                                                 <li>{{ post.title }}</li>
                                                 {% endfor %}
                                             </ul>
