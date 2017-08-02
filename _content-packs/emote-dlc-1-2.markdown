@@ -11,6 +11,7 @@ main-image: "/uploads/emotes-main.jpg"
 two-images: "/uploads/emotes-one-third.jpg"
 three-images: "/uploads/emotes-one-third.jpg"
 featured-image: "/uploads/emotes-main.jpg"
+released: false
 ---
 
 Dying to talk to players, but don't have a mic? Perhaps Jason is near and you want to remain quiet, yet communicate with a nearby player. Good news! 
