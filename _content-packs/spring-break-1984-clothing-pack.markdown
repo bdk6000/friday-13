@@ -6,6 +6,7 @@ categories:
 - Upcoming Row 1
 subtitle: Bikinis, shades, and more
 release-date: 2017-07-31 20:58:00 -04:00
+main-image: "/uploads/block1.jpg"
 three-images: "/uploads/block1.jpg"
 featured-image: "/uploads/image-1.jpg"
 ---
