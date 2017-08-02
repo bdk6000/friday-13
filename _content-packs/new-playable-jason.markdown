@@ -5,10 +5,11 @@ categories:
 - Upcoming Row 2
 subtitle: With Unique Kills
 release-date: 2017-07-31 20:58:00 -04:00
-main-image: "/uploads/new-jason.jpg"
-two-images: "/uploads/new-jason.jpg"
-three-images: "/uploads/new-jason.jpg"
-featured-image: "/uploads/new-jason.jpg"
+main-image: "/uploads/jason-main.jpg"
+one-image: "/uploads/jason-full-width.jpg"
+two-images: "/uploads/jason-half-width.jpg"
+three-images: "/uploads/jason-one-third.jpg"
+featured-image: "/uploads/jason-featured.jpg"
 ---
 
 More information on this Jason will be available once announced. Come back soon for more details!
