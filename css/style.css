@@ -896,6 +896,11 @@ body.menu-open #header {
     opacity:.85;
     cursor:pointer;
 }
+
+.locked {
+    opacity: 1 !important;
+    cursor: initial !important;
+}
 .upcoming-post img {
     width: 100%;
 }
@@ -945,11 +950,11 @@ body.menu-open #header {
 .fliptext {
 	width: 275px;
 	-webkit-transform: rotate(-90deg);
-    -moz-transform: rotate(-90deg);
-    -ms-transform: rotate(-90deg);
-    -o-transform: rotate(-90deg);
-    transform: rotate(-90deg);
-    position: absolute;
+    	-moz-transform: rotate(-90deg);
+    	-ms-transform: rotate(-90deg);
+    	-o-transform: rotate(-90deg);
+    	transform: rotate(-90deg);
+    	position: absolute;
 	left:-187px;
 	margin-top: 130px;
 }
