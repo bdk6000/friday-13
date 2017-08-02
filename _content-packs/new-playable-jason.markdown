@@ -10,6 +10,7 @@ one-image: "/uploads/jason-full-width.jpg"
 two-images: "/uploads/jason-half-width.jpg"
 three-images: "/uploads/jason-one-third.jpg"
 featured-image: "/uploads/jason-featured.jpg"
+locked: true
 ---
 
 More information on this Jason will be available once announced. Come back soon for more details!
