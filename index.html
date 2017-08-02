@@ -1,0 +1,271 @@
+---
+title: Home
+layout: home
+---
+        
+        <!-- Banner Starts Here -->
+        <div class="banner">
+            <div class="container">
+                <div class="banner-text">
+                    <h1>We&#8217;re Going <span class="breakhidemob"><br></span>to PAX</h1>
+                    <div class="contentline">Here's a little something about what’s happening.</div>
+                </div>
+            </div>
+        </div>
+        <!-- Banner Ends Here -->
+        
+        <!-- Featured Starts Here -->
+        <div class="post-section cf">
+            <div class="col col-4 no-padding">
+                <div class="post-area firstbox" style="border-left:0px;">
+                    
+                    {% assign fbox1 = site.content-packs | where:"categories","Featured Box 1" | sort: 'release-date' | reverse %}
+					{% for post in fbox1 limit:1 %}
+                    <div class="post-img" style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{ post.featured-image }});">
+                    </div>
+                    <div class="post-text">
+                        <span>{{ post.release-date | date: "%b %-d" }}</span>
+                        <h3>{{ post.title }}</h3>
+                    </div>
+                    {% endfor %}
+                    
+                </div>
+            </div>
+            <div class="col col-4 no-padding">
+                <div class="post-area middlebox">
+                    
+                    {% assign fbox2 = site.content-packs | where:"categories","Featured Box 2" | sort: 'release-date' | reverse %}
+					{% for post in fbox2 limit:1 %}
+                    <div class="post-img" style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{ post.featured-image }});">
+                    </div>
+                    <div class="post-text">
+                        <span>{{ post.release-date | date: "%b %-d" }}</span>
+                        <h3>{{ post.title }}</h3>
+                    </div>
+                    {% endfor %}
+                    
+                </div>
+            </div>
+            <div class="col col-4 no-padding">
+                <div class="post-area lastbox" style="border-right:0px;">
+                    {% assign fbox3 = site.content-packs | where:"categories","Featured Box 3" | sort: 'release-date' | reverse %}
+					{% for post in fbox3 limit:1 %}
+                    <div class="post-img" style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{ post.featured-image }});">
+                    </div>
+                    <div class="post-text">
+                        <span>{{ post.release-date | date: "%b %-d" }}</span>
+                        <h3>{{ post.title }}</h3>
+                    </div>
+                    {% endfor %}
+            </div>
+        </div>
+        </div>
+        <!-- Featured Ends Here -->
+        
+        <!-- Fixes Starts Here -->
+        <div id="fixes"></div>
+            <div class="section sec-fix" id="fix">
+            <div class="fixescontainer">
+            <div class="container">
+                <h2>Fixes</h2>
+                <div class="row">
+                    <div class="col-2 col bugarea">
+                        <div class="fix-area">
+                            <div class="bug-description">
+                                <div id="horizontalTab">
+                            		<h3>In Progress</h3>
+                                    <ul class="tabs">
+                                        <li class="tab-link current" data-tab="tab-1">XBOX ONE</li>
+                                        <li class="tab-link" data-tab="tab-2">PS4</li>
+                                        <li class="tab-link" data-tab="tab-3">STEAM</li>
+                                    </ul>
+                                    <div class="resp-tabs-container">
+                                        <div id="tab-1" class="tab-content current">
+                                            <ul class="list-style">
+                                            	{% assign xboxissues = site.in-progress | where:"categories","XBOX ONE" | sort: 'release-date' | reverse %}
+					   							{% for post in xboxissues limit:6 %}
+                                                <li>{{ post.title }}</li>
+                                                {% endfor %}
+                                            </ul>
+                                            <div class="cta">
+                                                <a href="{{site.baseurl}}/in-progress-xbox-one" class="viewall" title="View All">View All</a>
+                                            </div>
+                                        </div>
+                                        <div id="tab-2" class="tab-content">
+                                            <ul class="list-style">
+                                                {% assign ps4issues = site.in-progress | where:"categories","PS4" | sort: 'release-date' | reverse %}
+					   							{% for post in ps4issues limit:6 %}
+                                                <li>{{ post.title }}</li>
+                                                {% endfor %}
+                                            </ul>
+                                            <div class="cta">
+                                                <a href="{{site.baseurl}}/in-progress-ps4" class="viewall" title="View All">View All</a>
+                                            </div>
+                                        </div>
+                                        <div id="tab-3" class="tab-content">
+                                            <ul class="list-style">
+                                                {% assign steamissues = site.in-progress | where:"categories","STEAM" | sort: 'release-date' | reverse %}
+					   							{% for post in steamissues limit:6 %}
+                                                <li>{{ post.title }}</li>
+                                                {% endfor %}
+                                            </ul>
+                                            <div class="cta">
+                                                <a href="{{site.baseurl}}/in-progress-steam" class="viewall" title="View All">View All</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-2 col issuearea">
+                        <div class="fix-area">
+                            <div class="fix-description alert-description">
+                                <h3>Reported Issues</h3>
+                                <ul class="list-style">
+                                 	{% assign reportedissues = site.reported-issues | sort: 'release-date' | reverse %}
+					   				{% for post in reportedissues limit:7 %}
+                                    <li>{{ post.title }}</li>
+                                    {% endfor %}
+                                </ul>
+                                <a href="{{site.baseurl}}/reported-issues" class="viewall" title="View All">View All</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+        <!-- Fixes Ends Here -->
+        
+    <!-- Upcoming Starts Here -->
+    <div id="upcoming"></div>
+        <div class="section sec-upcoming">
+            <div class="container">
+                <h2>Upcoming</h2>
+                
+                <div class="upcoming-row">
+                    <div class="upcoming-area cf">
+                    <div class="fliptext"><div class="textarea">AUGUST</div></div>
+                        <div class="row">
+                            
+                            {% assign upcomingrow1 = site.content-packs | where:"categories","Upcoming Row 1" | sort: 'release-date' | reverse %}
+							{% for post in upcomingrow1 limit:3 %}
+							<div class="col {% if forloop.length == 1 %}col-1{% endif %}{% if forloop.length == 2 %}col-2{% endif %}{% if forloop.length == 3 %}col-4{% endif %}">
+                                <div class="upcoming-post" {% if forloop.length == 1 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.one-image}});"{% endif %}{% if forloop.length == 2 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.two-images}});"{% endif %}{% if forloop.length == 3 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.three-images}});"{% endif %}>
+                                    <div class="overlay">
+                                        <div class="overlay-desc">
+                                            <h3><a href="#">{{ post.title }}</a></h3>
+                                            <span>{{ post.subtitle }}</span>
+                                        </div>
+                                    </div>
+                                </div>                            
+                            </div>
+							{% endfor %}
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="upcoming-row">
+                    <div class="upcoming-area cf">
+                    <div class="fliptext"><div class="textarea">SEPTEMBER</div></div>
+                        <div class="row">
+                            {% assign upcomingrow2 = site.content-packs | where:"categories","Upcoming Row 2" | sort: 'release-date' | reverse %}
+							{% for post in upcomingrow2 limit:3 %}
+							<div class="col {% if forloop.length == 1 %}col-1{% endif %}{% if forloop.length == 2 %}col-2{% endif %}{% if forloop.length == 3 %}col-4{% endif %}">
+                                <div class="upcoming-post" {% if forloop.length == 1 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.one-image}});"{% endif %}{% if forloop.length == 2 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.two-images}});"{% endif %}{% if forloop.length == 3 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.three-images}});"{% endif %}>
+                                    <div class="overlay">
+                                        <div class="overlay-desc">
+                                            <h3><a href="#">{{ post.title }}</a></h3>
+                                            <span>{{ post.subtitle }}</span>
+                                        </div>
+                                    </div>
+                                </div>                            
+                            </div>
+							{% endfor %}
+                        </div>
+                    </div>
+                </div>
+                <div class="upcoming-row">
+                    <div class="upcoming-area cf">
+                    <div class="fliptext"><div class="textarea">OCTOBER</div></div>
+                        <div class="row">
+                            {% assign upcomingrow3 = site.content-packs | where:"categories","Upcoming Row 3" | sort: 'release-date' | reverse %}
+							{% for post in upcomingrow3 limit:3 %}
+							<div class="col {% if forloop.length == 1 %}col-1{% endif %}{% if forloop.length == 2 %}col-2{% endif %}{% if forloop.length == 3 %}col-4{% endif %}">
+                                <div class="upcoming-post" {% if forloop.length == 1 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.one-image}});"{% endif %}{% if forloop.length == 2 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.two-images}});"{% endif %}{% if forloop.length == 3 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.three-images}});"{% endif %}>
+                                    <div class="overlay">
+                                        <div class="overlay-desc">
+                                            <h3><a href="#">{{ post.title }}</a></h3>
+                                            <span>{{ post.subtitle }}</span>
+                                        </div>
+                                    </div>
+                                </div>                            
+                            </div>
+							{% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Upcoming Ends Here -->
+
+    <!-- Released Starts Here -->
+    <div id="released"></div>
+        <div class="section sec-released">
+            <div class="container">
+                <h2>Released</h2>
+                <div class="select-area cf">
+                    <select id="category-selection" class="selectbox">
+                        <option value="/recent-releases">Recent</option>
+                        <option value="/xbox-one-releases">XBOX ONE Patch Notes</option>
+                        <option value="/ps4-releases">PS4 Patch Notes</option>
+                        <option value="/steam-releases">STEAM Patch Notes</option>
+                        <option value="/dlc-releases">DLC</option>
+                    </select>
+                </div>
+                <div class="line"></div>
+               
+               <div id="boxes">
+               
+            <div class="released-post cf">
+                    <div class="row">
+    
+                        {% assign documents = site.documents | where: 'released', true | sort: 'release-date' | reverse %}
+
+					    {% for document in documents limit:6 %}
+                        
+                        <div class="col-4 col">
+                            <div class="post-block" onclick="window.location.href = '{{site.baseurl}}{{document.url}}';">
+                                <div class="block-area">
+									<div class="block-img {% if document.collection == "released-patches" %}patch{% endif %}" {% if document.collection == "content-packs" %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{document.main-image}})"{% endif %}></div>
+                                </div>
+                                <div class="block-overlay">
+                                    <div class="category">{% if document.collection == "released-patches" %}{{ document.categories }}{% endif %}</div>
+                                    <div class="overlay-desc">
+                                        <h3><a href="#">{{ document.title }}</a></h3>
+                                        <span>{{ document.release-date | date: "%-m.%-d.%y" }}</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                      
+                        {% endfor %}
+                            
+    					<div style="clear:both;"></div>
+    
+                        <div class="cta">
+                           <a href="{{site.baseurl}}/all-released" style="padding-left:10px;"  class="viewall" title="View All">View All</a>
+                        </div>
+
+				</div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Released Ends Here -->
+        <div class="preload"><img src="{{site.baseurl}}/images/menu-overlay.jpg" alt="" /><img src="{{site.baseurl}}/images/banner.jpg" alt="" /></div>
+        
+        </div>

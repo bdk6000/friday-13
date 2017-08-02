@@ -1,0 +1,31 @@
+---
+title: DLC Releases
+---
+  					<div class="released-post cf">
+                    <div class="row">
+    					{% assign dlcreleases = site.content-packs | where:"released","true" | sort: 'release-date' | reverse %}
+
+					    {% for post in dlcreleases limit:6 %}
+                        
+                        <div class="col-4 col">
+                            <div class="post-block" onclick="window.location.href = '{{post.baseurl}}{{post.url}}';">
+                                <div class="block-area">
+									<div class="block-img" style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.main-image}})"></div>
+                                </div>
+                                <div class="block-overlay">
+                                    <div class="category"></div>
+                                    <div class="overlay-desc">
+                                        <h3><a href="#">{{ post.title }}</a></h3>
+                                        <span>{{ post.release-date | date: "%-m.%-d.%y" }}</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                      
+                        {% endfor %}
+                            
+    					<div style="clear:both;"></div>
+    
+                        <div class="cta">
+                           <a href="{{site.baseurl}}/all-dlc-releases" style="padding-left:10px;"  class="viewall" title="View All">View All</a>
+                        </div>

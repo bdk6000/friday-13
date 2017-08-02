@@ -1,0 +1,49 @@
+---
+title: All DLC Releases
+layout: released
+---
+
+
+            <!-- Released Starts Here -->
+    <div id="released"></div>
+        <div class="section sec-released" style="padding-top:140px;">
+            <div class="container">
+                <h2>Released</h2>
+                <div class="select-area cf">
+                    <select onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);" class="selectbox">
+                        <option value="{{site.baseurl}}/all-dlc-releases">DLC</option>
+                        <option value="{{site.baseurl}}/all-released">Recent</option>
+                        <option value="{{site.baseurl}}/all-xbox-one-releases">XBOX ONE Patch Notes</option>
+                        <option value="{{site.baseurl}}/all-ps4-releases">PS4 Patch Notes</option>
+                        <option value="{{site.baseurl}}/all-steam-releases">STEAM Patch Notes</option>
+                    </select>
+                </div>
+                <div class="line"></div>
+               
+               <div id="boxes">
+               
+            <div class="released-post cf" style="padding-bottom:40px;">
+                    <div class="row">
+
+    					{% assign dlcreleases = site.content-packs | where:"released","true" | sort: 'release-date' | reverse %}
+
+					    {% for post in dlcreleases %}
+                        
+                        <div class="col-4 col">
+                            <div class="post-block" onclick="window.location.href = '{{post.baseurl}}{{post.url}}';">
+                                <div class="block-area">
+									<div class="block-img" style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.main-image}})"></div>
+                                </div>
+                                <div class="block-overlay">
+                                    <div class="category"></div>
+                                    <div class="overlay-desc">
+                                        <h3><a href="#">{{ post.title }}</a></h3>
+                                        <span>{{ post.release-date | date: "%-m.%-d.%y" }}</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                      
+                        {% endfor %}
+                            
+    					<div style="clear:both;"></div>

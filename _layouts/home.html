@@ -1,0 +1,24 @@
+---
+layout: home
+---
+
+        {% include header.html %}
+<body>
+<script>document.body.className += ' fade-out';</script>
+    <div class="wrapper">
+
+        <!-- Header Starts Here -->
+        <header id="header" class="home">
+            <div class="main-header">
+                <div class="header-container cf">
+                    
+                    {% include menu.html %}
+
+                </div>
+            </div>
+        </header>
+        <!-- Header Ends Here -->
+
+		{{ content }}
+        
+    {% include footer.html %}

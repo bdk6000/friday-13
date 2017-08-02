@@ -1,0 +1,42 @@
+---
+title: In Progress PS4
+layout: content
+---
+                            	<h2 style="border-bottom: 2px solid #262F3A;padding-bottom:15px;margin-bottom: 44px;">In Progress</h2>
+                                		
+                                		
+                                		<div class="bug-description">
+                                <div id="horizontalTab">
+                                    <ul class="tabs">
+                                        <li class="tab-link" data-tab="tab-1">XBOX ONE</li>
+                                        <li class="tab-link current" data-tab="tab-2">PS4</li>
+                                        <li class="tab-link" data-tab="tab-3">STEAM</li>
+                                    </ul>
+                                    <div class="resp-tabs-container">
+                                        <div id="tab-1" class="tab-content">
+                                            <ul class="list-style">
+                                            	{% assign xboxissues = site.in-progress | where:"categories","XBOX ONE" | sort: 'date' | reverse %}
+					   							{% for post in xboxissues limit:6 %}
+                                                <li>{{ post.title }}</li>
+                                                {% endfor %}
+                                            </ul>
+                                        </div>
+                                        <div id="tab-2" class="tab-content current">
+                                            <ul class="list-style">
+                                                {% assign ps4issues = site.in-progress | where:"categories","PS4" | sort: 'date' | reverse %}
+					   							{% for post in ps4issues limit:6 %}
+                                                <li>{{ post.title }}</li>
+                                                {% endfor %}
+                                            </ul>
+                                        </div>
+                                        <div id="tab-3" class="tab-content">
+                                            <ul class="list-style">
+                                                {% assign steamissues = site.in-progress | where:"categories","STEAM" | sort: 'date' | reverse %}
+					   							{% for post in steamissues limit:6 %}
+                                                <li>{{ post.title }}</li>
+                                                {% endfor %}
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>

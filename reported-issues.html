@@ -1,0 +1,11 @@
+---
+title: Reported Issues
+layout: content
+---
+                            	<h2 style="border-bottom: 2px solid #262F3A;padding-bottom:15px;margin-bottom: 44px;">Reported Issues</h2>
+                                		<ul class="list-style">
+                                    		{% assign reportedissues = site.reported-issues | sort: 'date' | reverse %}
+					   						{% for post in reportedissues %}
+                                    		<li>{{ post.title }}</li>
+                                    		{% endfor %}
+                                		</ul>
