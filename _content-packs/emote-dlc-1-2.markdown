@@ -5,7 +5,7 @@ categories:
 - Featured Box 1
 - Upcoming Row 1
 subtitle: FREE Communication-Based Emotes
-release-date: 2017-08-14 20:00:00 -04:00
+release-date: 2017-08-31 00:00:00 -04:00
 main-image: "/uploads/emotes-main.jpg"
 three-images: "/uploads/emotes-one-third.jpg"
 featured-image: "/uploads/emotes-main.jpg"
