@@ -54,7 +54,7 @@ defaults:
     released: 'false'
 permalink: pretty
 banner-image: "/uploads/banner.jpg"
-banner-title-line-1: We’re Going
+banner-title-line-1: We&#8217;re Going
 banner-title-line-2: to PAX
 banner-subtitle: Here's a little something about what’s happening.
 upcoming-row-1-title: AUGUST
