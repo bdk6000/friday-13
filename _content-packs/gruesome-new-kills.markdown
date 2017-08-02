@@ -10,6 +10,7 @@ one-image: "/uploads/kill-full-width.jpg"
 two-images: "/uploads/kill-half-width.jpg"
 three-images: "/uploads/kill-one-third.jpg"
 featured-image: "/uploads/kill-featured.jpg"
+locked: true
 ---
 
 We are adding new kills for ALL Jasons! How many kills? Stay tuned for more information. 
