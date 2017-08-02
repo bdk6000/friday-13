@@ -54,9 +54,9 @@ defaults:
     released: 'false'
 permalink: pretty
 banner-image: "/uploads/banner.jpg"
-banner-title-line-1: We&#8217;re Going
-banner-title-line-2: to PAX
-banner-subtitle: Here's a little something about what’s happening.
+banner-title-line-1: Welcome
+banner-title-line-2: to the new F13 site!
+banner-subtitle: See what we're working on, patch notes, future content and more.
 upcoming-row-1-title: AUGUST
 upcoming-row-2-title: SEPTEMBER
 upcoming-row-3-title: OCTOBER
