@@ -9,3 +9,4 @@ main-image: "/uploads/new-jason.jpg"
 two-images: "/uploads/new-jason.jpg"
 ---
 
+More information on this Jason will be available once announced. Come back soon for more details!
