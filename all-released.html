@@ -24,7 +24,7 @@ layout: released
             <div class="released-post cf" style="padding-bottom:40px;">
                     <div class="row">
     
-                        {% assign documents = site.documents | where: 'released', true | sort: 'date' | reverse %}
+                        {% assign documents = site.documents | where: 'released', true | sort: 'released-date' | reverse %}
 
 					    {% for document in documents %}
                         
