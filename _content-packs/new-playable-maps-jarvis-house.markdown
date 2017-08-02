@@ -7,6 +7,7 @@ categories:
 subtitle: Revisit Higgins, Packanack and Crystal Lake
 release-date: 2017-08-31 00:00:00 -04:00
 main-image: "/uploads/map-pack-featured.jpg"
+two-images: "/uploads/map-pack-one-third.jpg"
 three-images: "/uploads/map-pack-one-third.jpg"
 featured-image: "/uploads/map-pack-featured.jpg"
 ---
