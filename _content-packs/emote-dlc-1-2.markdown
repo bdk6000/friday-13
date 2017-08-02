@@ -7,10 +7,11 @@ categories:
 subtitle: FREE Communication-Based Emotes
 release-date: 2017-08-31 00:00:00 -04:00
 show-day: false
-main-image: "/uploads/emotes-main.jpg"
-two-images: "/uploads/emotes-one-third.jpg"
-three-images: "/uploads/emotes-one-third.jpg"
-featured-image: "/uploads/emotes-main.jpg"
+main-image: "/uploads/emote-main-faf1a7.jpg"
+one-image: "/uploads/emote-full-width-ebaaa3.jpg"
+two-images: "/uploads/emote-half-width-3074fb.jpg"
+three-images: "/uploads/emote-one-third-34de25.jpg"
+featured-image: "/uploads/emote-featured-b2635e.jpg"
 released: false
 ---
 
