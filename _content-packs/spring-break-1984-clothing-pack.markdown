@@ -1,9 +1,7 @@
 ---
 title: Spring Break 1984 Clothing Pack
 date: 2017-07-31 20:58:00 -04:00
-categories:
-- Featured Box 1
-- Upcoming Row 1
+published: false
 subtitle: Bikinis, Trunks, and Gore!
 release-date: 2017-07-31 20:58:00 -04:00
 main-image: "/uploads/spring-break-featured.jpg"
