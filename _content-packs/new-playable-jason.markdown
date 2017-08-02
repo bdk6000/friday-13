@@ -8,6 +8,7 @@ subtitle: With Unique Kills
 release-date: 2017-07-31 20:58:00 -04:00
 main-image: "/uploads/new-jason.jpg"
 two-images: "/uploads/new-jason.jpg"
+three-images: "/uploads/new-jason.jpg"
 featured-image: "/uploads/new-jason.jpg"
 ---
 
