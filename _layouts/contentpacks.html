@@ -28,7 +28,7 @@ layout: contentpacks
                         <div class="fix-area">
                             <div class="fix-description alert-description contentpgbox">
                             	<h2>{{ page.title }}</h2>
-                            	<h3>{% assign isreleased = page.released %}{% assign showdaynum = page.show-day %}{% unless isreleased == true %}{{ page.date | date: "%-m.%-d.%y" }}{% endunless %}{% if isreleased !== true %}{{ page.release-date | date: "%B" }}{% unless showdaynum == true %}{{ page.release-date | date: "%-d" }}{% endunless %}{% endunless %}</h3>
+                            	<h3>{% assign isreleased = page.released %}{% assign showdaynum = page.show-day %}{% unless isreleased == true %}{{ page.date | date: "%-m.%-d.%y" }}{% endunless %}{% if isreleased !== true %}{{ page.release-date | date: "%B" }}{% unless showdaynum == true %}{{ page.release-date | date: "%-d" }}{% endunless %}{% endif %}</h3>
                             	
                             	<img src="{{ page.main-image }}" alt="{{ page.title }}" />
                             	{{ content }}
