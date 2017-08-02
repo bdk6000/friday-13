@@ -10,6 +10,7 @@ one-image: "/uploads/map-full-width.jpg"
 two-images: "/uploads/map-half-width.jpg"
 three-images: "/uploads/map-one-third.jpg"
 featured-image: "/uploads/map-featured.jpg"
+locked: true
 ---
 
 A new playable map ripped straight from the films. Stay tuned to see the reveal of this new map. FREE DLC!
