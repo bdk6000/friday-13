@@ -6,7 +6,7 @@ categories:
 - Featured Box 2
 subtitle: Gestures, dances, and emotes
 release-date: 2017-08-14 20:00:00 -04:00
-main-image: "/uploads/block2.jpg"
-three-images: "/uploads/block2.jpg"
+main-image: "/uploads/emotes-main.jpg"
+three-images: "/uploads/emotes-one-third.jpg"
 ---
 
