@@ -2,6 +2,9 @@
 title: Friday the 13th The Game
 timezone: America/New_York
 collections:
+  content-packs:
+    title: Content Packs
+    output: true
   posts:
     title: Posts
     output: true
