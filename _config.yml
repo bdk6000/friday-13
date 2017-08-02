@@ -52,6 +52,7 @@ defaults:
     two-images: ''
     three-images: ''
     featured-image: ''
+    locked: 'false'
     released: 'false'
 permalink: pretty
 banner-image: "/uploads/FRI-01-Jason-RainV2.jpg"
