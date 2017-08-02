@@ -24,7 +24,7 @@ layout: home
                     <div class="post-img" style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{ post.featured-image }});">
                     </div>
                     <div class="post-text">
-                        <span>{{ post.release-date | date: "%b" }} {% assign showdaynum = post.show-day %}{% if showdaynum == true %}{{ post.release-date | date: "%-d" }}{% endif %}</span>
+                        <span>{{ post.release-date | date: "%b" }} {% assign showdaynum1 = post.show-day %}{% if showdaynum1 == true %}{{ post.release-date | date: "%-d" }}{% endif %}</span>
                         <h3>{{ post.title }}</h3>
                     </div>
 	            </div>
@@ -39,7 +39,7 @@ layout: home
                     <div class="post-img" style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{ post.featured-image }});">
                     </div>
                     <div class="post-text">
-                        <span>{{ post.release-date | date: "%b" }} {% if showdaynum == true %}{{ post.release-date | date: "%-d" }}{% endif %}</span>
+                        <span>{{ post.release-date | date: "%b" }} {% assign showdaynum2 = post.show-day %}{% if showdaynum2 == true %}{{ post.release-date | date: "%-d" }}{% endif %}</span>
                         <h3>{{ post.title }}</h3>
                     </div>
 		    </div>
@@ -53,7 +53,7 @@ layout: home
                     <div class="post-img" style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{ post.featured-image }});">
                     </div>
                     <div class="post-text">
-                        <span>{{ post.release-date | date: "%b" }} {% if showdaynum == true %}{{ post.release-date | date: "%-d" }}{% endif %}</span>
+                        <span>{{ post.release-date | date: "%b" }} {% assign showdaynum3 = post.show-day %}{% if showdaynum3 == true %}{{ post.release-date | date: "%-d" }}{% endif %}</span>
                         <h3>{{ post.title }}</h3>
                     </div>
 		    </div>
