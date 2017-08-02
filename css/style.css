@@ -916,6 +916,11 @@ body.menu-open #header {
     bottom: 18px;
     left: 15px;
 }
+.upcoming-post .overlay-locked {
+    position: absolute;
+    bottom: 20px;
+    right: 15px;
+}
 .upcoming-post .overlay-desc h3 {
     font-size: 18px;
     color: #FFF;
