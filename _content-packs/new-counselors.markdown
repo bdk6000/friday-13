@@ -3,6 +3,7 @@ title: New Counselors
 date: 2017-08-02 15:38:00 -04:00
 categories:
 - Upcoming Row 2
+subtitle: Two New Victims...err Characters
 release-date: 2017-09-30 00:00:00 -04:00
 three-images: "/uploads/clothing-pack-main.jpg"
 ---
