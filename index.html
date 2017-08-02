@@ -17,47 +17,47 @@ layout: home
         <!-- Featured Starts Here -->
         <div class="post-section cf">
             <div class="col col-4 no-padding">
-                <div class="post-area firstbox" style="border-left:0px;" onclick="window.location.href = '{{site.baseurl}}{{post.url}}';">
-                    
+                
                     {% assign fbox1 = site.content-packs | where:"categories","Featured Box 1" | sort: 'release-date' | reverse %}
-					{% for post in fbox1 limit:1 %}
+		    {% for post in fbox1 limit:1 %}
+		    <div class="post-area firstbox" style="border-left:0px;" onclick="window.location.href = '{{site.baseurl}}{{post.url}}';">
                     <div class="post-img" style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{ post.featured-image }});">
                     </div>
                     <div class="post-text">
                         <span>{{ post.release-date | date: "%b %-d" }}</span>
                         <h3>{{ post.title }}</h3>
                     </div>
+	            </div>
                     {% endfor %}
-                    
-                </div>
+                   
             </div>
             <div class="col col-4 no-padding">
-                <div class="post-area middlebox" onclick="window.location.href = '{{site.baseurl}}{{post.url}}';">
-                    
+                
                     {% assign fbox2 = site.content-packs | where:"categories","Featured Box 2" | sort: 'release-date' | reverse %}
-					{% for post in fbox2 limit:1 %}
+		    {% for post in fbox2 limit:1 %}
+		    <div class="post-area middlebox" onclick="window.location.href = '{{site.baseurl}}{{post.url}}';">
                     <div class="post-img" style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{ post.featured-image }});">
                     </div>
                     <div class="post-text">
                         <span>{{ post.release-date | date: "%b %-d" }}</span>
                         <h3>{{ post.title }}</h3>
                     </div>
+		    </div>
                     {% endfor %}
-                    
-                </div>
+                
             </div>
             <div class="col col-4 no-padding">
-                <div class="post-area lastbox" style="border-right:0px;" onclick="window.location.href = '{{site.baseurl}}{{post.url}}';">
                     {% assign fbox3 = site.content-packs | where:"categories","Featured Box 3" | sort: 'release-date' | reverse %}
-					{% for post in fbox3 limit:1 %}
+		    {% for post in fbox3 limit:1 %}
+		    <div class="post-area lastbox" style="border-right:0px;" onclick="window.location.href = '{{site.baseurl}}{{post.url}}';">
                     <div class="post-img" style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{ post.featured-image }});">
                     </div>
                     <div class="post-text">
                         <span>{{ post.release-date | date: "%b %-d" }}</span>
                         <h3>{{ post.title }}</h3>
                     </div>
+		    </div>
                     {% endfor %}
-            </div>
         </div>
         </div>
         <!-- Featured Ends Here -->
