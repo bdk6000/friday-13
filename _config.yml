@@ -33,20 +33,22 @@ defaults:
   values:
     layout: page
 - scope:
+    path: ''
     type: released-patches
   values:
-    released: "true"
-    layout: "patchnotes"
-    release-date: ""
+    released: 'true'
+    layout: patchnotes
+    release-date: ''
 - scope:
+    path: ''
     type: content-packs
   values:
-    layout: "contentpacks"
-    subtitle: ""
-    release-date: ""
-    one-image: ""
-    two-images: ""
-    three-images: ""
-    featured-image: ""
-    released: "false"
+    layout: contentpacks
+    subtitle: ''
+    release-date: ''
+    one-image: ''
+    two-images: ''
+    three-images: ''
+    featured-image: ''
+    released: 'false'
 permalink: pretty
