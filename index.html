@@ -17,7 +17,7 @@ layout: home
         <!-- Featured Starts Here -->
         <div class="post-section cf">
             <div class="col col-4 no-padding">
-                <div class="post-area firstbox" style="border-left:0px;">
+                <div class="post-area firstbox" style="border-left:0px;" onclick="window.location.href = '{{site.baseurl}}{{post.url}}';">
                     
                     {% assign fbox1 = site.content-packs | where:"categories","Featured Box 1" | sort: 'release-date' | reverse %}
 					{% for post in fbox1 limit:1 %}
@@ -32,7 +32,7 @@ layout: home
                 </div>
             </div>
             <div class="col col-4 no-padding">
-                <div class="post-area middlebox">
+                <div class="post-area middlebox" onclick="window.location.href = '{{site.baseurl}}{{post.url}}';">
                     
                     {% assign fbox2 = site.content-packs | where:"categories","Featured Box 2" | sort: 'release-date' | reverse %}
 					{% for post in fbox2 limit:1 %}
@@ -47,7 +47,7 @@ layout: home
                 </div>
             </div>
             <div class="col col-4 no-padding">
-                <div class="post-area lastbox" style="border-right:0px;">
+                <div class="post-area lastbox" style="border-right:0px;" onclick="window.location.href = '{{site.baseurl}}{{post.url}}';">
                     {% assign fbox3 = site.content-packs | where:"categories","Featured Box 3" | sort: 'release-date' | reverse %}
 					{% for post in fbox3 limit:1 %}
                     <div class="post-img" style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{ post.featured-image }});">
@@ -152,7 +152,7 @@ layout: home
                             {% assign upcomingrow1 = site.content-packs | where:"categories","Upcoming Row 1" | sort: 'release-date' | reverse %}
 							{% for post in upcomingrow1 limit:3 %}
 							<div class="col {% if forloop.length == 1 %}col-1{% endif %}{% if forloop.length == 2 %}col-2{% endif %}{% if forloop.length == 3 %}col-4{% endif %}">
-                                <div class="upcoming-post" {% if forloop.length == 1 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.one-image}});"{% endif %}{% if forloop.length == 2 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.two-images}});"{% endif %}{% if forloop.length == 3 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.three-images}});"{% endif %}>
+                                <div class="upcoming-post" onclick="window.location.href = '{{site.baseurl}}{{post.url}}';" {% if forloop.length == 1 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.one-image}});"{% endif %}{% if forloop.length == 2 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.two-images}});"{% endif %}{% if forloop.length == 3 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.three-images}});"{% endif %}>
                                     <div class="overlay">
                                         <div class="overlay-desc">
                                             <h3><a href="#">{{ post.title }}</a></h3>
@@ -173,7 +173,7 @@ layout: home
                             {% assign upcomingrow2 = site.content-packs | where:"categories","Upcoming Row 2" | sort: 'release-date' | reverse %}
 							{% for post in upcomingrow2 limit:3 %}
 							<div class="col {% if forloop.length == 1 %}col-1{% endif %}{% if forloop.length == 2 %}col-2{% endif %}{% if forloop.length == 3 %}col-4{% endif %}">
-                                <div class="upcoming-post" {% if forloop.length == 1 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.one-image}});"{% endif %}{% if forloop.length == 2 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.two-images}});"{% endif %}{% if forloop.length == 3 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.three-images}});"{% endif %}>
+                                <div class="upcoming-post" onclick="window.location.href = '{{site.baseurl}}{{post.url}}';" {% if forloop.length == 1 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.one-image}});"{% endif %}{% if forloop.length == 2 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.two-images}});"{% endif %}{% if forloop.length == 3 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.three-images}});"{% endif %}>
                                     <div class="overlay">
                                         <div class="overlay-desc">
                                             <h3><a href="#">{{ post.title }}</a></h3>
@@ -193,7 +193,7 @@ layout: home
                             {% assign upcomingrow3 = site.content-packs | where:"categories","Upcoming Row 3" | sort: 'release-date' | reverse %}
 							{% for post in upcomingrow3 limit:3 %}
 							<div class="col {% if forloop.length == 1 %}col-1{% endif %}{% if forloop.length == 2 %}col-2{% endif %}{% if forloop.length == 3 %}col-4{% endif %}">
-                                <div class="upcoming-post" {% if forloop.length == 1 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.one-image}});"{% endif %}{% if forloop.length == 2 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.two-images}});"{% endif %}{% if forloop.length == 3 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.three-images}});"{% endif %}>
+                                <div class="upcoming-post" onclick="window.location.href = '{{site.baseurl}}{{post.url}}';" {% if forloop.length == 1 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.one-image}});"{% endif %}{% if forloop.length == 2 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.two-images}});"{% endif %}{% if forloop.length == 3 %}style="background-image:linear-gradient(transparent, transparent, #000000), url({{site.baseurl}}{{post.three-images}});"{% endif %}>
                                     <div class="overlay">
                                         <div class="overlay-desc">
                                             <h3><a href="#">{{ post.title }}</a></h3>
