@@ -2,7 +2,7 @@
 title: Patch Notes
 date: 2017-06-05 22:15:00 -04:00
 categories:
-- PC
+- STEAM
 release-date: 2017-06-28 22:15:00 -04:00
 ---
 
