@@ -701,6 +701,26 @@ body.menu-open #header {
 	line-height:30px;
 }
 
+.banner .bannerlink {
+	font-size:24px;
+	color: #EFEFE3;
+	margin-left:10px;
+	padding-top:5px;
+	padding-right:15px;
+	line-height:30px;
+}
+
+.banner .bannerlink a {
+	color: #EFEFE3;
+}
+
+.banner .bannerlink:after {
+	content:'\25BA';
+	margin-left: 10px;
+	font-size:24px;
+	color: #EFEFE3;
+}
+
 /* Banner Ends Here */
 
 /* Featured Starts Here */
