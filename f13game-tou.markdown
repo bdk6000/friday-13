@@ -34,7 +34,7 @@ THE SITE AND THE GAME ARE NOT DIRECTED AT CHILDREN UNDER 13 YEARS OF AGE, NOR DO
 **E. Suspension/Termination.**
 
 1. **By GMH.** GMH RESERVES THE RIGHT TO SUSPEND, TERMINATE, MODIFY OR DELETE YOUR ACCESS TO THE GAME OR YOUR ACCOUNT AT ANY TIME FOR ANY REASON OR NO REASON, WITH OR WITHOUT NOTICE TO YOU, AND WITH NO LIABILITY OF ANY KIND TO YOU. Additionally, GMH may stop offering and/or supporting the Game at any time. For purposes of explanation and not limitation, most Account suspensions, terminations and/or deletions are the result of violation of this Agreement, the EULA, the Privacy Policy, or the Code of Conduct. Accounts or Game access terminated by GMH shall not be reinstated under any conditions whatsoever.
-2.**By You.** You may terminate your Account at any time, for any reason or no reason, by contacting GMH at forum@fearthegun.com.
+2. **By You.** You may terminate your Account at any time, for any reason or no reason, by contacting GMH at forum@fearthegun.com.
 
 #### 4. OWNERSHIP
 
