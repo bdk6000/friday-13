@@ -5,7 +5,7 @@ categories:
 - Featured Box 3
 - Upcoming Row 1
 subtitle: Bikinis, Trunks, and Gore!
-release-date: 2017-08-31 00:03:00 -04:00
+release-date: 2017-08-31 20:00:00 -04:00
 show-day: false
 main-image: "/uploads/spring-main.jpg"
 one-image: "/uploads/spring-full-width.jpg"
