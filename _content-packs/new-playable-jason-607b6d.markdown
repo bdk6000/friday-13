@@ -4,7 +4,7 @@ date: 2017-08-02 16:29:00 -04:00
 categories:
 - Upcoming Row 3
 subtitle: With unique kills
-upcoming-box-number: 3
+upcoming-box-number: 2
 release-date: 2017-10-31 00:00:00 -04:00
 main-image: "/uploads/jason-main.jpg"
 one-image: "/uploads/jason-full-width.jpg"
