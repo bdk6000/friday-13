@@ -178,7 +178,7 @@ layout: home
                     <div class="upcoming-area cf">
                     <div class="fliptext"><div class="textarea">{{ site.upcoming-row-2-title }}</div></div>
                         <div class="row">
-                            {% assign upcomingrow2 = site.content-packs | where:"categories","Upcoming Row 2" | sort: 'upcoming-box-number' | reverse %}
+                            {% assign upcomingrow2 = site.content-packs | where:"categories","Upcoming Row 2" | sort: 'upcoming-box-number' %}
 							{% for post in upcomingrow2 limit:3 %}
 							{% assign islocked5 = post.locked %}
 							<div class="col {% if forloop.length == 1 %}col-1{% endif %}{% if forloop.length == 2 %}col-2{% endif %}{% if forloop.length == 3 %}col-4{% endif %}">
@@ -200,7 +200,7 @@ layout: home
                     <div class="upcoming-area cf">
                     <div class="fliptext"><div class="textarea">{{ site.upcoming-row-3-title }}</div></div>
                         <div class="row">
-                            {% assign upcomingrow3 = site.content-packs | where:"categories","Upcoming Row 3" | sort: 'upcoming-box-number' | reverse %}
+                            {% assign upcomingrow3 = site.content-packs | where:"categories","Upcoming Row 3" | sort: 'upcoming-box-number' %}
 							{% for post in upcomingrow3 limit:3 %}
 							{% assign islocked6 = post.locked %}
 							<div class="col {% if forloop.length == 1 %}col-1{% endif %}{% if forloop.length == 2 %}col-2{% endif %}{% if forloop.length == 3 %}col-4{% endif %}">
