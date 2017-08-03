@@ -558,6 +558,10 @@
 	.footerlinks a {
 		font-size: 9px;
 	}
+	.banner .banner-text h1 {
+		font-size: 55px;
+	}
+	
 }
 
 /*---- Larger Screens ----*/
