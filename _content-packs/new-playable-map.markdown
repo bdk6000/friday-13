@@ -3,7 +3,7 @@ title: New Playable Map
 date: 2017-08-02 15:11:00 -04:00
 categories:
 - Upcoming Row 2
-subtitle: Based on one of the films
+subtitle: Based on the films
 release-date: 2017-09-30 00:00:00 -04:00
 main-image: "/uploads/map-main.jpg"
 one-image: "/uploads/map-full-width.jpg"
