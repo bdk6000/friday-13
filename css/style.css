@@ -638,6 +638,9 @@ body.menu-open #header {
     margin: 0 13px;
     color: #FAFAF7;
 }
+.desktopmenu ul li a {
+    letter-spacing: -.3px;
+}
 .main-nav ul li a:hover {
 	color: #BC0000;
 }
