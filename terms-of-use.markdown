@@ -42,7 +42,7 @@ GMH may suspend or terminate the availability of the Service and Content, in who
 
 All rights not expressly granted to you are reserved by GMH and its licensors and other third parties. No right or license may be construed, under any legal theory, by implication, estoppel, industry custom, or otherwise. Any unauthorized use of the Content or Service for any purpose is prohibited.
 
-You agree to comply with our [Codes of Conduct](/codes-of-conduct).
+You agree to comply with our [Code of Conduct](/code-of-conduct).
 
 #### USER CONTENT
 Our Service allows you to create, share, publish, and store content (collectively, “User Content”). When you do that, you retain whatever ownership rights in that User Content you had to begin with. But you grant us a license to use that User Content.
