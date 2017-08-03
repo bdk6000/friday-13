@@ -1329,4 +1329,16 @@ header.content .logo {
     	padding-bottom: 10px;
 }
 
+.contentpage ol {
+    	margin-left: 40px
+}
+.contentpage ol li {
+    	font-size: 16px;
+	color: #EFEFE3;
+	letter-spacing: 0;
+	line-height: 22px;
+	text-shadow: -1px 1px 0 rgba(0, 0, 0, 0.30);
+    	padding-bottom: 10px;
+}
+
 /* Content Page Ends Here */
