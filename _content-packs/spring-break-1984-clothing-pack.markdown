@@ -18,4 +18,7 @@ It's Spring Break at Camp Crystal Lake, and the counselors have decided to break
 
 Regular Price: $3.99
 Limited Time 50% Off Price: $1.99
+
+
+*(content and timeline subject to change) * 
        
