@@ -5,7 +5,7 @@ categories:
 - Featured Box 1
 - Upcoming Row 1
 subtitle: Communication Emotes
-release-date: 2017-08-31 19:00:00 -04:00
+release-date: 2017-08-31 17:00:00 -04:00
 show-day: false
 main-image: "/uploads/emote-main-faf1a7.jpg"
 one-image: "/uploads/emote-full-width-ebaaa3.jpg"
