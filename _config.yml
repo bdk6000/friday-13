@@ -45,7 +45,7 @@ defaults:
   values:
     layout: contentpacks
     subtitle: ''
-    upcoming-row-box-number: '1'
+    upcoming-row-box-number: ''
     release-date: ''
     show-day: 'false'
     main-image: ''
