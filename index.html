@@ -18,7 +18,7 @@ layout: home
         <!-- Featured Starts Here -->
         <div class="post-section cf">
             <div class="col col-4 no-padding">
-                    {% assign fbox1 = site.content-packs | where:"categories","Featured Box 1" | sort: 'release-date' | reverse %}
+                    {% assign fbox1 = site.content-packs | where:"categories","Featured Box 1" %}
 		    {% for post in fbox1 limit:1 %}
 		    {% assign islocked1 = post.locked %}
 		    <div class="post-area firstbox{% if islocked1 == true %} locked{% endif %}" style="border-left:0px;" {% if islocked1 != true %}onclick="window.location.href = '{{site.baseurl}}{{post.url}}';"{% endif %}>
@@ -35,7 +35,7 @@ layout: home
             </div>
             <div class="col col-4 no-padding">
                 
-                    {% assign fbox2 = site.content-packs | where:"categories","Featured Box 2" | sort: 'release-date' | reverse %}
+                    {% assign fbox2 = site.content-packs | where:"categories","Featured Box 2" %}
 		    {% for post in fbox2 limit:1 %}
 		    {% assign islocked2 = post.locked %}
 		    <div class="post-area middlebox{% if islocked2 == true %} locked{% endif %}" {% if islocked2 != true %}onclick="window.location.href = '{{site.baseurl}}{{post.url}}';"{% endif %}>
@@ -51,7 +51,7 @@ layout: home
                 
             </div>
             <div class="col col-4 no-padding">
-                    {% assign fbox3 = site.content-packs | where:"categories","Featured Box 3" | sort: 'release-date' | reverse %}
+                    {% assign fbox3 = site.content-packs | where:"categories","Featured Box 3" %}
 		    {% for post in fbox3 limit:1 %}
 		    {% assign islocked3 = post.locked %}
 		    <div class="post-area lastbox{% if islocked3 == true %} locked{% endif %}" style="{% if islocked3 == true %}opacity:1 !important;cursor:initial !important;{% endif %}border-right:0px;" {% if islocked3 != true %}onclick="window.location.href = '{{site.baseurl}}{{post.url}}';"{% endif %}>
@@ -88,7 +88,7 @@ layout: home
                                     <div class="resp-tabs-container">
                                         <div id="tab-1" class="tab-content current">
                                             <ul class="list-style">
-                                            	{% assign xboxissues = site.in-progress | where:"categories","XBOX ONE" | sort: 'release-date' | reverse %}
+                                            	{% assign xboxissues = site.in-progress | where:"categories","XBOX ONE" | sort: 'date' | reverse %}
 					   							{% for post in xboxissues limit:6 %}
                                                 <li>{{ post.title }}</li>
                                                 {% endfor %}
@@ -99,7 +99,7 @@ layout: home
                                         </div>
                                         <div id="tab-2" class="tab-content">
                                             <ul class="list-style">
-                                                {% assign ps4issues = site.in-progress | where:"categories","PS4" | sort: 'release-date' | reverse %}
+                                                {% assign ps4issues = site.in-progress | where:"categories","PS4" | sort: 'date' | reverse %}
 					   							{% for post in ps4issues limit:6 %}
                                                 <li>{{ post.title }}</li>
                                                 {% endfor %}
@@ -110,7 +110,7 @@ layout: home
                                         </div>
                                         <div id="tab-3" class="tab-content">
                                             <ul class="list-style">
-                                                {% assign steamissues = site.in-progress | where:"categories","STEAM" | sort: 'release-date' | reverse %}
+                                                {% assign steamissues = site.in-progress | where:"categories","STEAM" | sort: 'date' | reverse %}
 					   							{% for post in steamissues limit:6 %}
                                                 <li>{{ post.title }}</li>
                                                 {% endfor %}
@@ -129,7 +129,7 @@ layout: home
                             <div class="fix-description alert-description">
                                 <h3>Reported Issues</h3>
                                 <ul class="list-style" style="margin-top: -12px;">
-                                 	{% assign reportedissues = site.reported-issues | sort: 'release-date' | reverse %}
+                                 	{% assign reportedissues = site.reported-issues | sort: 'date' | reverse %}
 					   				{% for post in reportedissues limit:7 %}
                                     <li>{{ post.title }}</li>
                                     {% endfor %}
