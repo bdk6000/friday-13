@@ -5,6 +5,7 @@ categories:
 - Featured Box 2
 - Upcoming Row 1
 subtitle: Revisit Higgins, Packanack and Crystal Lake
+upcoming-box-number: 1
 release-date: 2017-08-31 18:00:00 -04:00
 show-day: false
 main-image: "/uploads/map-pack-featured.jpg"
