@@ -4,7 +4,7 @@ date: 2017-07-31 20:58:00 -04:00
 categories:
 - Featured Box 1
 - Upcoming Row 1
-subtitle: FREE Communication-Based Emotes
+subtitle: Communication Emotes
 release-date: 2017-08-31 00:00:00 -04:00
 show-day: false
 main-image: "/uploads/emote-main-faf1a7.jpg"
