@@ -4,6 +4,7 @@ date: 2017-08-02 15:38:00 -04:00
 categories:
 - Upcoming Row 2
 subtitle: Two new victims
+upcoming-box-number: 1
 release-date: 2017-09-30 00:00:00 -04:00
 main-image: "/uploads/counselors-main.jpg"
 one-image: "/uploads/counselors-full-width.jpg"
