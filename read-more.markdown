@@ -12,4 +12,4 @@ We hope you enjoy the new site and please visit our forums to start new topics o
 **Current News**
 
 ![disecting a kill.JPG](/uploads/disecting%20a%20kill.JPG)
-We're back at House of Moves in L.A. with Kane Hodder for another motion capture shoot.  We're capturing kills for new Jason's as well as additional kills for ALL Jasons in-game. Some of these kills are for singleplayer, but we are adding new ones to multiplayer as well. 
+8/3/17 We're back at House of Moves in L.A. with Kane Hodder for another motion capture shoot.  We're capturing kills for new Jason's as well as additional kills for ALL Jasons in-game. Some of these kills are for singleplayer, but we are adding new ones to multiplayer as well. 
