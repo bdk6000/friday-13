@@ -1121,10 +1121,10 @@ body.menu-open #header {
     width: 100%;
     z-index: 1;
     overflow-y: auto;
-    top: 35px !important;
+    /* top: 35px !important; */
     overflow-y: auto !important;
     color: #EFEFE3;
-    margin-top:3px;
+    margin-top:1px;
     border-bottom: 2px solid #63778D;
 }
 .sbToggle {
@@ -1138,6 +1138,7 @@ body.menu-open #header {
     line-height: 35px;
     font-size: 25px;
     border-left: 2px solid #63778D;
+    z-index: 2;
 }
 .sbToggle:after {
     content: "\f104";
