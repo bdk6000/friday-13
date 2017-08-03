@@ -13,4 +13,8 @@ three-images: "/uploads/spring-one-third.jpg"
 featured-image: "/uploads/spring-featured.jpg"
 ---
 
-It's Spring Break at Camp Crystal Lake, and the counselors have decided to break out their trunks and bikinis! That's right campers, introducing the Spring Break 1984 swimsuit clothing pack.       
+It's Spring Break at Camp Crystal Lake, and the counselors have decided to break out their trunks and bikinis! That's right campers, introducing the Spring Break 1984 swimsuit clothing pack.
+
+Regular Price: $3.99
+Limited Time 50% Off Price: $1.99
+       
