@@ -46,19 +46,16 @@ $(function() {
   });
 });
 
-function resizeHeaderOnScroll() {
-  const distanceY = window.pageYOffset || document.documentElement.scrollTop,
-  shrinkOn = 110,
-  headerEl = document.getElementById('header');
-  
-  if (distanceY > shrinkOn) {
-    headerEl.classList.add("smaller");
-  } else {
-    headerEl.classList.remove("smaller");
-  }
-}
-
-window.addEventListener('scroll', resizeHeaderOnScroll);
+$(document).on("scroll", function(){
+		if
+      ($(document).scrollTop() > 120){
+		  $("header").addClass("smaller");
+		}
+		else
+		{
+			$("header").removeClass("smaller");
+		}
+	});
 
   $("#category-selection").change(function(){
     $("#boxes").load( $(this).val() );
