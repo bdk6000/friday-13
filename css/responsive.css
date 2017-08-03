@@ -551,6 +551,17 @@
 	.bug-description .tabs li {
 		font-size: 9px;
 	}
+	.footermobile {
+		padding-left:10px !important;
+		padding-right:10px !important;
+	}
+	.footermobile {
+		padding-left:10px;
+		padding-right:10px;
+	}
+	.footerlinks a {
+		font-size: 9px;
+	}
 }
 
 /*---- Larger Screens ----*/
