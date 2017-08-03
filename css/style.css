@@ -724,6 +724,15 @@ body.menu-open #header {
     left: 40px;
     bottom: 17px;
 }
+.post-area .overlay-locked-featured {
+    position: absolute;
+    bottom: 19px;
+    right: 40px;
+    width: 16px;
+    height: 20px;
+    background-image: url(../images/lock.png);
+    background-size: 16px;
+}
 .post-area .post-text span {
     font-size: 22px;
     color: #FFFFFF;
