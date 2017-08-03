@@ -1,7 +1,7 @@
 ---
 title: Terms of Use
 date: 2017-08-02 20:20:00 -04:00
-layout: content
+layout: page
 ---
 
 Effective Date: May 24th 2017.
