@@ -1305,6 +1305,14 @@ body.menu-open #header {
 	line-height: 22px;
 	text-shadow: -1px 1px 0 rgba(0,0,0,0.30);
 }
+.contentpgbox a {
+	color: #EFEFE3;
+	text-decoration: underline;
+}
+.contentpgbox a:hover {
+	color: #EFEFE3;
+	text-decoration: none;
+}
 header.content .logo {
 	margin-top: 7px;
 }
