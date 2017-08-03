@@ -3,6 +3,7 @@ title: New Playable Jason
 date: 2017-06-30 20:58:00 -04:00
 categories:
 - Upcoming Row 2
+- Featured Box 3
 subtitle: With Unique Kills
 release-date: 2017-07-31 20:58:00 -04:00
 main-image: "/uploads/jason-main.jpg"
