@@ -19,4 +19,6 @@ Dying to talk to players, but don't have a mic? Perhaps Jason is near and you wa
 
 We're adding 8 free communication emotes along with a fancy new in-game HUD/UI. Players will be able to select emotes per counselor and assign them to our new in-game UI. Now you can wave at Jason...just before he kills you.
 
-Price: FREE!   
+Price: FREE! 
+
+*(content and timeline subject to change) * 
