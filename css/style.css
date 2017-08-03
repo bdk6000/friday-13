@@ -920,6 +920,10 @@ body.menu-open #header {
     position: absolute;
     bottom: 20px;
     right: 15px;
+    height: 16px;
+    width: 20px;
+    background-image: url(../images/lock.png);
+    background-size: 20px;
 }
 .upcoming-post .overlay-desc h3 {
     font-size: 18px;
