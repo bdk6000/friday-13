@@ -278,6 +278,9 @@
 	.bug-description .tabs li {
 		font-size: 12px;
 	}
+	.banner .banner-text h1 {
+		margin-left: 5px;
+	}
 }
 
 /*---- Mobile Landscape ----*/
