@@ -1239,6 +1239,9 @@ body.menu-open #header {
 	line-height: 15px;
 	text-shadow: -1px 1px 0 rgba(0,0,0,0.30);
 }
+.footer p sup {
+        font-size:7px;
+}
 .legalcopy {
 	margin-top:30px;
 }
