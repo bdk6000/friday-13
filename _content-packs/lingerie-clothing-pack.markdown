@@ -1,8 +1,6 @@
 ---
 title: New Clothing Pack
 date: 2017-07-31 20:58:00 -04:00
-categories:
-- Upcoming Row 1
 subtitle: Ooo, what could it be?
 release-date: 2017-08-31 00:00:00 -04:00
 show-day: false
