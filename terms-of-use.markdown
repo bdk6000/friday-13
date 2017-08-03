@@ -1,5 +1,5 @@
 ---
-title: Terms of Use
+title: Gun Media Holdings Terms of Use
 date: 2017-08-02 20:20:00 -04:00
 layout: contentpage
 ---
