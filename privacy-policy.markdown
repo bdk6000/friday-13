@@ -6,6 +6,7 @@ date: 2017-08-02 20:20:00 -04:00
 Effective Date: May 24th 2017
 
 #### INTRODUCTION
+
 This Privacy Policy describes how Gun Media Holdings, Inc. (“**GMH**,” “**we**,” “**us**” or “**our**”) collects, uses, and shares information about you and applies to your use of any online service location, including our websites, apps, and games, that posts a link to this Privacy Policy and all features, content, and other services that we own, control and make available through such online service location (collectively, the “Service”). This Privacy Policy does not apply to our information collection activities outside of the Service (unless otherwise stated below or at the time of collection) or the information collection activities of third parties, such as third party platform providers.
 
 By using the Service, you agree to our [Terms of Use](/terms-of-use) and to our collection, use and disclosure practices, and other activities as described in this Privacy Policy. If you do not agree and consent, discontinue use of the Service.
@@ -145,6 +146,7 @@ Any California residents under the age of eighteen (18) who have registered to u
 If you are a resident of Europe, including Switzerland, you have the right to ask us not to process your Personal Information (or provide it to third parties to process) for marketing purposes or purposes materially different than for which it was originally collected or subsequently authorized by you. To exercise your right, please email us [here](mailto:privacy@fearthegun.com) or send us a letter to Gun Media Holdings, Inc. ATTN:Privacy 163 East Main Street 3rd Floor, Lexington KY 40507. We will try to make the requested changes in our active databases as soon as reasonably practical.
 
 #### PRIVACY SHIELD AND INTERNATIONAL TRANSFER
+
 We are based in the U.S. and the information we and our Service Providers collect is governed by U.S. law. If you are accessing the Service from outside of the U.S., please be aware that information collected through the Service may be transferred to, processed, stored and used in the U.S. Data protection laws in the U.S. may be different from those of your country of residence. Your use of the Service or provision of any information therefore constitutes your consent to the transfer to and from, processing, usage, sharing and storage of your information, including Personal Information, in the U.S. as set forth in this Privacy Policy.
 
 GMH complies with the EU-US Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from the European Union and Switzerland to the United States, respectively. GMH has certified that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability.
@@ -156,13 +158,17 @@ In the event that you have any inquiry, dispute, or claim arising out of or rela
 To learn more about the Privacy Shield Framework, and to view GMH’s certification, please visit https://www.privacyshield.gov/.
 
 #### CHILDREN
+
 The Service is intended for a general audience and not directed to children under thirteen (13) years of age. GMH does not knowingly collect personal information as defined by the U.S. Children’s Privacy Protection Act (“COPPA”) in a manner that is not permitted by COPPA. If you are a parent or guardian and believe GMH has collected such information in a manner not permitted by COPPA, please email us [here](mailto:privacy@fearthegun.com) or send us a letter to Gun Media Holdings, Inc. ATTN:Privacy 163 East Main Street 3rd Floor, Lexington KY 40507, and we will remove such data to the extent required by COPPA.
 
 #### DATA SECURITY
+
 We take reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. Nevertheless, transmission via the internet is not completely secure and we cannot guarantee the security of your information collected through our Service.
 
 #### CHANGES TO THIS PRIVACY POLICY
+
 We reserve the right to revise and reissue this Privacy Policy at any time. Any changes will be effective immediately upon posting of the revised Privacy Policy. Your continued use of our Service indicates your consent to the Privacy Policy then posted. If the changes are material, we may provide you additional notice, to your email address.
 
 #### CONTACT US
+
 If you have any questions or comments about this policy, including our compliance with Privacy Shield, please e-mail us [here](mailto:privacy@fearthegun.com) or send us a letter to Gun Media Holdings, Inc. ATTN:Privacy 163 East Main Street 3rd Floor, Lexington KY 40507
