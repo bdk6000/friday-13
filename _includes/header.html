@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/favicon.ico">
     <title>{% if page.title != 'Home' %}{% if page.title %}{{ page.title }} | {% endif %}{% endif %}Friday the 13th the Game</title>
-    <meta name="description" content="Official website for Friday the 13th the Game. See what we're working on, read patch notes, view future content, and more." />
+    {% if page.title == 'Home' %}<meta name="description" content="Official website for Friday the 13th the Game. See what we're working on, read patch notes, view future content, and more." />{% endif %}
     <link rel="stylesheet" href="{{site.baseurl}}/css/plugin.css" />
     <link rel="stylesheet" href="{{site.baseurl}}/css/style.css" />
     <link rel="stylesheet" href="{{site.baseurl}}/css/responsive.css" />
