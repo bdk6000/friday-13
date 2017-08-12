@@ -8,11 +8,11 @@ collections:
   news:
     title: News
     output: true
+  patch-notes:
+    title: Patch Notes
+    output: true
   posts:
     title: Posts
-    output: true
-  released-patches:
-    title: Released Patches
     output: true
   reported-issues:
     title: Reported Issues
