@@ -1,8 +1,6 @@
 ---
 title: New Playable Jason
 date: 2017-06-30 20:58:00 -04:00
-categories:
-- Upcoming Row 2
 subtitle: With Unique Kills
 main-image: "/uploads/jason-main.jpg"
 ---
