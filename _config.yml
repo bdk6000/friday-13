@@ -34,7 +34,7 @@ defaults:
     layout: contentpage
 - scope:
     path: ''
-    type: released-patches
+    type: patch-notes
   values:
     layout: patchnotes
     release-date: ''
