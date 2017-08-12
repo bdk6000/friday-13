@@ -1,9 +1,6 @@
 ---
 title: Emote DLC Pack 1
 date: 2017-07-31 20:58:00 -04:00
-categories:
-- Featured Box 1
-- Upcoming Row 1
 subtitle: Communication Emotes
 main-image: "/uploads/emote-main-faf1a7.jpg"
 ---
