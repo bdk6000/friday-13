@@ -41,20 +41,12 @@ defaults:
     release-date: ''
 - scope:
     path: ''
-    type: content-packs
+    type: news
   values:
-    layout: contentpacks
+    layout: news
     subtitle: ''
-    upcoming-box-number: ''
-    release-date: ''
-    show-day: 'false'
     main-image: ''
-    one-image: ''
-    two-images: ''
-    three-images: ''
-    featured-image: ''
-    locked: 'false'
-    released: 'false'
+    hero-image: ''
 permalink: pretty
 banner-image: "/uploads/FRI-01-Jason-RainV2.jpg"
 banner-title-line-1: Dying
