@@ -37,6 +37,14 @@ defaults:
     release-date: ''
 - scope:
     path: ''
+    type: streams
+  values:
+    layout: patchnotes
+    subtitle: ''
+    thumbnail-image: ''
+    url: ''
+- scope:
+    path: ''
     type: news
   values:
     layout: news
