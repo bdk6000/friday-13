@@ -11,9 +11,6 @@ collections:
   posts:
     title: Posts
     output: true
-  reported-issues:
-    title: Reported Issues
-    output: true
   uploads:
     title: Uploads
     output: true
