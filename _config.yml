@@ -2,9 +2,6 @@
 title: Friday the 13th the Game
 timezone: America/New_York
 collections:
-  in-progress:
-    title: In Progress
-    output: true
   news:
     title: News
     output: true
