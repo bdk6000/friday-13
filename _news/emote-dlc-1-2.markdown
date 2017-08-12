@@ -5,15 +5,7 @@ categories:
 - Featured Box 1
 - Upcoming Row 1
 subtitle: Communication Emotes
-upcoming-box-number: 1
-release-date: 2017-08-31 17:00:00 -04:00
-show-day: false
 main-image: "/uploads/emote-main-faf1a7.jpg"
-one-image: "/uploads/emote-full-width-ebaaa3.jpg"
-two-images: "/uploads/emote-half-width-3074fb.jpg"
-three-images: "/uploads/emote-one-third-34de25.jpg"
-featured-image: "/uploads/emote-featured-b2635e.jpg"
-released: false
 ---
 
 Dying to talk to players, but don't have a mic? Perhaps Jason is near and you want to remain quiet, yet communicate with a nearby player? Good news... 
