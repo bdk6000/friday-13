@@ -36,7 +36,6 @@ defaults:
     path: ''
     type: released-patches
   values:
-    released: 'true'
     layout: patchnotes
     release-date: ''
 - scope:
