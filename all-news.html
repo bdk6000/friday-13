@@ -1,0 +1,47 @@
+---
+title: All News
+layout: full
+---
+
+  					<!-- News Starts Here -->
+    <div id="news"></div>
+        <div class="section sec-news">
+            <div class="container">
+            <div style="padding-top:120px;"></div>
+                <h2>News</h2>
+                
+                <div class="news-row">
+                    <div class="news-area cf">
+                        <div class="row">
+                            {% assign news = site.news | sort: 'date' | reverse %}
+							{% for post in news limit: 20 %}
+							<div class="col {% if forloop.index == 1 %}col-6{% elsif forloop.index == 2 %}col-6{% else %}col-4{% endif %}">
+                                <div class="lazy news-post {% if forloop.index == 1 %}row1size{% elsif forloop.index == 2 %}row1size{% else %}row2size{% endif %}" style="background:url({{ post.main-image }});background-size:cover;background-position:center center;" onclick="window.location.href = '{{ post.url }}';">
+                                    <div class="overlay">
+                                        <div class="overlay-desc">
+                                            <h3>{{ post.title }}</h3>
+                                            <span>{{ post.subtitle }}</span>
+                                        </div>
+                                    </div>
+								</div>                            
+                            </div>
+							{% endfor %}
+							
+							<div class="load"></div>
+							
+							
+							<div style="clear:both;"></div>
+							
+							{% for post in news %}{% if forloop.first == true %}{% if forloop.length > 20 %} 
+							<div class="buttonarea lm">
+							<a class="btn">LOAD MORE</a>
+						    </div>
+						    {% endif %}{% endif %}{% endfor %}
+							
+                        	<div style="padding-bottom:40px;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- News Ends Here -->

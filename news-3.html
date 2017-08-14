@@ -1,0 +1,38 @@
+---
+layout: ajax
+---
+
+
+                            {% assign news = site.news | sort: 'date' | reverse %}
+							{% for post in news limit:21 offset:41 %}
+							<div class="col col-4">
+                                <div class="lazy news-post row2size" style="background:url({{ post.main-image }});background-size:cover;background-position:center center;" onclick="window.location.href = '{{ post.url }}';">
+                                    <div class="overlay">
+                                        <div class="overlay-desc">
+                                            <h3>{{ post.title }}</h3>
+                                            <span>{{ post.subtitle }}</span>
+                                        </div>
+                                    </div>
+								</div>                            
+                            </div>
+							{% endfor %}
+							
+							<div class="load3"></div>
+							
+							<div style="clear:both;"></div>
+							{% for post in news %}{% if forloop.first == true %}{% if forloop.length > 62 %} 
+							
+							<div class="buttonarea lm3">
+							<a class="btn">LOAD MORE</a>
+						    </div>
+							
+							{% endif %}{% endif %}{% endfor %}
+							
+							<script>
+							$(document).ready(function () {
+							 $(".lm3").click(function(){
+        					 $('.lm3').css('display', 'none');
+        					 $(".load3").load("/news-4/index.html");
+    						 });
+      						 })
+      						 </script>

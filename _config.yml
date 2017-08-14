@@ -47,7 +47,7 @@ defaults:
     path: ''
     type: news
   values:
-    layout: news
+    layout: news-single
     subtitle: ''
     main-image: ''
     hero-image: ''
@@ -59,18 +59,43 @@ banner-subtitle: Scroll to see what we're working on, patch notes, future conten
   and more.
 banner-link-title: Read More
 banner-link-url: "/read-more"
-featured-box-1-title: 
-featured-box-1-subtitle: 
-featured-box-1-url: 
-featured-box-1-image: 
-featued-box-2-title: 
-featured-box-2-subtitle: 
-featured-box-2-url: 
-featured-box-2-image: 
-featured-box-3-title: 
-featured-box-3-subtitle: 
-featured-box-3-url: 
-featured-box-3-image: 
+featured-box-1-title: Featured Content
+featured-box-1-subtitle: Emote DLC Pack 1
+featured-box-1-url: "http://www.google.com"
+featured-box-1-image: "/uploads/featured1.jpg"
+featured-box-2-title: Streamer of the Week
+featured-box-2-subtitle: Swag_Dracula
+featured-box-2-url: "http://www.google.com"
+featured-box-2-image: "/uploads/featured2.jpg"
+featured-box-3-title: Spring Break '84 Clothing Pack
+featured-box-3-subtitle: Righteous threads
+featured-box-3-url: "http://www.google.com"
+featured-box-3-image: "/uploads/featured3.jpg"
+stream-1-title: "Bikini Stream <3 #NOTCLICKBAIT More text more"
+stream-1-subtitle: SattelizerGames
+stream-1-url: "http://www.twitch.com"
+stream-1-image: "/uploads/stream1.jpg"
+stream-2-title: "40% Smaller Maps = $40 Game More Text More"
+stream-2-subtitle: Avajaijai
+stream-2-url: "http://www.twitch.com"
+stream-2-image: "/uploads/stream2.jpg"
+stream-3-title: "40% Smaller Maps = $40 Game More Text More"
+stream-3-subtitle: Avajaijai
+stream-3-url: "http://www.twitch.com"
+stream-3-image: "/uploads/stream2.jpg"
+stream-4-title: "Bikini Stream <3 #NOTCLICKBAIT More text more"
+stream-4-subtitle: SattelizerGames
+stream-4-url: "http://www.twitch.com"
+stream-4-image: "/uploads/stream1.jpg"
+stream-5-title: "Bikini Stream <3 #NOTCLICKBAIT More text more"
+stream-5-subtitle: SattelizerGames
+stream-5-url: "http://www.twitch.com"
+stream-5-image: "/uploads/stream1.jpg"
+stream-6-title: "40% Smaller Maps = $40 Game More Text More"
+stream-6-subtitle: Avajaijai
+stream-6-url: "http://www.twitch.com"
+stream-6-image: "/uploads/stream2.jpg"
 player-highlight-title: DeFaUlT_AnOn
-player-highlight-icon-image: 
-player-highlight-image: 
+player-highlight-url: "http://www.twitch.com"
+player-highlight-icon-image: "/uploads/player-icon.png"
+player-highlight-image: "/uploads/player-highlight.jpg"

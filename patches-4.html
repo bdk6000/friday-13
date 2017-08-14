@@ -1,0 +1,45 @@
+---
+layout: ajax
+---
+
+
+                        {% assign patches = site.patch-notes  %}
+					    {% for post in patches limit: 21 offset: 63 %}
+                        
+                        <div class="col-4 col">
+                            <div class="post-block" onclick="window.location.href = '{{post.url}}';">
+                                <div class="block-area">
+									<div class="block-img patch"></div>
+                                </div>
+                                <div class="block-overlay">
+                                    <div class="category">{{ post.release-date | date: "%-m.%-d.%y" }}</div>
+									<div class="patch-title">Patch Notes</div>
+                                </div>
+                            </div>
+                        </div>
+                      
+                        {% endfor %}
+                        
+                        <div class="loadpatch4"></div>
+                            
+    					<div style="clear:both;"></div>
+						</div>
+						<div class="buttonarea">
+							{% for post in patches %}{% if forloop.first == true %}{% if forloop.length > 84 %} <a class="btn lmpatch4" style="margin-right:12px;">LOAD MORE</a>{% endif %}{% endif %}{% endfor %}<a href="http://d2yhw7p33al0zz.cloudfront.net" target="_blank" title="REPORT BUG" class="btn">REPORT BUG</a>
+						</div>
+						<div style="padding-bottom:40px;"></div>
+                    </div>
+                </div>
+              </div>
+        </div>
+    <!-- Patches Ends Here -->
+    
+    
+    						<script>
+							$(document).ready(function () {
+							 $(".lmpatch4").click(function(){
+        					 $('.buttonarea').css('display', 'none');
+        					 $(".loadpatch4").load("/patches-5/index.html");
+    						 });
+      						 })
+      						 </script>

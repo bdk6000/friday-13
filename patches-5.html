@@ -1,0 +1,33 @@
+---
+layout: ajax
+---
+
+
+                        {% assign patches = site.patch-notes  %}
+					    {% for post in patches limit: 21 offset: 84 %}
+                        
+                        <div class="col-4 col">
+                            <div class="post-block" onclick="window.location.href = '{{post.url}}';">
+                                <div class="block-area">
+									<div class="block-img patch"></div>
+                                </div>
+                                <div class="block-overlay">
+                                    <div class="category">{{ post.release-date | date: "%-m.%-d.%y" }}</div>
+									<div class="patch-title">Patch Notes</div>
+                                </div>
+                            </div>
+                        </div>
+                      
+                        {% endfor %}
+                            
+    					<div style="clear:both;"></div>
+						</div>
+						<div class="buttonarea">
+							<a href="http://d2yhw7p33al0zz.cloudfront.net" target="_blank" title="REPORT BUG" class="btn">REPORT BUG</a>
+						</div>
+						<div style="padding-bottom:40px;"></div>
+                    </div>
+                </div>
+              </div>
+        </div>
+    <!-- Patches Ends Here -->

@@ -18,24 +18,26 @@ layout: patchnotes
             </div>
         </header>
         <!-- Header Ends Here -->
+        
+    
+     	<!-- Banner Starts Here -->
+        <div class="bannersub" style="background-image: url(/uploads/patch-hero.jpg) !important;">
+        </div>
+        <!-- Banner Ends Here -->
+  
+		
 
-
-<!-- Content Starts Here -->
-        <div class="section sec-fix contentpg" id="fix">
-            <div class="container cf">
-                <div class="row" style="margin:0 auto;">
-                    <div class="col-1 col contentpgcol">
-                            <div class="contentpgbox contentpage">
-                            	<h2>{{ page.categories }} {{ page.title }}</h2>
-                            	<h3>{{ page.release-date | date: "%-m.%-d.%y" }}</h3>
-                            	{{ content }}
-                            </div>
-                    </div>
-                </div>
+		<!-- Content Starts Here -->
+			
+		<div class="contentpg">
+			<div class="container">
+				<h1>{{ page.title }}<br />{{ page.release-date | date: "%-m.%-d.%y" }}</h1>
+            	<div class="contentarea">{{ content }}</div>
             </div>
         </div>
+
         <!-- Content Ends Here -->
         
-        <div class="preload"><img src="{{site.baseurl}}/images/menu-overlay.jpg" alt="" /></div>
-        
+        <div class="preload"><img src="/images/menu-overlay.jpg" alt="" /></div>
+        							
     {% include footer.html %}
