@@ -2,7 +2,8 @@
 title: Emote DLC Pack 1
 date: 2017-07-31 20:58:00 -04:00
 subtitle: Communication Emotes
-main-image: "/uploads/emote-main-faf1a7.jpg"
+main-image: "/uploads/new_emotes-main.jpg"
+hero-image: "/uploads/new_emotes-hero.jpg"
 ---
 
 Dying to talk to players, but don't have a mic? Perhaps Jason is near and you want to remain quiet, yet communicate with a nearby player? Good news... 
