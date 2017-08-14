@@ -2120,7 +2120,8 @@ header.content .logo {
 		padding-right: 8px !important;
 	}
 	.bannersub {
-    		height: 250px !important;
+    		height: 350px !important;
+		background-position: top right;
 	}
 	.contentpg h1 {
 		font-size: 42px;
