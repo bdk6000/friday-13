@@ -2051,8 +2051,13 @@ header.content .logo {
 		padding-right: 8px !important;
 	}
 	.bannersub {
-    	height: 250px !important;
+    		height: 250px !important;
 	}
+	.contentpg h1 {
+		font-size: 42px;
+		line-height: 45px;
+	}
+		
 }
 
 @media (max-width: 480px) {
