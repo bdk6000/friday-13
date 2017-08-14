@@ -1591,6 +1591,9 @@ header.content .logo {
 .contentpg .contentarea ul, ol {
 	margin-left: 50px; 
 }
+.contentpg .contentarea img {
+	padding-bottom: 25px; 
+}
 
 /* Content Page Ends Here */
 
