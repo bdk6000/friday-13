@@ -22,6 +22,12 @@ $(".lm").click(function(){
         $('.buttonarea').css('display', 'none');
         $(".loadpatch").load("/patches-2/index.html");
     });
+	
+	/* hide mobile menu on link click */
+	 $('.main-nav a').click(function () {
+            $("body").removeClass("menu-open");
+            $(".menu-icon").removeClass("active");
+        })
 
         /* scroll on header menu*/
     $('#header a[href*=#]:not([href=#])').click(function () {
