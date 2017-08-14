@@ -1025,6 +1025,7 @@ body.menu-open #header {
 	color: #63778D;
 	font-weight: 700;
 	float: right;
+	padding-bottom: 10px;
 }
 .viewall:hover {
 	color: #EE2E24;
