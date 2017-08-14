@@ -1588,7 +1588,7 @@ header.content .logo {
 	line-height: 30px;
 	text-shadow: -1px 1px 0 rgba(0,0,0,0.30);
 }
-.contentpg .contentarea ul {
+.contentpg .contentarea ul, ol {
 	margin-left: 50px; 
 }
 
