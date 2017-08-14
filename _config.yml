@@ -26,6 +26,7 @@ defaults:
     type: pages
   values:
     layout: contentpage
+    hero-image: ''
 - scope:
     path: ''
     type: patch-notes
@@ -34,17 +35,9 @@ defaults:
     release-date: ''
 - scope:
     path: ''
-    type: streams
-  values:
-    layout: patchnotes
-    subtitle: ''
-    thumbnail-image: ''
-    url: ''
-- scope:
-    path: ''
     type: news
   values:
-    layout: news-single
+    layout: contentpage
     subtitle: ''
     main-image: ''
     hero-image: ''
