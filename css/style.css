@@ -919,6 +919,20 @@ body.menu-open #header {
     background-repeat: repeat;
     padding: 38px 0 42px;
 }
+.sec-patches .btn {
+    font-weight: 800;
+	letter-spacing: -.2px;
+	font-size: 15px;
+	padding: 18px 30px 18px 30px;
+	margin-top: 10px;
+	border: 1px solid #EFEFEF;
+	background-color: transparent;
+	cursor: pointer;
+}
+.sec-patches .btn:hover {
+	background-color: #BC0000;
+	border: 1px solid #BC0000;
+}
 .fix-area .fix-icon {
     margin-bottom: 50px;
 }
@@ -937,20 +951,6 @@ body.menu-open #header {
 }
 .buttonarea {
 	text-align: center;
-}
-.sec-patches .btn {
-    font-weight: 800;
-	letter-spacing: -.2px;
-	font-size: 15px;
-	padding: 18px 30px 18px 30px;
-	margin-top: 10px;
-	border: 1px solid #EFEFEF;
-	background-color: transparent;
-	cursor: pointer;
-}
-.sec-patches .btn:hover {
-	background-color: #BC0000;
-	border: 1px solid #BC0000;
 }
 .bug-description .tabs {
     text-align: left;
@@ -1598,6 +1598,65 @@ header.content .logo {
 	padding-bottom: 25px; 
 }
 
+.sec-buy {
+    background-image: url(../images/fix-bg.gif);
+    background-repeat: repeat;
+    padding: 58px 0 62px;
+}
+.sec-buy .btn {
+    font-weight: 800;
+	letter-spacing: -.2px;
+	font-size: 15px;
+	padding: 18px 30px 18px 30px;
+	margin-top: 10px;
+	border: 1px solid #EFEFEF;
+	background-color: transparent;
+	cursor: pointer;
+}
+.sec-buy .btn:hover {
+	background-color: #BC0000;
+	border: 1px solid #BC0000;
+}
+
+#buy-game-header {
+	font-weight: 800;
+	font-size: 80px;
+	color: #EFEFE3;
+	letter-spacing: -3.01px;
+	line-height: 115px;
+	text-shadow: -1px 1px 0 rgba(0,0,0,0.30);
+	position: absolute;
+	text-align: center;
+	width: 100%;
+	bottom: 70px;
+}
+
+.buycontain {
+	width: 163px;
+	margin: 0 auto;
+}
+
+.buylogo {
+	height: 165px;
+	vertical-align: bottom;
+	display: table-cell;
+	width: 100%;
+	text-align: center;
+}
+
+.buycontain .btn {
+	margin-top: 63px;
+	margin-bottom: 75px;
+}
+
+.buycol1 {
+	border-right: 2px solid #262F3A;
+}
+
+.buycol2 {
+	border-right: 2px solid #262F3A;
+}
+
 /* Content Page Ends Here */
 
 
@@ -1918,6 +1977,12 @@ header.content .logo {
 		padding-left: 30px;
 		padding-right: 30px;
 	}
+	#buy-game-header {
+		font-size: 50px;
+		letter-spacing: -2.01px;
+		line-height: 115px;
+		bottom: 50px;
+	}
 }
 
 /*---- Mobile Landscape ----*/
@@ -2060,7 +2125,19 @@ header.content .logo {
 		font-size: 42px;
 		line-height: 45px;
 	}
-		
+	#buy-game-header {
+		font-size: 35px;
+		letter-spacing: -1.5px;
+		line-height: 115px;
+		bottom: 10px;
+	}
+	.buycol1 .btn {
+		margin-bottom:0px !important;
+	}
+	.buycol1, .buycol2 {
+		margin-bottom:0px !important;
+		border: none;
+	}
 }
 
 @media (max-width: 480px) {
@@ -2151,6 +2228,12 @@ header.content .logo {
     .post-area .post-text h3 {
         padding-right: 10px;
     }
+    #buy-game-header {
+		font-size: 30px;
+		letter-spacing: -1.5px;
+		line-height: 115px;
+		bottom: 10px;
+	}
 }
 
 /*---- iPhone 5 ----*/
@@ -2206,6 +2289,12 @@ header.content .logo {
 	}
 	.banner .banner-text h1 {
 		font-size: 55px;
+	}
+	#buy-game-header {
+		font-size: 25px;
+		letter-spacing: -1.5px;
+		line-height: 115px;
+		bottom: 10px;
 	}
 	
 }
