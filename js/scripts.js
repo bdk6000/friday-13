@@ -57,7 +57,3 @@ $(function() {
       			$('body').removeClass('fade-out');
 			}
 	});
-	
-$(function() {
-        $('.lazy').Lazy();
-    });
