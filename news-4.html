@@ -2,7 +2,6 @@
 layout: ajax
 ---
 
-
                             {% assign news = site.news | sort: 'date' | reverse %}
 							{% for post in news limit:21 offset:61 %}
 							<div class="col col-4">
