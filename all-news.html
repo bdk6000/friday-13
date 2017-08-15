@@ -16,7 +16,7 @@ layout: full
                             {% assign news = site.news | sort: 'date' | reverse %}
 							{% for post in news limit: 20 %}
 							<div class="col {% if forloop.index == 1 %}col-6{% elsif forloop.index == 2 %}col-6{% else %}col-4{% endif %}">
-                                <div class="lazy news-post {% if forloop.index == 1 %}row1size{% elsif forloop.index == 2 %}row1size{% else %}row2size{% endif %}" style="background:url({{ post.main-image }});background-size:cover;background-position:center center;" onclick="window.location.href = '{{ post.url }}';">
+                                <div class="lazy news-post {% if forloop.index == 1 %}row1size{% elsif forloop.index == 2 %}row1size{% else %}row2size{% endif %}" style="background-image: linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{ post.main-image }});background-size:cover;background-position:center center;" onclick="window.location.href = '{{ post.url }}';">
                                     <div class="overlay">
                                         <div class="overlay-desc">
                                             <h3>{{ post.title }}</h3>
