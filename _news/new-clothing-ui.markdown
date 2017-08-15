@@ -9,3 +9,7 @@ hero-image: "/uploads/F13_Menu_Counselor_ClothesUpdate06_a.jpg"
 Lorem Ipsum
 
 ![F13_Menu_Counselor_ClothesUpdate06_a.jpg](/uploads/F13_Menu_Counselor_ClothesUpdate06_a.jpg)
+
+![F13_Menu_Counselor_ClothesUpdate06_b.jpg](/uploads/F13_Menu_Counselor_ClothesUpdate06_b.jpg)
+
+![F13_Menu_Counselor_ClothesUpdate06_c.jpg](/uploads/F13_Menu_Counselor_ClothesUpdate06_c.jpg)
