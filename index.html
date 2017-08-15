@@ -19,7 +19,7 @@ layout: home
         <div class="post-section cf">
             
             <div class="col col-4 no-padding">
-		    <div class="post-area firstbox" {% assign win1 = site.new-window-1 %}{% if win1 == 'true' %}onclick="window.open.href = '{{ site.featured-box-1-url }}';"{% else %}onclick="window.location.href = '{{ site.featured-box-1-url }}';"{% endif %}>
+		    <div class="post-area firstbox" {% assign win1 = site.new-window-1 %}{% if win1 == true %}onclick="window.open.href = '{{ site.featured-box-1-url }}';"{% else %}onclick="window.location.href = '{{ site.featured-box-1-url }}';"{% endif %}>
                     <div class="post-img"></div>
                     <div class="post-text">
                         <span>{{ site.featured-box-1-title }}</span>
@@ -29,7 +29,7 @@ layout: home
             </div>
             
             <div class="col col-4 no-padding">
-		    <div class="post-area middlebox" {% assign win2 = site.new-window-2 %}{% if win2 == 'true' %}onclick="window.open.href = '{{ site.featured-box-2-url }}';"{% else %}onclick="window.location.href = '{{ site.featured-box-2-url }}';"{% endif %}>
+		    <div class="post-area middlebox" {% assign win2 = site.new-window-2 %}{% if win2 == true %}onclick="window.open.href = '{{ site.featured-box-2-url }}';"{% else %}onclick="window.location.href = '{{ site.featured-box-2-url }}';"{% endif %}>
                     <div class="post-img"></div>
                     <div class="post-text">
                         <span>{{ site.featured-box-2-title }}</span>
@@ -39,7 +39,7 @@ layout: home
             </div>
             
             <div class="col col-4 no-padding">
-		    <div class="post-area lastbox" {% assign win3 = site.new-window-3 %}{% if win3 == 'true' %}onclick="window.open.href = '{{ site.featured-box-3-url }}';"{% else %}onclick="window.location.href = '{{ site.featured-box-3-url }}';"{% endif %}>
+		    <div class="post-area lastbox" {% assign win3 = site.new-window-3 %}{% if win3 == true %}onclick="window.open.href = '{{ site.featured-box-3-url }}';"{% else %}onclick="window.location.href = '{{ site.featured-box-3-url }}';"{% endif %}>
                     <div class="post-img"></div>
                     <div class="post-text">
                         <span>{{ site.featured-box-3-title }}</span>
