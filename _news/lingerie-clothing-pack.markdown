@@ -6,4 +6,4 @@ main-image: "/uploads/gen_clothing-main.jpg"
 hero-image: "/uploads/gen_clothing-hero.jpg"
 ---
 
-Ah, come on...Everyone likes a secret!
+Ah, come on...Everyone likes a secret! Right? 
