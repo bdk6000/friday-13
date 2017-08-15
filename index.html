@@ -19,7 +19,7 @@ layout: home
         <div class="post-section cf">
             
             <div class="col col-4 no-padding">
-		    <div class="post-area firstbox" onclick="window.location.href = '{{ site.featured-box-1-url }}';">
+		    <div class="post-area firstbox" {% if site.new-window-1 == 'true' %}onclick="window.open.href = '{{ site.featured-box-1-url }}';"{% else %}onclick="window.location.href = '{{ site.featured-box-1-url }}';"{% endif %}>
                     <div class="post-img"></div>
                     <div class="post-text">
                         <span>{{ site.featured-box-1-title }}</span>
@@ -29,7 +29,7 @@ layout: home
             </div>
             
             <div class="col col-4 no-padding">
-		    <div class="post-area middlebox" onclick="window.location.href = '{{ site.featured-box-2-url }}';">
+		    <div class="post-area middlebox" {% if site.new-window-2 == 'true' %}onclick="window.open.href = '{{ site.featured-box-2-url }}';"{% else %}onclick="window.location.href = '{{ site.featured-box-2-url }}';"{% endif %}>
                     <div class="post-img"></div>
                     <div class="post-text">
                         <span>{{ site.featured-box-2-title }}</span>
@@ -39,7 +39,7 @@ layout: home
             </div>
             
             <div class="col col-4 no-padding">
-		    <div class="post-area lastbox" onclick="window.location.href = '{{ site.featured-box-3-url }}';">
+		    <div class="post-area lastbox" {% if site.new-window-3 == 'true' %}onclick="window.open.href = '{{ site.featured-box-3-url }}';"{% else %}onclick="window.location.href = '{{ site.featured-box-3-url }}';"{% endif %}>
                     <div class="post-img"></div>
                     <div class="post-text">
                         <span>{{ site.featured-box-3-title }}</span>
