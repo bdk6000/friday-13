@@ -6,4 +6,4 @@ main-image: "/uploads/tease-featured.jpg"
 hero-image: "/uploads/tease-hero.jpg"
 ---
 
-Lorem Ipsum
+We recently posted the above image to our social channels and the internet lit up with ideas and theories as to what it means. While we're not ready to reveal any additional information about this image, here's one thing we can say; This isn't just a random image.  
