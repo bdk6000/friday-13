@@ -10,7 +10,7 @@ We recently posted the images below to our social channels and the internet lit 
 
 ![tease-main.jpg](/uploads/tease-main.jpg)
 
-![Tease2.jpg](/uploads/Tease2.jpg)
+![Tease2_main.jpg](/uploads/Tease2_main.jpg)
 
 
 Join in the discussion on the official subreddit: [Seven Black Dots and One Blue](https://www.reddit.com/r/F13thegame/comments/6tbsb9/seven_black_dots_one_blue_dot_speculation/?st=j6dya8q2&sh=9e558478) 
