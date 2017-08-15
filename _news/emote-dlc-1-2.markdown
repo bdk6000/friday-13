@@ -1,6 +1,6 @@
 ---
 title: Emote DLC Pack 1
-date: 2017-07-31 20:58:00 -04:00
+date: 2017-08-02 20:58:00 -04:00
 subtitle: Communication Emotes
 main-image: "/uploads/new_emotes-main.jpg"
 hero-image: "/uploads/new_emotes-hero.jpg"
