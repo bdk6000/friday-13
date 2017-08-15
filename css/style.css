@@ -1665,7 +1665,7 @@ header.content .logo {
 
 @media (min-width:641px) and (max-width:991px) {
     .post-area {
-    	height: 300px;
+    	height: 250px;
     	overflow: hidden;
 	}
     .post-img {
@@ -2120,7 +2120,7 @@ header.content .logo {
 		padding-right: 8px !important;
 	}
 	.bannersub {
-    		height: 250px !important;
+    		height: 300px !important;
 		background-position: top right;
 	}
 	.contentpg h1 {
