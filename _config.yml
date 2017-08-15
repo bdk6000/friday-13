@@ -57,11 +57,12 @@ featured-box-1-image: "/uploads/new_emotes-featured.jpg"
 featured-box-2-title: Content Creator of the Week
 featured-box-2-subtitle: GhostWolfGames
 featured-box-2-url: https://www.youtube.com/channel/UCWFcFizUKTh1kmBxuSQOshg
-new-window-2: false
+new-window-2: true
 featured-box-2-image: "/uploads/featured2.jpg"
 featured-box-3-title: Spring Break '84 Clothing Pack
 featured-box-3-subtitle: Righteous threads
 featured-box-3-url: "/news/spring-break-1984-clothing-pack/"
+new-window-3: false
 featured-box-3-image: "/uploads/springbreak-featured.jpg"
 stream-1-title: The Maskedgamer in the flesh!
 stream-1-subtitle: Ohmwrecker
