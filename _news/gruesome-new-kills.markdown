@@ -8,7 +8,7 @@ hero-image: "/uploads/gen_kill-hero.jpg"
 
 We are adding new kills for ALL Jasons! That's right, all Jason's currently in the game are getting new kills added. How many kills you ask? Stay tuned for more information. But here are some still images from our recent motion capture shoot with Kane Hodder, Ryan and Kiralee. Pretty sure they all needed some aspirin after these two grueling days.
 
-[Kane Stab.JPG](/uploads/Kane%20Stab.JPG)
+![Kane Stab.JPG](/uploads/Kane%20Stab.JPG)
 
 When capturing kills that require immense weapon strikes, Kane hits near the victim, but doesn't make contact with them. When it's time to animate the rig, we simply move the animations to line them up. Tada, instant pain train!
 
