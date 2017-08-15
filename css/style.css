@@ -1665,7 +1665,7 @@ header.content .logo {
 
 @media (min-width:641px) and (max-width:991px) {
     .post-area {
-    	height: 250px;
+    	height: 300px;
     	overflow: hidden;
 	}
     .post-img {
