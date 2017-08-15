@@ -1,6 +1,6 @@
 ---
 title: New Fast Paced Maps
-date: 2017-07-31 20:58:00 -04:00
+date: 2017-08-02 20:58:00 -04:00
 subtitle: Revisit Higgins, Packanack and Crystal Lake
 main-image: "/uploads/smaller_maps-main.jpg"
 hero-image: "/uploads/smaller_maps-hero.jpg"
