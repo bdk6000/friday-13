@@ -1425,6 +1425,10 @@ body.menu-open #header {
 	width: 40px;
 	height: 33px;
 }
+.twitch-icon {
+	width: 32px;
+	height: 33px;
+}
 .footer p {
 	font-size: 10px;
 	color: #63778D;
@@ -2342,6 +2346,7 @@ header.content .logo {
 }
 
 /*---- Responsive CSS Ends Here ----*/
+
 
 
 
