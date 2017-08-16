@@ -2293,10 +2293,7 @@ header.content .logo {
 		max-width: 272px;
 		margin: 0 auto;
 	}
-	.social {
-		cursor:pointer;
-		margin-right:17px;
-	}
+
 	.bug-description .tabs li {
 		font-size: 9px;
 	}
@@ -2316,6 +2313,11 @@ header.content .logo {
 		line-height: 115px;
 		bottom: 10px;
 	}
+    .social {
+		cursor:pointer;
+		margin-right:12px;
+	}
+   
 	
 }
 
@@ -2383,6 +2385,7 @@ header.content .logo {
 }
 
 /*---- Responsive CSS Ends Here ----*/
+
 
 
 
