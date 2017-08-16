@@ -1426,8 +1426,8 @@ body.menu-open #header {
 	height: 33px;
 }
 .twitch-icon {
-	width: 32px;
-	height: 33px;
+	width: 33px;
+	height: 32px;
 }
 .footer p {
 	font-size: 10px;
@@ -2011,6 +2011,14 @@ header.content .logo {
 	}
 }
 
+@media (max-width: 683px) {
+
+	.social {
+		cursor:pointer;
+		margin-right:10px;
+	}
+}
+
 /*---- Mobile Portrait ----*/
 
 @media (max-width: 640px) {
@@ -2123,6 +2131,35 @@ header.content .logo {
 	.buycol1, .buycol2 {
 		margin-bottom:0px !important;
 		border: none;
+	}
+    .social {
+		cursor:pointer;
+		margin-right:12px;
+	}
+    .facebook-icon {
+		width: 25px;
+		height: 25px;
+		margin-right:18px;
+	}
+	.twitter-icon {
+		width: 29px;
+		height: 23px;
+	}
+	.chat-icon {
+		width: 27px;
+		height: 27px;
+	}
+	.discord-icon {
+		width: 29px;
+		height: 31px;
+	}
+	.reddit-icon {
+		width: 36px;
+		height: 29px;
+	}
+	.twitch-icon {
+		width: 29px;
+		height: 28px;
 	}
 }
 
