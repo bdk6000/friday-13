@@ -18,4 +18,6 @@ Some of our kills require the stunt actors to really earn their paycheck. In ord
 
 ![Kiralee Can Fly.JPG](/uploads/Kiralee%20Can%20Fly.JPG)
 
-Anytime a lift is required, be it from Kane choke lifting or perhaps a weapon (or maybe something else) stabbing and lifting the victim into the air, we use wires. Wirework allows us to get the height and violent speed of Jason, without tiring our actors out. But trust us...Kane doesn't need a wire to do most of this stuff. He's a beast, and we love him.   
+Anytime a lift is required, be it from Kane choke lifting or perhaps a weapon (or maybe something else) stabbing and lifting the victim into the air, we use wires. Wirework allows us to get the height and violent speed of Jason, without tiring our actors out. But trust us...Kane doesn't need a wire to do most of this stuff. He's a beast, and we love him.
+
+Available: TBD   
