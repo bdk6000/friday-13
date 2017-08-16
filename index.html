@@ -107,7 +107,7 @@ layout: home
 									<div class="block-img patch"></div>
                                 </div>
                                 <div class="block-overlay">
-                                    <div class="category">{% if hide-date-show-title == 'true' %}{{ post.title }}{% else %}{{ post.release-date | date: "%-m.%-d.%y" }}{% endif %}</div>
+                                    <div class="category">{% assign hidedate = post.hide-date-show-title %}{% if hidedate == 'true' %}{{ post.title }}{% else %}{{ post.release-date | date: "%-m.%-d.%y" }}{% endif %}</div>
 									<div class="patch-title">Patch Notes</div>
                                 </div>
                             </div>
