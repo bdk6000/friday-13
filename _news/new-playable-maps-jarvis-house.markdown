@@ -14,6 +14,7 @@ We kept all the counselor stats and Jason abilities (and cooldowns) the same. Bu
  
 
 Price: FREE!
+
 Available: SOON
 
 
