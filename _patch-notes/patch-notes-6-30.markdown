@@ -3,6 +3,7 @@ title: Patch Notes
 date: 2017-06-30 22:15:00 -04:00
 position: 1
 release-date: 2017-06-28 00:00:00 -04:00
+hide-date-show-title: true
 ---
 
 - Fixed cause of some random mid-game freeze crashes.
