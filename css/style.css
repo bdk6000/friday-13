@@ -2297,7 +2297,7 @@ header.content .logo {
 	}
 }
 
-@media (max-width:1600px) {
+@media (max-width:1599px) {
 	.playerhighlight {
 		font-size: 45px;
 		line-height: 55px;
@@ -2342,5 +2342,6 @@ header.content .logo {
 }
 
 /*---- Responsive CSS Ends Here ----*/
+
 
 
