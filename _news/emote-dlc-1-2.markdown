@@ -15,4 +15,5 @@ We're adding 8 free communication emotes along with a fancy new in-game HUD/UI. 
 Price: FREE! 
 
 Available: SOON
+
 *(content and timeline subject to change) * 
