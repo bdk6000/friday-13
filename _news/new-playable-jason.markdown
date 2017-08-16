@@ -7,3 +7,5 @@ hero-image: "/uploads/gen_jason-hero.jpg"
 ---
 
 More information on this Jason will be available once announced. Come back soon for more details!
+
+Available: TBD
