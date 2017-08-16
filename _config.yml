@@ -33,7 +33,7 @@ defaults:
   values:
     layout: patchnotes
     release-date: ''
-    hide-date-show-title: true
+    hide-date-show-title: false
 - scope:
     path: ''
     type: news
