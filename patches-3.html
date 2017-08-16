@@ -2,7 +2,7 @@
 layout: ajax
 ---
 
-                        {% assign patches = site.patch-notes  %}
+                        {% assign patches = site.patch-notes | sort: "position" %}
 					    {% for post in patches limit: 21 offset: 42 %}
                         
                         <div class="col-4 col">
@@ -11,7 +11,7 @@ layout: ajax
 									<div class="block-img patch"></div>
                                 </div>
                                 <div class="block-overlay">
-                                    <div class="category">{{ post.release-date | date: "%-m.%-d.%y" }}</div>
+                                    <div class="category">{% assign rls = post.release-date %}{% if rls == '' %}{{ post.title }}{% else %}{{ post.release-date | date: "%-m.%-d.%y" }}{% endif %}</div>
 									<div class="patch-title">Patch Notes</div>
                                 </div>
                             </div>
