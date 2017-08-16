@@ -13,5 +13,6 @@ We're adding 8 free communication emotes along with a fancy new in-game HUD/UI. 
 ![GifFixed.gif](/uploads/GifFixed.gif)
 
 Price: FREE! 
+
 Available: SOON
 *(content and timeline subject to change) * 
