@@ -7,3 +7,5 @@ hero-image: "/uploads/gen_clothing-hero.jpg"
 ---
 
 Ah, come on...Everyone likes a secret! Right? 
+
+Available: TBD
