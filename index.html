@@ -98,8 +98,8 @@ layout: home
             <div class="community-post cf">
                     <div class="row">
 
-                        {% assign patches = site.patch-notes  %}
-					    {% for post in patches limit:3 %}  {% if hide-date-show-title == 'true' %}
+                        {% assign patches = site.patch-notes | sort:"position" %}
+					    {% for post in patches limit:3 %} 
                         
                         <div class="col-4 col">
                             <div class="post-block" onclick="window.location.href = '{{post.url}}';">
