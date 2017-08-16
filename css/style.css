@@ -1,8 +1,4 @@
----
-layout: ajax
----
-
-/* open-sans-300 - latin */
+		/* open-sans-300 - latin */
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
@@ -755,7 +751,7 @@ body.menu-open #header {
 .banner {
     height: 708px;
     background-color: #000;
-    background-image: url({{site.banner-image}}) !important;
+    background-image: url(/uploads/FRI-01-Jason-RainV2.jpg) !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center 0px;
@@ -873,13 +869,13 @@ body.menu-open #header {
 	background-size:cover;
 }
 .firstbox .post-img {
-	background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{ site.featured-box-1-image }});
+	background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url(/uploads/new_emotes-featured.jpg);
 }
 .middlebox .post-img {
-	background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{ site.featured-box-2-image }});
+	background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url(/uploads/featured2.jpg);
 }
 .lastbox .post-img {
-	background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{ site.featured-box-3-image }});
+	background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url(/uploads/springbreak-featured.jpg);
 }
 .firstbox {
 	border-left:0px;
@@ -1753,9 +1749,6 @@ header.content .logo {
 		padding-left:90px;
 		padding-right:90px;
 	}
-	.mobphoto {
-		display:none;
-	}
 }
 
 /*---- Tablet Portrait ----*/
@@ -1960,19 +1953,6 @@ header.content .logo {
 	}
 	.dividerline {
 		display:none;
-	}
-	.col-4-com {
-		width: 100% !important;
-		padding-left:0px !important;
-		margin-top: 40px;
-	}
-	.col-8-com {
-		width: 100% !important;
-		border-right: 0px;
-		padding-right: 10px !important;
-	}
-	.deskphoto {
-		display: none;
 	}
 	.contentpg .container {
 		padding-left: 30px;
@@ -2312,6 +2292,9 @@ header.content .logo {
     .bannersub {
     	height: 469px !important;
 	}
+    .mobphoto {
+		display:none;
+	}
 }
 
 @media (max-width:1600px) {
@@ -2333,6 +2316,19 @@ header.content .logo {
 		margin-top: 45px; 
 		margin-left:20px;
 	}
+    .col-4-com {
+		width: 100% !important;
+		padding-left:0px !important;
+		margin-top: 40px;
+	}
+	.col-8-com {
+		width: 100% !important;
+		border-right: 0px;
+		padding-right: 10px !important;
+	}
+	.deskphoto {
+		display: none;
+	}
 }
 
 /*---- Even Larger Screens ----*/
@@ -2346,3 +2342,5 @@ header.content .logo {
 }
 
 /*---- Responsive CSS Ends Here ----*/
+
+
