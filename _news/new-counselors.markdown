@@ -1,7 +1,7 @@
 ---
 title: New Counselors
 date: 2017-08-02 15:38:00 -04:00
-subtitle: Two new victims
+subtitle: Two new victims.
 main-image: "/uploads/gen_counsleors-main.jpg"
 hero-image: "/uploads/gen_counsleors-hero.jpg"
 ---
