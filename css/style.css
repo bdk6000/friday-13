@@ -2221,9 +2221,6 @@ header.content .logo {
     .fix-description {
         width: auto;
 	}
-    .breakhidemob {
-    	display:none;
-    }
     .banner .banner-text {
     	left: 25px;
     	padding-right: 50px;
