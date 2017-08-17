@@ -1,7 +1,7 @@
 ---
 title: Gruesome New Kills
 date: 2017-07-31 20:58:00 -04:00
-subtitle: Gore galore
+subtitle: Brutal AF!
 main-image: "/uploads/gen_kill-main.jpg"
 hero-image: "/uploads/gen_kill-hero.jpg"
 ---
