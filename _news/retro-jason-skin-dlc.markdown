@@ -1,7 +1,7 @@
 ---
 title: Retro Jason Skin DLC
 date: 2017-07-03 10:48:00 -04:00
-subtitle: Classically trained
+subtitle: Classically trained.
 main-image: "/uploads/retro_jason-main.jpg"
 hero-image: "/uploads/retro_jason-hero.jpg"
 ---
