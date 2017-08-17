@@ -56,10 +56,3 @@ $(document).on("scroll", function(){
 	});
 
 });
-
-$(function() {
-		setTimeout(func, 500);
-			function func() {
-      			$('body').removeClass('fade-out');
-			}
-	});
