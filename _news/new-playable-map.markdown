@@ -1,7 +1,7 @@
 ---
 title: New Playable Map
 date: 2017-08-02 16:30:00 -04:00
-subtitle: Based on the films
+subtitle: Based on location from the films.
 main-image: "/uploads/gen_map-main.jpg"
 hero-image: "/uploads/gen_map-hero.jpg"
 ---
