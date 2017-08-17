@@ -751,7 +751,7 @@ body.menu-open #header {
 .banner {
     height: 708px;
     background-color: #000;
-    background-image: url(/uploads/FRI-01-Jason-RainV2.jpg) !important;
+    background-image: url({{site.banner-image}}) !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center 0px;
@@ -869,13 +869,13 @@ body.menu-open #header {
 	background-size:cover;
 }
 .firstbox .post-img {
-	background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url(/uploads/new_emotes-featured.jpg);
+	background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.featured-box-1-image}});
 }
 .middlebox .post-img {
-	background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url(/uploads/featured2.jpg);
+	background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.featured-box-2-image}});
 }
 .lastbox .post-img {
-	background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url(/uploads/springbreak-featured.jpg);
+	background-image:linear-gradient(transparent, transparent, rgba(0,0,0,.6)), url({{site.featured-box-3-image}});
 }
 .firstbox {
 	border-left:0px;
