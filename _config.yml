@@ -43,10 +43,10 @@ defaults:
     hero-image: ''
 permalink: pretty
 banner-image: "/uploads/FRI-01-Jason-RainV2.jpg"
-banner-title-line-1: Dying
-banner-title-line-2: For News?
-banner-subtitle: Scroll to see what we're working on, patch notes, future content
-  and more.
+banner-title-line-1: A New
+banner-title-line-2: 'Beginning. '
+banner-subtitle: Welcome to our new site! Scroll for news, content updates and patch
+  notes.
 banner-link-title: Read More
 banner-link-url: "/read-more"
 featured-box-1-title: Free Emote DLC
