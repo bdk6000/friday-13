@@ -340,10 +340,6 @@ body {
     transition: 1s opacity;
     -webkit-font-smoothing: antialiased;
 }
-body.fade-out {
-    opacity: 0;
-    transition: none;
-}
 :focus {
     outline: 0 none;
 }
