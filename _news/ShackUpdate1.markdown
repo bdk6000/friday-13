@@ -1,11 +1,13 @@
 ---
-title: Upcoming Testing/Patching - Sept 7th
+title: Shack Notes Update - Sept 7th
 date: 2017-09-07 17:20:00 -04:00
+main-image: "/uploads/mainshacknotes.jpg"
+hero-image: "/uploads/FeaturedShackNotes.jpg"
 ---
 
-Hey everyone
+Hey everyone!
 
-We want to try and give regular updates on what's going on here at IllFonic and what we are currently working on, things get busy so we can't promise these every week but will do our best.
+We want to try and give regular updates on what's going on here at IllFonic and what we are currently working on, things get busy so we can't promise these every week but will do our best. Welcome to the first Shack Notes! 
 
 Right now we do not have dates for patches yet...just Soon™
 
