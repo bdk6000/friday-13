@@ -9,7 +9,7 @@ We want to try and give regular updates on what's going on here at IllFonic and 
 
 Right now we do not have dates for patches yet...just Soon™
 
-# Bugs
+### Bugs
 
 * Perk Fixes (Fixed Internally)
 1. We have internal fixes for Grease Monkey, Heavy Hitter, Man at Arms, and Tinker. QA has verified them and they should be in the next patch.
