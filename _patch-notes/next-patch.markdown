@@ -4,8 +4,6 @@ date: 2017-08-16 17:07:00 -04:00
 release-date: 2017-09-21 00:00:00 -04:00
 ---
 
-## Latest Patch 9.21.2917
-
 The latest patch is rolling out! We are also happy to announce that this update also includes the new Spring Break 1984 DLC. 
 
 The biggest additions are the new interface for clothing selection; we've tried to make things a bit easier to work with in terms of selecting your clothing and color styles! 
