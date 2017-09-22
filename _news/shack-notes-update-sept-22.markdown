@@ -43,7 +43,7 @@ We believe we can get some of this into the upcoming Community Events, as those 
 
 We've heard this one from the start and agree that there's something that can potentially be done here. The trick would be to allow players to explore each map without a timer, without objectives and so forth. We believe we can get a P2P private match that allows for players to just hang out without having to worry about a timer ending. How complicated we get with this in terms of allowing people to do what is very much in the air at this time, but we are looking into something that we believe would benefit the Role-Playing and Machinima communities. 
 
-******Additional XP for different things done**
+* **Additional XP for Different Actions Accomplished**
 
 We have had a lot of feedback pertaining to making things more viable for team play and awarding XP for various actions. A major one is affording more XP for more people in an escaping car (ex; +25XP per person in escaping car awarded to each occupant). These kinds of tweaks and XP awards need to be looked at on a case-by-case basis, however we are exploring more ways to promote teamwork through savior actions, team work and offer more reasons to be nice to your fellow counselors. 
 
