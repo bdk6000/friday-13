@@ -4,7 +4,7 @@ date: 2017-08-16 17:07:00 -04:00
 release-date: 2017-09-21 00:00:00 -04:00
 ---
 
-Hey all!
+# Latest Patch 9.21.2917
 
 The latest patch is rolling out! We are also happy to announce that this update also includes the new Spring Break 1984 DLC. 
 
@@ -14,124 +14,76 @@ Of course; we've also added in the new communication emotes! You can choose betw
 
 Without further adieu;
 
+New Stuff
+New Outfit Customization!
+New User Interface for clothing.
 
+![k78vOMK.png](/uploads/k78vOMK.png)
 
-[b]New Stuff[/b]
-[list]
-[*]New Outfit Customization!
+1. Choose your style with the new swatch menu.
+* After selecting your outfit, your swatch menu will now appear. Choose your colors, then select Back to move on to the next piece of clothing. Your selections automatically save so simply back out when you are finished. 
 
-[*]New User Interface for clothing.
+![ajx7gJl.png](/uploads/ajx7gJl.png)
+![jTwQNnb.png](/uploads/jTwQNnb.png)
 
-[img]https://i.imgur.com/k78vOMK.png[/img]
+2. New Emote Comm Wheel and 8 free Communication Emotes
+* Customize where your emotes appear on the wheel.
 
-[*]Choose your style with the new swatch menu.
+![IashUbe.jpg](/uploads/IashUbe.jpg)
+![CXgiPqm.jpg](/uploads/CXgiPqm.jpg)
 
-1. After selecting your outfit, your swatch menu will now appear. Choose your colors, then select Back to move on to the next piece of clothing. Your selections automatically save so simply back out when you are finished.
+* Move the Left Stick or Mouse towards the desired emote and Press A or click to make selection.
+* Use the Emote in game.
 
-[img]https://i.imgur.com/ajx7gJl.png[/img]
-[img]https://i.imgur.com/jTwQNnb.png[/img]
+![sqqwZgV.png](/uploads/sqqwZgV.png)
+![sTbPsdp.jpg](/uploads/sTbPsdp.jpg)
 
+* Press and hold UP on the d-pad or V on the keyboard (default bindings) to open the wheel.
+* Move the Right Stick or Mouse towards the desired emote.
+* Release UP on the d-pad or V on the keyboard while holding the direction for the desired emote.
+* The 1984 Spring Break Outfit Pack is now available in the store (Contingent on DLC release and purchase)
 
-[*]New Emote Comm Wheel and 8 free Communication Emotes
+**Misc**
+* Fixed an issue that resulted in a black screen when loading into a map if the player loses connection or the host leaves while loading in.
 
-[*]Customize where your emotes appear on the wheel.
+**Gameplay**
+* Perk Fixes
+* Fixed the following perks: Grease Monkey, Heavy Hitter, Man at Arms, and Tinker
+* Fixed a number of issues with items not being dropped if a Counselor was killed in a hiding spot
+* Fixed the PhD for Murder Achievement on Steam and Xbox 1
 
-[img]https://i.imgur.com/IashUbe.jpg[/img][img]https://i.imgur.com/CXgiPqm.jpg[/img]
-
-[*]Move the Left Stick or Mouse towards the desired emote and Press A or click to make selection.
-
-[*]Use the Emote in game.
-
-[img]https://i.imgur.com/sqqwZgV.png[/img]
-[img]https://i.imgur.com/sTbPsdp.jpg[/img]
-
-[*]Press and hold UP on the d-pad or V on the keyboard (default bindings) to open the wheel.
-
-[*]Move the Right Stick or Mouse towards the desired emote.
-
-[*]Release UP on the d-pad or V on the keyboard while holding the direction for the desired emote.
-
-[*]The 1984 Spring Break Outfit Pack is now available in the store (Contingent on DLC release and purchase)
-[/list]
-
-
-[b]Misc[/b]
-[list]
-[*]Fixed an issue that resulted in a black screen when loading into a map if the player loses connection or the host leaves while loading in.
-[/list]
-
-
-[b]Gameplay[/b]
-
-[*]Perk Fixes
-
-[*]Fixed the following perks: Grease Monkey, Heavy Hitter, Man at Arms, and Tinker
-
-[*]Fixed a number of issues with items not being dropped if a Counselor was killed in a hiding spot
-
-[*]Fixed the PhD for Murder Achievement on Steam and Xbox 1
-[/list]
-
-
-[b]Maps[/b]
-[list]
-[*]Fixed an audio issue where certain audio queues were being heard across the map
-
-[*]Fixed a number of objects that were awarding XP each time they were repaired or used.
-
+**Maps**
+* Fixed an audio issue where certain audio queues were being heard across the map
+* Fixed a number of objects that were awarding XP each time they were repaired or used.
 Crystal Lake
-
-[*]Fixed a number of spots where Jason could not kill Counselors
-
+* Fixed a number of spots where Jason could not kill Counselors
 Packanack
+* Fixed an issue where cars could block the lodge entrance
 
-[*]Fixed an issue where cars could block the lodge entrance
-[/list]
+**Jason**
+* Fixed Jason’s Sense ability to properly track counselors after they leave a Cabin
+* Fixed an issue that was causing Jason’s stun timer to double when being stunned
+* Fixed Jason’s stun animation from canceling after he was hit again while stunned
+* Fixed Jason’s combat stance blocking the sweater stun.
+* Fixed an issue where Jason would be flung across the map if he was choking a counselor and was hit while uneven terrain
+* Fixed an issue where Jason’s weapon damage was only being applied to the first object hit.
+* Fixed an issue where Jason’s weapon collision volume was not hitting counselors directly in front of him.
+* Fixed an issue to allow Jason to hit counselors through windows
+* Fixed an issue to allow Jason to destroy windows and doors when swinging at them
+* Fixed an issue where Jason could no longer move if he tried to grab a Counselor immediately after throwing a knife
+* Fixed a number of issues preventing Jason from pulling Counselors out of a stopped car.
+* Fixed an issue that allowed Jason to Shift and Grab at the same time
+* Fixed an issue that was allowing Jason to activate an ability while throwing a knife
+* Fixed an issue that allowed Jason to use drown kills in shallow water
+* Part 9 Jason should have Part 9 music now
 
-
-[b]Jason[/b]
-[list]
-[*]Fixed Jason’s Sense ability to properly track counselors after they leave a Cabin
-
-[*]Fixed an issue that was causing Jason’s stun timer to double when being stunned
-
-[*]Fixed Jason’s stun animation from canceling after he was hit again while stunned
-
-[*]Fixed Jason’s combat stance blocking the sweater stun.
-
-[*]Fixed an issue where Jason would be flung across the map if he was choking a counselor and was hit while uneven terrain
-
-[*]Fixed an issue where Jason’s weapon damage was only being applied to the first object hit.
-
-[*]Fixed an issue where Jason’s weapon collision volume was not hitting counselors directly in front of him.
-
-[*]Fixed an issue to allow Jason to hit counselors through windows
-
-[*]Fixed an issue to allow Jason to destroy windows and doors when swinging at them
-
-[*]Fixed an issue where Jason could no longer move if he tried to grab a Counselor immediately after throwing a knife
-
-[*]Fixed a number of issues preventing Jason from pulling Counselors out of a stopped car.
-
-[*]Fixed an issue that allowed Jason to Shift and Grab at the same time
-
-[*]Fixed an issue that was allowing Jason to activate an ability while throwing a knife
-
-[*]Fixed an issue that allowed Jason to use drown kills in shallow water
-
-[*]Part 9 Jason should have Part 9 music now
-[/list]
+**Counselors**
+* Fixed an issue that was not allowing the Pocket Knife to trigger
+Male counselors should all have their own VO now
+* Fixed an issue where dropping a gun while aiming could leave a counselor in an unresponsive state
+* Fixed an issue causing Counselors to not be able to break other Counselors free from Jason’s grip.
+* Fixed an issue where female Counselors weapon swings not hitting Jason
 
 
-[b]Counselors[/b]
-[list]
-[*]Fixed an issue that was not allowing the Pocket Knife to trigger
 
-[*]Male counselors should all have their own VO now
 
-[*]Fixed an issue where dropping a gun while aiming could leave a counselor in an unresponsive state
-
-[*]Fixed an issue causing Counselors to not be able to break other Counselors free from Jason’s grip.
-
-[*]Fixed an issue where female Counselors weapon swings not hitting Jason
-[/list]
