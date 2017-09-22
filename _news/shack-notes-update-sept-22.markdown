@@ -1,8 +1,8 @@
 ---
 title: Shack Notes Update - Sept 22
 date: 2017-09-22 15:48:00 -04:00
-main-image: "/uploads/shacknotes_hero.jpg"
-hero-image: "/uploads/shacknotes_hero.jpg"
+main-image: "/uploads/mainshacknotes.jpg"
+hero-image: "/uploads/shack_notes_hero.jpg"
 ---
 
 Hey all!
