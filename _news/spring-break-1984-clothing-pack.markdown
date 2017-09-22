@@ -12,9 +12,9 @@ It's Spring Break at Camp Crystal Lake, and the counselors have decided to break
 
 ![Featured Promotional Art.png](/uploads/Featured%20Promotional%20Art.png)
 
-Regular Price: $3.99
-Limited Time 50% Off Price: $1.99
+Regular Price: $1.99
 
-Available: SOON
-
-\*(content and timeline subject to change) \*
+Get it here  
+Xbox One: https://www.microsoft.com/en-us/store/p/spring-break-84-clothing-pack/c1hz9q7kzx83
+PlayStation 4: https://store.playstation.com/#!/en-us/games/addons/spring-break-'84-clothing-pack/cid=UP2165-CUSA07878_00-F13GAME1984CLTHG
+Steam: http://store.steampowered.com/app/702660/Friday_the_13th_The_Game__Spring_Break_1984_Clothing_Pack/
