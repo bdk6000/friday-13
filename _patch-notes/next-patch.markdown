@@ -1,94 +1,137 @@
 ---
-title: Next Patch
+title: Patch Notes
 date: 2017-08-16 17:07:00 -04:00
+release-date: 2017-09-21 00:00:00 -04:00
 ---
 
-**THIS PATCH HAS NOT BEEN RELEASED YET.**
+Hey all!
 
-We wanted to give you an early preview of what the next patch will have in it.
+The latest patch is rolling out! We are also happy to announce that this update also includes the new Spring Break 1984 DLC. 
 
-**Stability**
+The biggest additions are the new interface for clothing selection; we've tried to make things a bit easier to work with in terms of selecting your clothing and color styles! 
 
-Overall stability should be drastically improved due to a number of crash fixes and a major memory leak fix.
+Of course; we've also added in the new communication emotes! You can choose between a ton of them, all free and usable with every counselor in the game! 
 
-**Parties/Invites/Matchmaking**
+Without further adieu;
 
-* Disallowing party leaders to join game session invites to sessions that do not advertise (private matches). This is due to not being able to search for sessions that do not advertise, which prevents party members from following their leader into them.
 
-* Party leaders can now follow public game invites, bringing members with them.
 
-* Steam Matchmaking tries harder to find lower-pinging matches. PS4 matchmaking up to 6x more efficient with tighter ping requirements.
+[b]New Stuff[/b]
+[list]
+[*]New Outfit Customization!
 
-* Fixed XB1 matchmaking bugs.
+[*]New User Interface for clothing.
 
-* Fixed a number of issues with how the game handles Party Invites and Matchmaking; there are still a few issues out there that are rare but it is much improved.
+[img]https://i.imgur.com/k78vOMK.png[/img]
 
-* Fixed a number of issues on how canceling matchmaking was handled that could leave players in a state they could no longer matchmake.
+[*]Choose your style with the new swatch menu.
 
-* Party members now see their party leader’s matchmaking status and time.\\
+1. After selecting your outfit, your swatch menu will now appear. Choose your colors, then select Back to move on to the next piece of clothing. Your selections automatically save so simply back out when you are finished.
 
-* Various improvements to error messaging.
+[img]https://i.imgur.com/ajx7gJl.png[/img]
+[img]https://i.imgur.com/jTwQNnb.png[/img]
 
-**Maps**
 
-* Added Small Maps for the existing maps; Packanack Small, Higgins Haven Small, and Camp Crystal Lake Small.
+[*]New Emote Comm Wheel and 8 free Communication Emotes
 
-* Increased the density of Kill locations on all maps.
+[*]Customize where your emotes appear on the wheel.
 
-* Adjusted collision on Maps to prevent people from standing on water.
+[img]https://i.imgur.com/IashUbe.jpg[/img][img]https://i.imgur.com/CXgiPqm.jpg[/img]
 
-* Adjusted collision on piers to prevent cars from driving on them .
+[*]Move the Left Stick or Mouse towards the desired emote and Press A or click to make selection.
 
-* Added a Map Icon to Campfire Kills.
+[*]Use the Emote in game.
 
-* Fixed a number of kill spots that were not functioning.
+[img]https://i.imgur.com/sqqwZgV.png[/img]
+[img]https://i.imgur.com/sTbPsdp.jpg[/img]
 
-* Fixed an issue with not being able to fix boat propellers based on boat positioning on the dock.
+[*]Press and hold UP on the d-pad or V on the keyboard (default bindings) to open the wheel.
 
-* Placed collision under piers to prevent people from swimming under them.
+[*]Move the Right Stick or Mouse towards the desired emote.
 
-* Fixed a number of areas that the player could get out of the map.
+[*]Release UP on the d-pad or V on the keyboard while holding the direction for the desired emote.
 
-* Fixed a number of areas that Counselors could get to that Jason could not.
+[*]The 1984 Spring Break Outfit Pack is now available in the store (Contingent on DLC release and purchase)
+[/list]
 
-* Added better collision around Boat Exits to prevent Jason from getting to areas he shouldn't be in.
 
-**Gameplay**
+[b]Misc[/b]
+[list]
+[*]Fixed an issue that resulted in a black screen when loading into a map if the player loses connection or the host leaves while loading in.
+[/list]
 
-* Team Killing changes.
 
-* Team Killing is no longer possible in Public Matches.
+[b]Gameplay[/b]
 
-* Cars can still cause damage to the players if they are hit.
+[*]Perk Fixes
 
-* Traps can still hurt and/or kill the player but there is no longer an XP penalty for the person that placed the trap in Public Matches.
+[*]Fixed the following perks: Grease Monkey, Heavy Hitter, Man at Arms, and Tinker
 
-* Private Matches have not changed.
+[*]Fixed a number of issues with items not being dropped if a Counselor was killed in a hiding spot
 
-* Fixed an issue where the Counselors breath wouldn't start to recharge if the user continued to hold the button after breath was depleted.
+[*]Fixed the PhD for Murder Achievement on Steam and Xbox 1
+[/list]
 
-* Fixed an issue with Fear being canceled if pulled out of a car.
 
-* Fixed an issue with the Police Objective happening when it shouldn't be.
+[b]Maps[/b]
+[list]
+[*]Fixed an audio issue where certain audio queues were being heard across the map
 
-* Fixed a number of issues regarding objects falling through the ground.
+[*]Fixed a number of objects that were awarding XP each time they were repaired or used.
 
-* Fixed an issue where Damage and Stun chance were only being calculated on the first attack.
+Crystal Lake
 
-* Jason can no longer block through traps, firecrackers, flare guns, shotguns, and the Police.
+[*]Fixed a number of spots where Jason could not kill Counselors
 
-* Fixed reliability of perks that spawn items at the start of the match.
+Packanack
 
-**Misc Fixes**
+[*]Fixed an issue where cars could block the lodge entrance
+[/list]
 
-* Increased texture resolution on the XB1.
 
-* Fixed the PhD for Murder Achievement/Trophy.
+[b]Jason[/b]
+[list]
+[*]Fixed Jason’s Sense ability to properly track counselors after they leave a Cabin
 
-* Improved intro and outro cinematics.
+[*]Fixed an issue that was causing Jason’s stun timer to double when being stunned
 
-* Fixed player muted states sometimes getting “lost” after level change.
+[*]Fixed Jason’s stun animation from canceling after he was hit again while stunned
 
-* Can now unready in Private Match even when the countdown is low.
+[*]Fixed Jason’s combat stance blocking the sweater stun.
 
-* Fixed a hitch caused by the video settings savegame after signing in or changing those settings.
+[*]Fixed an issue where Jason would be flung across the map if he was choking a counselor and was hit while uneven terrain
+
+[*]Fixed an issue where Jason’s weapon damage was only being applied to the first object hit.
+
+[*]Fixed an issue where Jason’s weapon collision volume was not hitting counselors directly in front of him.
+
+[*]Fixed an issue to allow Jason to hit counselors through windows
+
+[*]Fixed an issue to allow Jason to destroy windows and doors when swinging at them
+
+[*]Fixed an issue where Jason could no longer move if he tried to grab a Counselor immediately after throwing a knife
+
+[*]Fixed a number of issues preventing Jason from pulling Counselors out of a stopped car.
+
+[*]Fixed an issue that allowed Jason to Shift and Grab at the same time
+
+[*]Fixed an issue that was allowing Jason to activate an ability while throwing a knife
+
+[*]Fixed an issue that allowed Jason to use drown kills in shallow water
+
+[*]Part 9 Jason should have Part 9 music now
+[/list]
+
+
+[b]Counselors[/b]
+[list]
+[*]Fixed an issue that was not allowing the Pocket Knife to trigger
+
+[*]Male counselors should all have their own VO now
+
+[*]Fixed an issue where dropping a gun while aiming could leave a counselor in an unresponsive state
+
+[*]Fixed an issue causing Counselors to not be able to break other Counselors free from Jason’s grip.
+
+[*]Fixed an issue where female Counselors weapon swings not hitting Jason
+[/list]
