@@ -53,8 +53,10 @@ New User Interface for clothing.
 **Maps**
 * Fixed an audio issue where certain audio queues were being heard across the map
 * Fixed a number of objects that were awarding XP each time they were repaired or used.
+
 Crystal Lake
 * Fixed a number of spots where Jason could not kill Counselors
+
 Packanack
 * Fixed an issue where cars could block the lodge entrance
 
