@@ -5,7 +5,7 @@ main-image: "/uploads/VC_Main.jpg"
 hero-image: "/uploads/VC_Hero.jpg"
 ---
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/watch?v=DEjGXCi3hM4' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/DEjGXCi3hM4' frameborder='0' allowfullscreen></iframe></div>
 
 Some of you have seen the countless videos online of people playing the The Virtual Cabin 1.0 in the past. We built the first version of the Virtual Cabin as an add-on to our Kickstarter campaign. It was a pretty straight forward experience with a few puzzles and easter eggs. Hardcore fans seemed to really enjoy it, so we decided to go back to the drawing board and completely revamp it.
 
