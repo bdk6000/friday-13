@@ -1,6 +1,7 @@
 ---
 title: IV Teaser
 date: 2017-09-08 16:30:00 -04:00
+position: 14
 subtitle: New Map, New Jason and Rain FX
 main-image: "/uploads/IV_Teaser_Main.jpg"
 hero-image: "/uploads/IV_Teaser_Hero.jpg"

@@ -1,6 +1,7 @@
 ---
 title: Virtual Cabin 2.0
 date: 2017-09-22 14:36:00 -04:00
+position: 19
 main-image: "/uploads/VC_Main.jpg"
 hero-image: "/uploads/VC_Hero.jpg"
 ---

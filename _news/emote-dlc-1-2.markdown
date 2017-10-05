@@ -1,6 +1,7 @@
 ---
 title: Free Emote DLC!
 date: 2017-08-02 20:58:00 -04:00
+position: 4
 subtitle: Wave at Jason...Just before he kills you.
 main-image: "/uploads/new_emotes-main.jpg"
 hero-image: "/uploads/new_emotes-hero.jpg"

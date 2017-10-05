@@ -1,6 +1,7 @@
 ---
 title: Free Clothing Pack 1
 date: 2017-06-10 20:58:00 -04:00
+position: 5
 main-image: "/uploads/counselor_clothing-main.jpg"
 hero-image: "/uploads/counselor_clothing-hero.jpg"
 ---

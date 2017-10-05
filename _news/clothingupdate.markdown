@@ -1,6 +1,7 @@
 ---
 title: Counselor Clothing Update
 date: 2017-08-25 15:51:00 -04:00
+position: 11
 subtitle: We're rethinking and redoing clothing for all your favorite counselors
 main-image: "/uploads/F13_Menu_Counselor_ClothesUpdate06_c.jpg"
 hero-image: "/uploads/F13_Menu_Counselor_ClothesUpdate06_c.jpg"

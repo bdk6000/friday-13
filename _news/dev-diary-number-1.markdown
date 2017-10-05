@@ -1,6 +1,7 @@
 ---
 title: 'Dev Diary #1'
 date: 2017-08-25 17:52:00 -04:00
+position: 12
 main-image: "/uploads/Screen%20Shot%202017-08-25%20at%204.50.56%20PM.png"
 hero-image: "/uploads/Screen%20Shot%202017-08-25%20at%204.50.56%20PM.png"
 ---
