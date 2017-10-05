@@ -1,7 +1,7 @@
 ---
 title: DLC Roadmap
 date: 2017-09-15 18:03:00 -04:00
-position: 15
+position: 18
 subtitle: 'A guide to what''s coming with Friday the 13th: The Game'
 main-image: "/uploads/Main.png"
 hero-image: "/uploads/Hero.png"

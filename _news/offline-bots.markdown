@@ -1,7 +1,7 @@
 ---
 title: Offline Bots
 date: 2017-09-22 15:19:00 -04:00
-position: 16
+position: 15
 main-image: "/uploads/Bots_Main.jpg"
 hero-image: "/uploads/Bots_Hero.jpg"
 ---

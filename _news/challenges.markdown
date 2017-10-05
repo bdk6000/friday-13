@@ -1,7 +1,7 @@
 ---
 title: Challenges
 date: 2017-09-22 15:21:00 -04:00
-position: 17
+position: 16
 main-image: "/uploads/challenges_Main.jpg"
 hero-image: "/uploads/challenges_Hero.jpg"
 ---
