@@ -843,7 +843,7 @@ body.menu-open #header {
 
 .post-area .post-text-2 {
     position: absolute;
-    left: 37px;
+    left: 8%;
     bottom: -20px;
 }
 
@@ -2215,7 +2215,13 @@ header.content .logo {
 		bottom:130px;
     }
     .firstbox .post-img  {
-    background-position: 0 50px;
+    background-image: url(/images/website-counter-bg-tab.jpg) !important;
+    background-size: cover !important;
+    background-position: top center;
+    }
+    .post-area .post-text-2 {
+    bottom: 15px;
+    left: 15%;
     }
     
 }
