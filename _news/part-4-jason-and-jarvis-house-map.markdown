@@ -1,7 +1,7 @@
 ---
 title: Part 4 Jason and Jarvis House Map
 date: 2017-10-06 15:48:00 -04:00
-subtitle: Added Weather Effects and more coming Friday the 13th!
+subtitle: Added Weather Effects and more coming this Friday the 13th!
 main-image: "/uploads/J4-Jarvis-house_main.png"
 hero-image: "/uploads/J4-Jarvis-house_hero.png"
 ---
