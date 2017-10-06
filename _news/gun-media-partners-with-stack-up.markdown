@@ -2,6 +2,8 @@
 title: Gun Media Partners with Stack Up
 date: 2017-10-06 09:00:00 -04:00
 subtitle: Charity Event to raise funds for the troops!
+main-image: "/uploads/stack-up_main.png"
+hero-image: "/uploads/stack-up_hero.png"
 ---
 
 Hey all!  Got some cool news and something very dear to us here at Gun Media. We believe strongly in supporting those that sacrifice for all of us to be able to sit back and enjoy some quality video gaming time. To that extent, we're happy to announce that we're going to partner with Stack Up, a veteran-owned and operated charity that is dedicated to helping those deployed and those back home who need our help. 
