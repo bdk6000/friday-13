@@ -47,7 +47,7 @@ banner-title-line-1: The Final
 banner-title-line-2: Chapter.
 banner-subtitle: Update to include Jason Part IV and Jarvis Family Home!
 banner-link-title: Read More
-banner-link-url: "/news/part-4-jason-and-jarvis-house-map/"
+banner-link-url: news/part-4-jason-and-jarvis-house-map/
 featured-box-1-title: Virtual Cabin 2.0
 featured-box-1-subtitle: What it is and why you should care.
 featured-box-1-url: news/virtual-cabin-2-dot-0/
@@ -89,5 +89,5 @@ stream-6-url: https://www.youtube.com/channel/UC2IYWWifoIht9T47z1Z5lJw/search?qu
 stream-6-image: "/uploads/Dead%20Meat.jpg"
 player-highlight-title: ProdigalBrock
 player-highlight-url: https://go.twitch.tv/prodigalbrock
-player-highlight-icon-image: "/uploads/player-icon.png"
+player-highlight-icon-image: "/uploads/Player%20Highlight%20Icon.png"
 player-highlight-image: "/uploads/player-highlight-add082.png"
