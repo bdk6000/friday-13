@@ -1,6 +1,9 @@
 ---
 title: Part 4 Jason and Jarvis House Map
-date: 2017-10-06 14:48:00 -04:00
+date: 2017-10-06 15:48:00 -04:00
+subtitle: Added Weather Effects and more coming Friday the 13th!
+main-image: "/uploads/J4-Jarvis-house_main.png"
+hero-image: "/uploads/J4-Jarvis-house_hero.png"
 ---
 
 The Final Chapter? As we all know, that was not the case for the films. It's also not the end for us, either. ;)
