@@ -28,4 +28,7 @@ Also, here's a sneak peek of the living room of the vacation house.
 
 ![interior.jpg](/uploads/interior.jpg)
 
-And last, but certainly not least, here's a video taken from within the Jarvis House map. It includes some great exterior shots of the map, along with J4 doing his thing. We look forward to getting all this exciting new content to you on Oct 13th. 
+And last, but certainly not least, here's a video taken from within the Jarvis House map. It includes some great exterior shots of the map, along with J4 doing his thing. We look forward to getting all this exciting new content to you on Oct 13th.
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/390mlGhyQc8' frameborder='0' allowfullscreen></iframe></div>
+ 
