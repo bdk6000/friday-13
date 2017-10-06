@@ -3,7 +3,7 @@ title: Mitch Floyd Comes to Camp Crystal Lake!
 date: 2017-10-06 12:47:00 -04:00
 subtitle: The newest counselor to join the roster
 main-image: "/uploads/mitch_main.png"
-hero-image: "/uploads/mitch_featured.png"
+hero-image: "/uploads/mitch_hero.png"
 ---
 
 Camp Crystal Lake's roster of counselors is growing! We're happy to announce the addition of the newest, chill dude that's looking to spend a couple of hours alone each day at camp to really take in the scenery, get one with nature and enjoy all that grass on the lawn at camp. 
