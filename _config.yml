@@ -42,13 +42,12 @@ defaults:
     main-image: ''
     hero-image: ''
 permalink: pretty
-banner-image: "/uploads/J4Header.png"
-banner-title-line-1: Jason IV
-banner-title-line-2: Comes to the Jarvis Home
-banner-subtitle: 'Friday the 13th: The Game update to include Jason Part IV and Jarvis
-  Family Home!'
+banner-image: "/uploads/website%20Banner.png"
+banner-title-line-1: IV
+banner-title-line-2: The Kill of It
+banner-subtitle: Update to include Jason Part IV and Jarvis Family Home!
 banner-link-title: Read More
-banner-link-url: "/news/part-4-jason-and-jarvis-house-map/"
+banner-link-url: 
 featured-box-1-title: Virtual Cabin 2.0
 featured-box-1-subtitle: What it is and why you should care.
 featured-box-1-url: news/virtual-cabin-2-dot-0/
