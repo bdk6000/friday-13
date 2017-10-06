@@ -1,6 +1,6 @@
 ---
 title: Emote Party Pack 1
-date: 2017-10-06 15:22:00 -04:00
+date: 2017-10-06 09:22:00 -04:00
 subtitle: New Premium Emote Pack Arrives!
 main-image: "/uploads/emotepack1_Main.png"
 hero-image: "/uploads/emotepack1_Hero.png"
