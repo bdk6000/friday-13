@@ -42,12 +42,13 @@ defaults:
     main-image: ''
     hero-image: ''
 permalink: pretty
-banner-image: "/uploads/izzybanner2.png"
-banner-title-line-1: Summer Comes
-banner-title-line-2: to an End
-banner-subtitle: The 1984 Swim Season has hit Camp Crystal Lake with new DLC!
+banner-image: "/uploads/website%20Banner.png"
+banner-title-line-1: Jason IV
+banner-title-line-2: Comes to the Jarvis Home
+banner-subtitle: 'Friday the 13th: The Game update to include Jason Part IV and Jarvis
+  Family Home!'
 banner-link-title: Read More
-banner-link-url: news/spring-break-1984-clothing-pack/
+banner-link-url: 
 featured-box-1-title: Virtual Cabin 2.0
 featured-box-1-subtitle: What it is and why you should care.
 featured-box-1-url: news/virtual-cabin-2-dot-0/
