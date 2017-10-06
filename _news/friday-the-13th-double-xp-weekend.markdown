@@ -2,7 +2,7 @@
 title: Friday the 13th Double XP Weekend
 date: 2017-10-06 15:46:00 -04:00
 subtitle: Celebrate the holiday with Double XP every game!
-main-image: "/uploads/Double_XP_Main.png"
+main-image: "/uploads/Double_XP_Main-8852a9.png"
 hero-image: "/uploads/Double_XP_Hero.png"
 ---
 
