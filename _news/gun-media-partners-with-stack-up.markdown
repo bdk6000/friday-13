@@ -1,6 +1,6 @@
 ---
 title: Gun Media Partners with Stack Up
-date: 2006-10-01 09:00:00 -04:00
+date: 2006-10-06 09:00:00 -04:00
 subtitle: Charity Event to raise funds for the troops!
 ---
 
