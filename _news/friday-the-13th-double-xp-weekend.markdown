@@ -12,5 +12,7 @@ Some of you might have heard that a bit of an update is coming next week. We're 
 
 Be sure to jump in all weekend to get all that experience on Xbox One, PS4 and PC! 
 
-* Start Time: 
-* End Time:  
+* Start Time: THURSDAY 7PM EST
+* End Time:  MONDAY 11AM EST
+
+(So everyone on the planet gets THREE full days!)
