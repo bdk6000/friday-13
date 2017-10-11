@@ -9,7 +9,7 @@ release-date: 2017-10-11 00:00:00 -04:00
 
 New Playable Map: **Jarvis House**
 
-
+![J4-Jarvis-house_main.png](/uploads/J4-Jarvis-house_main.png)
 
 ### Jason Part 4
 New Playable Jason: **Jason 4**
@@ -29,7 +29,7 @@ Weapon: Pig Splitter
 
 (-) Traps	
 
-
+![J4 ProsCons.jpg](/uploads/J4%20ProsCons.jpg)
 
 ### Counselor Mitch Floyd
 
@@ -52,7 +52,7 @@ Level 24 Requirement
 3/10 Strength
 
 
-
+![Mitch.jpg](/uploads/Mitch.jpg)
 
 
 
