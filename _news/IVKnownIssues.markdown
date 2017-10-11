@@ -8,13 +8,13 @@ hero-image: "/uploads/shack_notes_hero.jpg"
 
 Hey everyone!
 
-I hope you are enjoying the new patch which includes a large number of bug fixes and new content!
+We hope you are enjoying the new patch which includes a large number of bug fixes and new content!
 
 We know we likely didn't fix everything that you feel is wrong with the game and we likely have new issues with the new content. I assure you we are doing our best to address the major issues as quick as possible as well as adding in new things for people to enjoy. The last few months have been hectic.
 
 You can always submit bugs to the www.jasonkillsbugs.com website when you find them. We also are regularly in the F13 Discord channel and we monitor the forums for bug reports. If you post them there its likely we have seen the issue and have it logged.
 
-Rather than leave you with the ra-ra speech I want to take a moment to break down some of the long term issues, new things we know about, and then how we are moving forward with getting them fixed for you.
+Rather than leave you with the ra-ra speech we want to take a moment to break down some of the long term issues, new things we know about, and then how we are moving forward with getting them fixed for you.
 
 ### Moving Forward
 
@@ -64,6 +64,6 @@ The below items are all fixed in the next patch or expected to be fixed
 
 If you run across any new issues please use the social channels mentioned above to get that info to us so we can get them fixed.
 
-Thanks for your ears and I appreciate you reading through this post.
+Thanks for your ears and we appreciate you reading through this post.
 
-Gertz
+-Gun and IllFonic
