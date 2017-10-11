@@ -93,14 +93,12 @@ Level 24 Requirement
 ### Bug Fixes
 
 * Perks
-
 1. Fixed a bug that allowed players to keep perks with old balance values
 2. Fixed a bug where the Medic perk to show incorrect amount of charges on the Medical Spray item
 3. Fixed a bug that was causing the Grinder perk to unintentionally grant Jason additional XP
 
 	
 * Counselors
-
 1. Fixed a bug that was causing weapon durability values to calculate incorrectly
 2. Fixed an issue where counselors could interact with nearby objects during ‘breaking free’ animations
 3. Fixed a bug that caused Pamela Voorhees’ Sweater to sometimes not properly appear as equipped
@@ -108,26 +106,22 @@ Level 24 Requirement
 5. Fixed an issue that would sometimes cause counselors to disappear from customization menus
 
 * Jason
-
 1. Fixed a bug that was causing Jason 9 to have a higher base HP than intended. His HP should now properly reflect his tooltip
 2. Fixed a bug in Private Matches where choosing a player to be Jason in the pre-game menu was not working properly
 3. Fixed a bug that would sometimes crash the client if Jason grabs a Counselor that is sitting in a boat 
 4. Fixed a bug causing Firecrackers to stun Jason through certain walls
 
 * Tommy Jarvis
-
 1. Fixed a bug that caused the Tommy Jarvis’ arrival cutscene to sometimes not be displayed
 2. Fixed a bug that was causing a second Tommy Jarvis model to appear
 3. Fixed a bug that allowed Tommy Jarvis to be killed during his intro cinematic
 4. Fixed a bug that could sometimes cause Tommy Jarvis to spawn for a disconnected player
 
 * Spectators
-
 1. The “Police Arrival Timer” and “Match End Timer” are now properly in sync while in Spectator Mode
 2. Fixed an issue where after re-joining a session, the spectator will crash after spectating Jason’s death
 
 * Maps
-
 1. General
 -----Tidied up various counselor survival exploit locations on all maps
 2. Packanack
@@ -140,19 +134,15 @@ Level 24 Requirement
 -----Fixed an issue that caused players to be unable to pick up the Shotgun near the Archery Range 
 
 * Vehicles
-
 1. Fixed a bug that was allowing players to cancel the animation while leaving a car
 
 * User Interface
-
 1. Jason is able to properly access the scoreboard again
 2. Spectators are able to properly access the scoreboard again
 3. Updated the font for the match intro movies
 
 * Matchmaking
-
 1. Reduced the timer to start the match (only when the lobby is full)
 
 * Sound
-
 1. Volume of the intro movie reduced
