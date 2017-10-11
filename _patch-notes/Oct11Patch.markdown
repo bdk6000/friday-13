@@ -95,7 +95,7 @@ Level 24 Requirement
 
 2. “Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”
 
-##Bug Fixes
+### Bug Fixes
 
 * Perks
 
