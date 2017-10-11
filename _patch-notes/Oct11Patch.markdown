@@ -5,27 +5,33 @@ position: 0
 release-date: 2017-10-11 00:00:00 -04:00
 ---
 
-## Jarvis House
+### Jarvis House
 
 New Playable Map: **Jarvis House**
 
 
 
-## Jason Part 4
+### Jason Part 4
 New Playable Jason: **Jason 4**
 
 Level 44 Requirement 
 Weapon: Pig Splitter
+
 (+) Can Run
+
 (+) Weapon Strength
+
 (+) Destruction
+
 (-) Water Speed 
+
 (-) Shift
+
 (-) Traps	
 
 
 
-## Counselor Mitch Floyd
+### Counselor Mitch Floyd
 
 New Playable Counselor: **Mitch Floyd**
 
@@ -49,11 +55,11 @@ Level 24 Requirement
 
 
 
-## New Features
-### Rain
+### New Features
+# Rain
 *The Rain feature is now available and players may have a chance to encounter this new weather in any of the current playable maps.
 
-###Counselors pushing
+#Counselors pushing
 *Counselors are now able to “push” other counselors
  
 *In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason.
