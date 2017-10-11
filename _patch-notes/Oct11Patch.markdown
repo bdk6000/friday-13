@@ -97,12 +97,14 @@ Grease Monkey perk rebalanced
 ##Bug Fixes
 
 ###Perks
+
 *Fixed a bug that allowed players to keep perks with old balance values
 *Fixed a bug where the Medic perk to show incorrect amount of charges on the Medical Spray item
 *Fixed a bug that was causing the Grinder perk to unintentionally grant Jason additional XP
 
 	
 ###Counselors
+
 *Fixed a bug that was causing weapon durability values to calculate incorrectly
 *Fixed an issue where counselors could interact with nearby objects during ‘breaking free’ animations
 *Fixed a bug that caused Pamela Voorhees’ Sweater to sometimes not properly appear as equipped
@@ -110,43 +112,56 @@ Grease Monkey perk rebalanced
 *Fixed an issue that would sometimes cause counselors to disappear from customization menus
 
 ###Jason
+
 *Fixed a bug that was causing Jason 9 to have a higher base HP than intended. His HP should now properly reflect his tooltip
 *Fixed a bug in Private Matches where choosing a player to be Jason in the pre-game menu was not working properly
 *Fixed a bug that would sometimes crash the client if Jason grabs a Counselor that is sitting in a boat 
 *Fixed a bug causing Firecrackers to stun Jason through certain walls
 
 ###Tommy Jarvis
+
 *Fixed a bug that caused the Tommy Jarvis’ arrival cutscene to sometimes not be displayed
 *Fixed a bug that was causing a second Tommy Jarvis model to appear
 *Fixed a bug that allowed Tommy Jarvis to be killed during his intro cinematic
 *Fixed a bug that could sometimes cause Tommy Jarvis to spawn for a disconnected player
 
 ###Spectators
+
 *The “Police Arrival Timer” and “Match End Timer” are now properly in sync while in Spectator Mode
 *Fixed an issue where after re-joining a session, the spectator will crash after spectating Jason’s death
 
 ###Maps
+
 **General**
+
 *Tidied up various counselor survival exploit locations on all maps
+
 **Packanack**
+
 *The Phone Box on the cabin can now be repaired regardless of the angle it is approached from
 *Fixed an issue that allowed players to drive out of bounds 
+
 **Packanack Small**
+
 *Fixed an issue that prevented players from interacting with the Poker in one of the cabins
 *The Power Box outside of the barn is no longer being blocked by a tree
 *The stacks of hay bales by the Archery Range are now properly blocked off
 *Fixed an issue that caused players to be unable to pick up the Shotgun near the Archery Range 
 
 ###Vehicles
+
 *Fixed a bug that was allowing players to cancel the animation while leaving a car
 
 ###User Interface
+
 *Jason is able to properly access the scoreboard again
 *Spectators are able to properly access the scoreboard again
 *Updated the font for the match intro movies
 
 ###Matchmaking
+
 *Reduced the timer to start the match (only when the lobby is full)
 
 ###Sound
+
 *Volume of the intro movie reduced
