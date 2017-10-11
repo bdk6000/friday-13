@@ -56,30 +56,31 @@ Level 24 Requirement
 
 
 ### New Features
-# Rain
+
+**Rain**
 *The Rain feature is now available and players may have a chance to encounter this new weather in any of the current playable maps.
 
-#Counselors pushing
+**Counselors pushing**
 *Counselors are now able to “push” other counselors
  
 *In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason.
 
-##Changes
+**Changes**
 
-###Thick Skinned perk changes
-*Thick Skinned now reduces ALL damage
-**[Known Issue] Perks that had their values adjusted will have no in-game effect until re-equipped
+*Thick Skinned perk changes
+1. Thick Skinned now reduces ALL damage
+------[Known Issue] Perks that had their values adjusted will have no in-game effect until re-equipped
 
-*The tooltip for Thick Skinned has been changed from “Take less damage from all incoming attacks.” to “Take less damage.“
+2. The tooltip for Thick Skinned has been changed from “Take less damage from all incoming attacks.” to “Take less damage.“
 
-*“Originally, Thick Skinned was intended to reduce damage specifically from Jason's’ attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present.” 
+3. “Originally, Thick Skinned was intended to reduce damage specifically from Jason's’ attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present.” 
 
-###Stun Duration adjusted
-*Jason’s Stun Duration timer has been adjusted
+*Stun Duration adjusted
+1. Jason’s Stun Duration timer has been adjusted
 
-*“Jason’s Stun Duration has been adjusted across all counselors and items to better balance the changes made by the previous bug fix.”
+2. “Jason’s Stun Duration has been adjusted across all counselors and items to better balance the changes made by the previous bug fix.”
 
-###Grease Monkey perk rebalanced
+Grease Monkey perk rebalanced
 *Reduced the effectiveness of the Grease Monkey perk
 **[Known Issue] Perks that had their values adjusted will have no in-game effect until re-equipped
 
