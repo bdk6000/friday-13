@@ -58,9 +58,11 @@ Level 24 Requirement
 ### New Features
 
 **Rain**
-*The Rain feature is now available and players may have a chance to encounter this new weather in any of the current playable maps.
+
+* The Rain feature is now available and players may have a chance to encounter this new weather in any of the current playable maps.
 
 **Counselors pushing**
+
 *Counselors are now able to “push” other counselors
  
 *In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason.
