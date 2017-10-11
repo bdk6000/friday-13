@@ -73,26 +73,21 @@ Level 24 Requirement
 * Thick Skinned perk changes
 1. Thick Skinned now reduces ALL damage
 ------[Known Issue] Perks that had their values adjusted will have no in-game effect until re-equipped
-
 2. The tooltip for Thick Skinned has been changed from “Take less damage from all incoming attacks.” to “Take less damage.“
-
 3. “Originally, Thick Skinned was intended to reduce damage specifically from Jason's’ attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present.” 
 
 * Stun Duration adjusted
 1. Jason’s Stun Duration timer has been adjusted
-
 2. “Jason’s Stun Duration has been adjusted across all counselors and items to better balance the changes made by the previous bug fix.”
 
 * Grease Monkey perk rebalanced
 1. Reduced the effectiveness of the Grease Monkey perk
 ------[Known Issue] Perks that had their values adjusted will have no in-game effect until re-equipped
-
 2. “Grease Monkey was individually causing too large of an impact. We have adjusted Grease Monkey to be more consistent with other perks.”
 
 
 * Trap Damage adjusted
 1. All counselors now take the same amount of damage from traps
-
 2. “Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”
 
 ### Bug Fixes
@@ -135,11 +130,9 @@ Level 24 Requirement
 
 1. General
 -----Tidied up various counselor survival exploit locations on all maps
-
 2. Packanack
 -----The Phone Box on the cabin can now be repaired regardless of the angle it is approached from
 -----Fixed an issue that allowed players to drive out of bounds 
-
 3. Packanack Small
 -----Fixed an issue that prevented players from interacting with the Poker in one of the cabins
 -----The Power Box outside of the barn is no longer being blocked by a tree
