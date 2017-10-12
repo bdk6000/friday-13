@@ -8,27 +8,31 @@ published: false
 
 New Playable Map: **Jarvis House**
 
+![vaca_home.jpg](/uploads/vaca_home.jpg){:height="36px" width="36px"}
+![Jarvis_house.jpg](/uploads/Jarvis_house.jpg){:height="36px" width="36px"}
+![Jarvis Map.jpg](/uploads/Jarvis%20Map.jpg){:height="36px" width="36px"}
 
-![vaca_home.jpg](/uploads/vaca_home.jpg)
-![Jarvis_house.jpg](/uploads/Jarvis_house.jpg)
-![Jarvis Map.jpg](/uploads/Jarvis%20Map.jpg)
 
-<img src="uploads/Jarvis Map.jpg" width="200">
 
-<img src="vaca_home.jpg" alt="Jarvis Vacation Home" style="width: 250px;"/>
 ### **Jason Part 4**
 
 New Playable Jason: **Jason 4**
 
 * Level 44 Requirement
-* Weapon: Pig Splitter
-* \(\+) Can Run
-* \(\+) Weapon Strength
-* \(\+) Destruction
-* \(-) Water Speed
-* \(-) Shift
-* \(-) Traps
 
+* Weapon: Pig Splitter
+
+* (\+) Can Run
+
+* (\+) Weapon Strength
+
+* (\+) Destruction
+
+* (-) Water Speed
+
+* (-) Shift
+
+* (-) Traps
 
 ![J4 ProsCons.jpg](/uploads/J4%20ProsCons.jpg)
 
@@ -37,14 +41,20 @@ New Playable Jason: **Jason 4**
 New Playable Counselor: **Mitch Floyd**
 
 * Level 24 Requirement
-* 9/10 Composure
-* 2/10 Luck
-* 8/10 Repair
-* 3/10 Speed
-* 4/10 Stamina
-* 6/10 Stealth
-* 3/10 Strength
 
+* 9/10 Composure
+
+* 2/10 Luck
+
+* 8/10 Repair
+
+* 3/10 Speed
+
+* 4/10 Stamina
+
+* 6/10 Stealth
+
+* 3/10 Strength
 
 ![Mitch.jpg](/uploads/Mitch.jpg)
 
@@ -58,37 +68,39 @@ New Playable Counselor: **Mitch Floyd**
 
 * Counselors are now able to “push” other counselors
 
-    *`"In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason."`*
+  *`"In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason."`*
 
 ### **Changes**
 
 **Thick Skinned perk changes**
+
 * Thick Skinned now reduces ALL damage
 
 * The tooltip for Thick Skinned has been changed from “Take less damage from all incoming attacks.” to “Take less damage.“
-    * **\[Known Issue\]** Perks that had their values adjusted will have no in-game effect until re-equipped
 
-    *"Originally, Thick Skinned was intended to reduce damage specifically from Jason's attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present."*
+  * **\[Known Issue\]** Perks that had their values adjusted will have no in-game effect until re-equipped
+
+  *"Originally, Thick Skinned was intended to reduce damage specifically from Jason's attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present."*
 
 **Stun Duration adjusted**
 
 * Jason’s Stun Duration timer has been adjusted
 
-    *`“Jason’s Stun Duration has been adjusted across all counselors and items to better balance the changes made by the previous bug fix.”`*
+  *`“Jason’s Stun Duration has been adjusted across all counselors and items to better balance the changes made by the previous bug fix.”`*
 
 **Grease Monkey perk re-balanced**
 
 * Reduced the effectiveness of the Grease Monkey perk
-    * **\[Known Issue\]** Perks that had their values adjusted will have no in-game effect until re-equipped
 
-    *` "Grease Monkey was individually causing too large of an impact. We have adjusted Grease Monkey to be more consistent with other perks.”`* 
+  * **\[Known Issue\]** Perks that had their values adjusted will have no in-game effect until re-equipped
 
+  *`"Grease Monkey was individually causing too large of an impact. We have adjusted Grease Monkey to be more consistent with other perks.”`*
 
 **Trap Damage adjusted**
 
 * All counselors now take the same amount of damage from traps
 
-    *`“Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”`*
+  *`“Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”`*
 
 ### **Bug Fixes**
 
