@@ -90,11 +90,11 @@ Level 24 Requirement
     *` "Grease Monkey was individually causing too large of an impact. We have adjusted Grease Monkey to be more consistent with other perks.”`* 
 
 
-* **Trap Damage adjusted**
+**Trap Damage adjusted**
 
-    * All counselors now take the same amount of damage from traps
+* All counselors now take the same amount of damage from traps
 
-    * *`“Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”`*
+* *`“Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”`*
 
 ### Bug Fixes
 
