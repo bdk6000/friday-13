@@ -64,9 +64,9 @@ Level 24 Requirement
 * Counselors are now able to “push” other counselors
   \* "In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason."
 
-**Changes**
+## **Changes**
 
-* Thick Skinned perk changes
+* ### Thick Skinned perk changes
 
   * Thick Skinned now reduces ALL damage
 
@@ -74,7 +74,7 @@ Level 24 Requirement
 
 **\[Known Issue\]** Perks that had their values adjusted will have no in-game effect until re-equipped
 
-**`Originally, Thick Skinned was intended to reduce damage specifically from Jason's attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present.`**
+**`    Originally, Thick Skinned was intended to reduce damage specifically from Jason's attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present.`**
 
 * Stun Duration adjusted
 
