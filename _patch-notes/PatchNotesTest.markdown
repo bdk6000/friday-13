@@ -45,12 +45,11 @@ New Playable Counselor: **Mitch Floyd**
 
 ### New Features
 
-## Rain
-
+**Rain**
 
 * The Rain feature is now available and players may have a chance to encounter this new weather in any of the current playable maps.
 
-## Counselors pushing
+**Counselors pushing**
 
 * Counselors are now able to “push” other counselors
 
@@ -58,8 +57,7 @@ New Playable Counselor: **Mitch Floyd**
 
 ### Changes
 
-## Thick Skinned perk changes
-
+**Thick Skinned perk changes**
 * Thick Skinned now reduces ALL damage
 
 * The tooltip for Thick Skinned has been changed from “Take less damage from all incoming attacks.” to “Take less damage.“
@@ -67,13 +65,13 @@ New Playable Counselor: **Mitch Floyd**
 
     *"Originally, Thick Skinned was intended to reduce damage specifically from Jason's attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present."*
 
-## Stun Duration adjusted
+**Stun Duration adjusted**
 
 * Jason’s Stun Duration timer has been adjusted
 
     *`“Jason’s Stun Duration has been adjusted across all counselors and items to better balance the changes made by the previous bug fix.”`*
 
-## Grease Monkey perk re-balanced
+**Grease Monkey perk re-balanced**
 
 * Reduced the effectiveness of the Grease Monkey perk
     * **\[Known Issue\]** Perks that had their values adjusted will have no in-game effect until re-equipped
@@ -81,7 +79,7 @@ New Playable Counselor: **Mitch Floyd**
     *` "Grease Monkey was individually causing too large of an impact. We have adjusted Grease Monkey to be more consistent with other perks.”`* 
 
 
-## Trap Damage adjusted
+**Trap Damage adjusted**
 
 * All counselors now take the same amount of damage from traps
 
@@ -89,16 +87,16 @@ New Playable Counselor: **Mitch Floyd**
 
 ### Bug Fixes
 
-## Perks
+* **Perks**
 
-* Fixed a bug that allowed players to keep perks with old balance values
+  * Fixed a bug that allowed players to keep perks with old balance values
 
-* Fixed a bug where the Medic perk to show incorrect amount of charges on the Medical Spray item
+  * Fixed a bug where the Medic perk to show incorrect amount of charges on the Medical Spray item
 
-* Fixed a bug that was causing the Grinder perk to unintentionally grant Jason additional XP
+  * Fixed a bug that was causing the Grinder perk to unintentionally grant Jason additional XP
 
 
-## Counselors
+* **Counselors**
 
   * Fixed a bug that was causing weapon durability values to calculate incorrectly
 
