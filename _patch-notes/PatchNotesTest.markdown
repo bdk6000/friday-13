@@ -64,16 +64,17 @@ Level 24 Requirement
 **Counselors pushing**
 
 * Counselors are now able to “push” other counselors
- 
         * "In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason."
 
 **Changes**
 
 * Thick Skinned perk changes
     * Thick Skinned now reduces ALL damage
-    * [Known Issue] Perks that had their values adjusted will have no in-game effect until re-equipped
-    * The tooltip for Thick Skinned has been changed from “Take less damage from all incoming attacks.” to “Take less damage.“
         * “Originally, Thick Skinned was intended to reduce damage specifically from Jason's’ attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present.” 
+    * The tooltip for Thick Skinned has been changed from “Take less damage from all incoming attacks.” to “Take less damage.“
+
+
+[Known Issue] Perks that had their values adjusted will have no in-game effect until re-equipped
 
 * Stun Duration adjusted
     * Jason’s Stun Duration timer has been adjusted
@@ -81,12 +82,14 @@ Level 24 Requirement
 
 * Grease Monkey perk rebalanced
     * Reduced the effectiveness of the Grease Monkey perk
-------[Known Issue] Perks that had their values adjusted will have no in-game effect until re-equipped
         * “Grease Monkey was individually causing too large of an impact. We have adjusted Grease Monkey to be more consistent with other perks.”
+
+[Known Issue] Perks that had their values adjusted will have no in-game effect until re-equipped
 
 
 * Trap Damage adjusted
     * All counselors now take the same amount of damage from traps
+
         * “Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”
 
 ### Bug Fixes
