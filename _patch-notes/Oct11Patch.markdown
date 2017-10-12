@@ -104,6 +104,10 @@ New Playable Counselor: **Mitch Floyd**
 
   *`“Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”`*
 
+**Jason's Stalk ability minor change**
+
+* Jason's footsteps are now silent while the Stalk ability is enabled
+
 ### **Bug Fixes**
 
 * **Perks**
