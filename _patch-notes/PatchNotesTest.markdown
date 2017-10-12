@@ -62,7 +62,8 @@ Level 24 Requirement
 **Counselors pushing**
 
 * Counselors are now able to “push” other counselors
-    * `"In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason."`
+
+* `"In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason."`
 
 ### Changes
 
@@ -90,7 +91,8 @@ Level 24 Requirement
 
 **Trap Damage adjusted**
 * All counselors now take the same amount of damage from traps
-    * `“Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”`
+
+* *`“Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”`*
 
 ### Bug Fixes
 
