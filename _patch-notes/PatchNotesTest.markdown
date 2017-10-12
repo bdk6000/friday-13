@@ -34,7 +34,7 @@ New Playable Jason: **Jason 4**
 
 * (-) Traps
 
-![J4 ProsCons.jpg](/uploads/J4%20ProsCons.jpg)
+[![J4 ProsCons.jpg](/uploads/J4%20ProsCons.jpg){:width="630px"}](http://f13game.com/uploads/J4%20ProsCons.jpg)
 
 ### **Counselor Mitch Floyd**
 
@@ -56,7 +56,8 @@ New Playable Counselor: **Mitch Floyd**
 
 * 3/10 Strength
 
-![Mitch.jpg](/uploads/Mitch.jpg)
+[![Mitch.jpg](/uploads/Mitch.jpg){:width="630px"}
+](http://f13game.com/uploads/Mitch.jpg)
 
 ### **New Features**
 
