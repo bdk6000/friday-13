@@ -9,12 +9,12 @@ published: false
 New Playable Map: **Jarvis House**
 
 
-![vaca_home.jpg](/uploads/vaca_home.jpg=250x)
-![Jarvis_house.jpg](/uploads/Jarvis_house.jpg=250x)
-![Jarvis Map.jpg](/uploads/Jarvis%20Map.jpg=250x)
+![vaca_home.jpg](/uploads/vaca_home.jpg)
+![Jarvis_house.jpg](/uploads/Jarvis_house.jpg)
+![Jarvis Map.jpg](/uploads/Jarvis%20Map.jpg)
 
 
-<img src="vaca_home.jpg" alt="Javis Vacation Home" style="width: 250px;"/>
+<img src="vaca_home.jpg" alt="Jarvis Vacation Home" style="width: 250px;"/>
 ### **Jason Part 4**
 
 New Playable Jason: **Jason 4**
