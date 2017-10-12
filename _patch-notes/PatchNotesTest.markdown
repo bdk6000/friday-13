@@ -13,6 +13,8 @@ New Playable Map: **Jarvis House**
 ![Jarvis_house.jpg](/uploads/Jarvis_house.jpg=250x)
 ![Jarvis Map.jpg](/uploads/Jarvis%20Map.jpg=250x)
 
+
+<img src="vaca_home.jpg" alt="Javis Vacation Home" style="width: 250px;"/>
 ### **Jason Part 4**
 
 New Playable Jason: **Jason 4**
