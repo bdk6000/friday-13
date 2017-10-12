@@ -70,7 +70,7 @@ Level 24 Requirement
 
   * Thick Skinned now reduces ALL damage
 
->     Originally, Thick Skinned was intended to reduce damage specifically from Jason's’ attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present.
+> Originally, Thick Skinned was intended to reduce damage specifically from Jason's > attacks. However, there was a bug that was causing Thick Skinned to apply twice which > in turn also caused the perk to incorrectly reduce all incoming damage. This issue > was fixed in the last patch. After considering our internal testing and community > feedback, we agreed that the previous iteration of Thick Skinned worked better for > game balance when the inflated damage reduction values were no longer present.
 
   * The tooltip for Thick Skinned has been changed from “Take less damage from all incoming attacks.” to “Take less damage.“
 
