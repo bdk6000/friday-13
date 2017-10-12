@@ -194,4 +194,6 @@ New Playable Counselor: **Mitch Floyd**
 
   * Volume of the intro movie reduced
 
-[## Discuss the patch notes on the Official Forums](http://forum.f13game.com/index.php?/topic/11720-patch-notes-10112017/)
+**[Discuss the patch notes on the Official Forums]**(http://forum.f13game.com/index.php?/topic/11720-patch-notes-10112017/)
+
+## [Discuss the patch notes on the Official Forums](http://forum.f13game.com/index.php?/topic/11720-patch-notes-10112017/)
