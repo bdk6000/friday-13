@@ -9,7 +9,9 @@ published: false
 New Playable Map: **Jarvis House**
 
 
-![J4-Jarvis-house_main.png](/uploads/J4-Jarvis-house_main.png)
+![vaca_home.jpg](/uploads/vaca_home.jpg)
+![Jarvis_house.jpg](/uploads/Jarvis_house.jpg)
+![Jarvis Map.jpg](/uploads/Jarvis%20Map.jpg)
 
 ### **Jason Part 4**
 
