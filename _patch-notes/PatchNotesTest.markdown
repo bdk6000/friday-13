@@ -11,7 +11,7 @@ New Playable Map: **Jarvis House**
 
 [![vaca_home.jpg](/uploads/Jarvis_house.jpg){:width="600px"}](http://f13game.com/uploads/Jarvis_house.jpg)
 [![vaca_home.jpg](/uploads/vaca_home.jpg){:width="300px"}](http://f13game.com/uploads/vaca_home.jpg)
-[![vaca_home.jpg](/uploads/Jarvis%20Map.jpg){:width="300px"}](http://f13game.com/uploads/Jarvis%20Map.jpg)
+[![vaca_home.jpg](/uploads/Jarvis%20Map.jpg){:width="350px"}](http://f13game.com/uploads/Jarvis%20Map.jpg)
 
 
 ### **Jason Part 4**
