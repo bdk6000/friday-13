@@ -5,58 +5,62 @@ position: 0
 release-date: 2017-10-11 00:00:00 -04:00
 ---
 
-### Jarvis House
+### **Jarvis House**
 
 New Playable Map: **Jarvis House**
 
-![J4-Jarvis-house_main.png](/uploads/J4-Jarvis-house_main.png)
 
-### Jason Part 4
+[![vaca_home.jpg](/uploads/Jarvis_house.jpg){:width="630px"}](http://f13game.com/uploads/Jarvis_house.jpg)
+[![vaca_home.jpg](/uploads/vaca_home.jpg){:width="300px"}](http://f13game.com/uploads/vaca_home.jpg)
+[![vaca_home.jpg](/uploads/Jarvis%20Map.jpg){:width="325px"}](http://f13game.com/uploads/Jarvis%20Map.jpg)
+
+
+### **Jason Part 4**
+
 New Playable Jason: **Jason 4**
 
-Level 44 Requirement 
-Weapon: Pig Splitter
+* Level 44 Requirement
 
-(+) Can Run
+* Weapon: Pig Splitter
 
-(+) Weapon Strength
+* (\+) Can Run
 
-(+) Destruction
+* (\+) Weapon Strength
 
-(-) Water Speed 
+* (\+) Destruction
 
-(-) Shift
+* (-) Water Speed
 
-(-) Traps	
+* (-) Shift
 
-![J4 ProsCons.jpg](/uploads/J4%20ProsCons.jpg)
+* (-) Traps
 
-### Counselor Mitch Floyd
+[![J4 ProsCons.jpg](/uploads/J4%20ProsCons.jpg){:width="630px"}](http://f13game.com/uploads/J4%20ProsCons.jpg)
+
+### **Counselor Mitch Floyd**
 
 New Playable Counselor: **Mitch Floyd**
 
-Level 24 Requirement
+* Level 24 Requirement
 
-9/10 Composure
+* 9/10 Composure
 
-2/10 Luck
+* 2/10 Luck
 
-8/10 Repair
+* 8/10 Repair
 
-3/10 Speed
+* 3/10 Speed
 
-4/10 Stamina
+* 4/10 Stamina
 
-6/10 Stealth
+* 6/10 Stealth
 
-3/10 Strength
+* 3/10 Strength
 
+[![Mitch.jpg](/uploads/Mitch.jpg){:width="630px"}
+](http://f13game.com/uploads/Mitch.jpg)
 
-![Mitch.jpg](/uploads/Mitch.jpg)
-
-
-
-### New Features
+### **New Features**
 
 **Rain**
 
@@ -65,84 +69,131 @@ Level 24 Requirement
 **Counselors pushing**
 
 * Counselors are now able to “push” other counselors
- 
-* In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason.
 
-**Changes**
+  *`"In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason."`*
 
-* Thick Skinned perk changes
-1. Thick Skinned now reduces ALL damage
-------[Known Issue] Perks that had their values adjusted will have no in-game effect until re-equipped
-2. The tooltip for Thick Skinned has been changed from “Take less damage from all incoming attacks.” to “Take less damage.“
-3. “Originally, Thick Skinned was intended to reduce damage specifically from Jason's’ attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present.” 
+### **Changes**
 
-* Stun Duration adjusted
-1. Jason’s Stun Duration timer has been adjusted
-2. “Jason’s Stun Duration has been adjusted across all counselors and items to better balance the changes made by the previous bug fix.”
+**Thick Skinned perk changes**
 
-* Grease Monkey perk rebalanced
-1. Reduced the effectiveness of the Grease Monkey perk
-------[Known Issue] Perks that had their values adjusted will have no in-game effect until re-equipped
-2. “Grease Monkey was individually causing too large of an impact. We have adjusted Grease Monkey to be more consistent with other perks.”
+* Thick Skinned now reduces ALL damage
+
+* The tooltip for Thick Skinned has been changed from “Take less damage from all incoming attacks.” to “Take less damage.“
+
+  * **\[Known Issue\]** Perks that had their values adjusted will have no in-game effect until re-equipped
+
+  *"Originally, Thick Skinned was intended to reduce damage specifically from Jason's attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present."*
+
+**Stun Duration adjusted**
+
+* Jason’s Stun Duration timer has been adjusted
+
+  *`“Jason’s Stun Duration has been adjusted across all counselors and items to better balance the changes made by the previous bug fix.”`*
+
+**Grease Monkey perk re-balanced**
+
+* Reduced the effectiveness of the Grease Monkey perk
+
+  * **\[Known Issue\]** Perks that had their values adjusted will have no in-game effect until re-equipped
+
+  *`"Grease Monkey was individually causing too large of an impact. We have adjusted Grease Monkey to be more consistent with other perks.”`*
+
+**Trap Damage adjusted**
+
+* All counselors now take the same amount of damage from traps
+
+  *`“Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”`*
+
+### **Bug Fixes**
+
+* **Perks**
+
+  * Fixed a bug that allowed players to keep perks with old balance values
+
+  * Fixed a bug where the Medic perk to show incorrect amount of charges on the Medical Spray item
+
+  * Fixed a bug that was causing the Grinder perk to unintentionally grant Jason additional XP
 
 
-* Trap Damage adjusted
-1. All counselors now take the same amount of damage from traps
-2. “Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”
+* **Counselors**
 
-### Bug Fixes
+  * Fixed a bug that was causing weapon durability values to calculate incorrectly
 
-* Perks
-1. Fixed a bug that allowed players to keep perks with old balance values
-2. Fixed a bug where the Medic perk to show incorrect amount of charges on the Medical Spray item
-3. Fixed a bug that was causing the Grinder perk to unintentionally grant Jason additional XP
+  * Fixed an issue where counselors could interact with nearby objects during ‘breaking free’ animations
 
-	
-* Counselors
-1. Fixed a bug that was causing weapon durability values to calculate incorrectly
-2. Fixed an issue where counselors could interact with nearby objects during ‘breaking free’ animations
-3. Fixed a bug that caused Pamela Voorhees’ Sweater to sometimes not properly appear as equipped
-4. Fixed an issue that caused players to sometimes become stuck if they used the Emote Wheel while in hiding
-5. Fixed an issue that would sometimes cause counselors to disappear from customization menus
+  * Fixed a bug that caused Pamela Voorhees’ Sweater to sometimes not properly appear as equipped
 
-* Jason
-1. Fixed a bug that was causing Jason 9 to have a higher base HP than intended. His HP should now properly reflect his tooltip
-2. Fixed a bug in Private Matches where choosing a player to be Jason in the pre-game menu was not working properly
-3. Fixed a bug that would sometimes crash the client if Jason grabs a Counselor that is sitting in a boat 
-4. Fixed a bug causing Firecrackers to stun Jason through certain walls
+  * Fixed an issue that caused players to sometimes become stuck if they used the Emote Wheel while in hiding
 
-* Tommy Jarvis
-1. Fixed a bug that caused the Tommy Jarvis’ arrival cutscene to sometimes not be displayed
-2. Fixed a bug that was causing a second Tommy Jarvis model to appear
-3. Fixed a bug that allowed Tommy Jarvis to be killed during his intro cinematic
-4. Fixed a bug that could sometimes cause Tommy Jarvis to spawn for a disconnected player
+  * Fixed an issue that would sometimes cause counselors to disappear from customization menus
 
-* Spectators
-1. The “Police Arrival Timer” and “Match End Timer” are now properly in sync while in Spectator Mode
-2. Fixed an issue where after re-joining a session, the spectator will crash after spectating Jason’s death
+* **Jason**
 
-* Maps
-1. General
------Tidied up various counselor survival exploit locations on all maps
-2. Packanack
------The Phone Box on the cabin can now be repaired regardless of the angle it is approached from
------Fixed an issue that allowed players to drive out of bounds 
-3. Packanack Small
------Fixed an issue that prevented players from interacting with the Poker in one of the cabins
------The Power Box outside of the barn is no longer being blocked by a tree
------The stacks of hay bales by the Archery Range are now properly blocked off
------Fixed an issue that caused players to be unable to pick up the Shotgun near the Archery Range 
+  * Fixed a bug that was causing Jason 9 to have a higher base HP than intended. His HP should now properly reflect his tooltip
 
-* Vehicles
-1. Fixed a bug that was allowing players to cancel the animation while leaving a car
+  * Fixed a bug in Private Matches where choosing a player to be Jason in the pre-game menu was not working properly
 
-* User Interface
-1. Jason is able to properly access the scoreboard again
-2. Spectators are able to properly access the scoreboard again
-3. Updated the font for the match intro movies
+  * Fixed a bug that would sometimes crash the client if Jason grabs a Counselor that is sitting in a boat
 
-* Matchmaking
-1. Reduced the timer to start the match (only when the lobby is full)
+  * Fixed a bug causing Firecrackers to stun Jason through certain walls
 
-* Sound
-1. Volume of the intro movie reduced
+* **Tommy Jarvis**
+
+  * Fixed a bug that caused the Tommy Jarvis’ arrival cutscene to sometimes not be displayed
+
+  * Fixed a bug that was causing a second Tommy Jarvis model to appear
+
+  * Fixed a bug that allowed Tommy Jarvis to be killed during his intro cinematic
+
+  * Fixed a bug that could sometimes cause Tommy Jarvis to spawn for a disconnected player
+
+* **Spectators**
+
+  * The “Police Arrival Timer” and “Match End Timer” are now properly in sync while in Spectator Mode
+
+  * Fixed an issue where after re-joining a session, the spectator will crash after spectating Jason’s death
+
+* **Maps**
+
+  * **General**
+
+    * Tidied up various counselor survival exploit locations on all maps
+
+  * **Packanack**
+
+    * The Phone Box on the cabin can now be repaired regardless of the angle it is approached from
+
+    * Fixed an issue that allowed players to drive out of bounds
+
+  * **Packanack Small**
+
+    * Fixed an issue that prevented players from interacting with the Poker in one of the cabins
+
+    * The Power Box outside of the barn is no longer being blocked by a tree
+
+    * The stacks of hay bales by the Archery Range are now properly blocked off
+
+    * Fixed an issue that caused players to be unable to pick up the Shotgun near the Archery Range
+
+* **Vehicles**
+
+  * Fixed a bug that was allowing players to cancel the animation while leaving a car
+
+* **User Interface**
+
+  * Jason is able to properly access the scoreboard again
+
+  * Spectators are able to properly access the scoreboard again
+
+  * Updated the font for the match intro movies
+
+* **Matchmaking**
+
+  * Reduced the timer to start the match (only when the lobby is full)
+
+* **Sound**
+
+  * Volume of the intro movie reduced
+
+
+## [[Click here to discuss the patch notes on the Official Forums]](http://forum.f13game.com/index.php?/topic/11720-patch-notes-10112017/)
