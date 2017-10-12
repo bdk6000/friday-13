@@ -121,27 +121,27 @@ Level 24 Requirement
 2. Fixed an issue where after re-joining a session, the spectator will crash after spectating Jason’s death
 
 * Maps
-1. General
+    * General
 -----Tidied up various counselor survival exploit locations on all maps
-2. Packanack
------The Phone Box on the cabin can now be repaired regardless of the angle it is approached from
+    * Packanack
+        * The Phone Box on the cabin can now be repaired regardless of the angle it is approached from
 -----Fixed an issue that allowed players to drive out of bounds 
-3. Packanack Small
+    * Packanack Small
 -----Fixed an issue that prevented players from interacting with the Poker in one of the cabins
 -----The Power Box outside of the barn is no longer being blocked by a tree
 -----The stacks of hay bales by the Archery Range are now properly blocked off
 -----Fixed an issue that caused players to be unable to pick up the Shotgun near the Archery Range 
 
 * Vehicles
-1. Fixed a bug that was allowing players to cancel the animation while leaving a car
+    * Fixed a bug that was allowing players to cancel the animation while leaving a car
 
 * User Interface
-1. Jason is able to properly access the scoreboard again
-2. Spectators are able to properly access the scoreboard again
-3. Updated the font for the match intro movies
+    * Jason is able to properly access the scoreboard again
+    * Spectators are able to properly access the scoreboard again
+    * Updated the font for the match intro movies
 
 * Matchmaking
-1. Reduced the timer to start the match (only when the lobby is full)
+    * Reduced the timer to start the match (only when the lobby is full)
 
 * Sound
     * Volume of the intro movie reduced
