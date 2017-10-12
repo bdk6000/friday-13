@@ -11,7 +11,7 @@ New Playable Map: **Jarvis House**
 
 ![J4-Jarvis-house_main.png](/uploads/J4-Jarvis-house_main.png)
 
-### Jason Part 4
+### **Jason Part 4**
 
 New Playable Jason: **Jason 4**
 
@@ -27,7 +27,7 @@ New Playable Jason: **Jason 4**
 
 ![J4 ProsCons.jpg](/uploads/J4%20ProsCons.jpg)
 
-### Counselor Mitch Floyd
+### **Counselor Mitch Floyd**
 
 New Playable Counselor: **Mitch Floyd**
 
@@ -43,7 +43,7 @@ New Playable Counselor: **Mitch Floyd**
 
 ![Mitch.jpg](/uploads/Mitch.jpg)
 
-### New Features
+### **New Features**
 
 **Rain**
 
@@ -55,7 +55,7 @@ New Playable Counselor: **Mitch Floyd**
 
     *`"In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason."`*
 
-### Changes
+### **Changes**
 
 **Thick Skinned perk changes**
 * Thick Skinned now reduces ALL damage
@@ -85,7 +85,7 @@ New Playable Counselor: **Mitch Floyd**
 
     *`“Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”`*
 
-### Bug Fixes
+### **Bug Fixes**
 
 * **Perks**
 
