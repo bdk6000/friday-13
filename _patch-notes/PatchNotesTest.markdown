@@ -71,16 +71,15 @@ Level 24 Requirement
 * Thick Skinned now reduces ALL damage
 
 * The tooltip for Thick Skinned has been changed from “Take less damage from all incoming attacks.” to “Take less damage.“
+    * **\[Known Issue\]** Perks that had their values adjusted will have no in-game effect until re-equipped
 
-  * **\[Known Issue\]** Perks that had their values adjusted will have no in-game effect until re-equipped
-
-* `    "Originally, Thick Skinned was intended to reduce damage specifically from Jason's attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present."`
+    *"Originally, Thick Skinned was intended to reduce damage specifically from Jason's attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present."*
 
 **Stun Duration adjusted**
 
 * Jason’s Stun Duration timer has been adjusted
 
- * `“Jason’s Stun Duration has been adjusted across all counselors and items to better balance the changes made by the previous bug fix.”`
+    *`“Jason’s Stun Duration has been adjusted across all counselors and items to better balance the changes made by the previous bug fix.”`*
 
 **Grease Monkey perk re-balanced**
 
@@ -94,7 +93,7 @@ Level 24 Requirement
 
 * All counselors now take the same amount of damage from traps
 
-* *`“Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”`*
+    *`“Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”`*
 
 ### Bug Fixes
 
