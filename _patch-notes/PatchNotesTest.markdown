@@ -90,13 +90,14 @@ Level 24 Requirement
 
 
 * **Trap Damage adjusted**
+
     * All counselors now take the same amount of damage from traps
 
     * *`“Traps have been adjusted to inflict the same amount of damage across all counselors. Players that activate a trap will now always be wounded unless equipped with an adequate trap damage reduction perk.”`*
 
 ### Bug Fixes
 
-* Perks
+* **Perks**
 
   * Fixed a bug that allowed players to keep perks with old balance values
 
@@ -105,7 +106,7 @@ Level 24 Requirement
   * Fixed a bug that was causing the Grinder perk to unintentionally grant Jason additional XP
 
 
-* Counselors
+* **Counselors**
 
   * Fixed a bug that was causing weapon durability values to calculate incorrectly
 
@@ -117,7 +118,7 @@ Level 24 Requirement
 
   * Fixed an issue that would sometimes cause counselors to disappear from customization menus
 
-* Jason
+* **Jason**
 
   * Fixed a bug that was causing Jason 9 to have a higher base HP than intended. His HP should now properly reflect his tooltip
 
@@ -127,7 +128,7 @@ Level 24 Requirement
 
   * Fixed a bug causing Firecrackers to stun Jason through certain walls
 
-* Tommy Jarvis
+* **Tommy Jarvis**
 
   * Fixed a bug that caused the Tommy Jarvis’ arrival cutscene to sometimes not be displayed
 
@@ -137,25 +138,25 @@ Level 24 Requirement
 
   * Fixed a bug that could sometimes cause Tommy Jarvis to spawn for a disconnected player
 
-* Spectators
+* **Spectators**
 
   * The “Police Arrival Timer” and “Match End Timer” are now properly in sync while in Spectator Mode
 
   * Fixed an issue where after re-joining a session, the spectator will crash after spectating Jason’s death
 
-* Maps
+* **Maps**
 
-  * General
+  * **General**
 
     * Tidied up various counselor survival exploit locations on all maps
 
-  * Packanack
+  * **Packanack**
 
     * The Phone Box on the cabin can now be repaired regardless of the angle it is approached from
 
     * Fixed an issue that allowed players to drive out of bounds
 
-  * Packanack Small
+  * **Packanack Small**
 
     * Fixed an issue that prevented players from interacting with the Poker in one of the cabins
 
@@ -165,11 +166,11 @@ Level 24 Requirement
 
     * Fixed an issue that caused players to be unable to pick up the Shotgun near the Archery Range
 
-* Vehicles
+* **Vehicles**
 
   * Fixed a bug that was allowing players to cancel the animation while leaving a car
 
-* User Interface
+* **User Interface**
 
   * Jason is able to properly access the scoreboard again
 
@@ -177,10 +178,10 @@ Level 24 Requirement
 
   * Updated the font for the match intro movies
 
-* Matchmaking
+* **Matchmaking**
 
   * Reduced the timer to start the match (only when the lobby is full)
 
-* Sound
+* **Sound**
 
   * Volume of the intro movie reduced
