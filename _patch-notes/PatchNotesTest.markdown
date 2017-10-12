@@ -8,6 +8,7 @@ published: false
 
 New Playable Map: **Jarvis House**
 
+
 ![J4-Jarvis-house_main.png](/uploads/J4-Jarvis-house_main.png)
 
 ### Jason Part 4
@@ -20,8 +21,9 @@ New Playable Jason: **Jason 4**
 * \(\+) Weapon Strength
 * \(\+) Destruction
 * \(-) Water Speed
-* * \(-) Shift
-\(-) Traps
+* \(-) Shift
+* \(-) Traps
+
 
 ![J4 ProsCons.jpg](/uploads/J4%20ProsCons.jpg)
 
@@ -38,11 +40,12 @@ New Playable Counselor: **Mitch Floyd**
 * 6/10 Stealth
 * 3/10 Strength
 
+
 ![Mitch.jpg](/uploads/Mitch.jpg)
 
 ### New Features
 
-**Rain**
+## Rain
 
 * The Rain feature is now available and players may have a chance to encounter this new weather in any of the current playable maps.
 
