@@ -132,8 +132,6 @@ New Playable Counselor: **Mitch Floyd**
  * ~~Fixed an issue that would sometimes cause counselors to disappear from customization menus~~
     * **[Not Fixed]**
 
-~~Fixed an issue that would sometimes cause counselors to disappear from customization menus~~
-
 * **Jason**
 
   * Fixed a bug that was causing Jason 9 to have a higher base HP than intended. His HP should now properly reflect his tooltip
