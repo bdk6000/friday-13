@@ -73,7 +73,7 @@ Level 24 Requirement
 
   * **\[Known Issue\]** Perks that had their values adjusted will have no in-game effect until re-equipped
 
-**`    Originally, Thick Skinned was intended to reduce damage specifically from Jason's attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present.`**
+* `    Originally, Thick Skinned was intended to reduce damage specifically from Jason's attacks. However, there was a bug that was causing Thick Skinned to apply twice which in turn also caused the perk to incorrectly reduce all incoming damage. This issue was fixed in the last patch. After considering our internal testing and community feedback, we agreed that the previous iteration of Thick Skinned worked better for game balance when the inflated damage reduction values were no longer present.`
 
 **Stun Duration adjusted**
 
@@ -84,7 +84,7 @@ Level 24 Requirement
 
 * Reduced the effectiveness of the Grease Monkey perk
 
-    **' Grease Monkey was individually causing too large of an impact. We have adjusted Grease Monkey to be more consistent with other perks.” '**
+    ** ' Grease Monkey was individually causing too large of an impact. We have adjusted Grease Monkey to be more consistent with other perks.” ' **
 
 \[Known Issue\] Perks that had their values adjusted will have no in-game effect until re-equipped
 
