@@ -62,7 +62,7 @@ Level 24 Requirement
 **Counselors pushing**
 
 * Counselors are now able to “push” other counselors
-  \* "In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason."
+    * `"In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason."`
 
 ### Changes
 
@@ -78,14 +78,15 @@ Level 24 Requirement
 **Stun Duration adjusted**
 
 * Jason’s Stun Duration timer has been adjusted
-    * `“Jason’s Stun Duration has been adjusted across all counselors and items to better balance the changes made by the previous bug fix.”`
+
+ * `“Jason’s Stun Duration has been adjusted across all counselors and items to better balance the changes made by the previous bug fix.”`
 
 **Grease Monkey perk re-balanced**
 
 * Reduced the effectiveness of the Grease Monkey perk
-    * ` "Grease Monkey was individually causing too large of an impact. We have adjusted Grease Monkey to be more consistent with other perks.”` 
+    * **\[Known Issue\]** Perks that had their values adjusted will have no in-game effect until re-equipped
+* ` "Grease Monkey was individually causing too large of an impact. We have adjusted Grease Monkey to be more consistent with other perks.”` 
 
-\[Known Issue\] Perks that had their values adjusted will have no in-game effect until re-equipped
 
 **Trap Damage adjusted**
 * All counselors now take the same amount of damage from traps
