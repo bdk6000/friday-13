@@ -14,19 +14,13 @@ New Playable Map: **Jarvis House**
 
 New Playable Jason: **Jason 4**
 
-Level 44 Requirement
-Weapon: Pig Splitter
-
-\(\+) Can Run
-
-\(\+) Weapon Strength
-
-\(\+) Destruction
-
-\(-) Water Speed
-
-\(-) Shift
-
+* Level 44 Requirement
+* Weapon: Pig Splitter
+* \(\+) Can Run
+* \(\+) Weapon Strength
+* \(\+) Destruction
+* \(-) Water Speed
+* * \(-) Shift
 \(-) Traps
 
 ![J4 ProsCons.jpg](/uploads/J4%20ProsCons.jpg)
@@ -35,21 +29,14 @@ Weapon: Pig Splitter
 
 New Playable Counselor: **Mitch Floyd**
 
-Level 24 Requirement
-
-9/10 Composure
-
-2/10 Luck
-
-8/10 Repair
-
-3/10 Speed
-
-4/10 Stamina
-
-6/10 Stealth
-
-3/10 Strength
+* Level 24 Requirement
+* 9/10 Composure
+* 2/10 Luck
+* 8/10 Repair
+* 3/10 Speed
+* 4/10 Stamina
+* 6/10 Stealth
+* 3/10 Strength
 
 ![Mitch.jpg](/uploads/Mitch.jpg)
 
