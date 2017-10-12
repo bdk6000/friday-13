@@ -47,17 +47,19 @@ New Playable Counselor: **Mitch Floyd**
 
 ## Rain
 
+
 * The Rain feature is now available and players may have a chance to encounter this new weather in any of the current playable maps.
 
-**Counselors pushing**
+## Counselors pushing
 
 * Counselors are now able to “push” other counselors
 
-    *`"In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason."`*
+    ***`"In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason."`***
 
 ### Changes
 
-**Thick Skinned perk changes**
+## Thick Skinned perk changes
+
 * Thick Skinned now reduces ALL damage
 
 * The tooltip for Thick Skinned has been changed from “Take less damage from all incoming attacks.” to “Take less damage.“
