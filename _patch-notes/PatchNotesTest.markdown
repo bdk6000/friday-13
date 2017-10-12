@@ -8,9 +8,9 @@ published: false
 
 New Playable Map: **Jarvis House**
 
-![vaca_home.jpg](/uploads/vaca_home.jpg){:height="36px" width="36px"}
-![Jarvis_house.jpg](/uploads/Jarvis_house.jpg){:height="36px" width="36px"}
-![Jarvis Map.jpg](/uploads/Jarvis%20Map.jpg){:height="36px" width="36px"}
+![vaca_home.jpg](/uploads/vaca_home.jpg){:height="400px" width="400px"}
+![Jarvis_house.jpg](/uploads/Jarvis_house.jpg){:height="500px" width="500px"}
+![Jarvis Map.jpg](/uploads/Jarvis%20Map.jpg){:height="600px" width="600px"}
 
 
 
