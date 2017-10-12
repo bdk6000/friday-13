@@ -64,7 +64,7 @@ Level 24 Requirement
 * Counselors are now able to “push” other counselors
   \* "In order to prevent players from griefing via “bodyblocking”, we have introduced a new feature that allows Counselors to push each other. The player being pushed will slowly walk away in the direction opposite of the player pushing. This feature does not affect Jason."
 
-**Changes**
+### Changes
 
 **Thick Skinned perk changes**
 * Thick Skinned now reduces ALL damage
