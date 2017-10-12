@@ -129,7 +129,7 @@ New Playable Counselor: **Mitch Floyd**
 
   * Fixed an issue that caused players to sometimes become stuck if they used the Emote Wheel while in hiding
 
- * Fixed an issue that would sometimes cause counselors to disappear from customization menus ~~
+ * ~~Fixed an issue that would sometimes cause counselors to disappear from customization menus~~
     * **[Not Fixed]**
 
 ~~Fixed an issue that would sometimes cause counselors to disappear from customization menus~~
