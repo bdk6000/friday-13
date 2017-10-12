@@ -86,7 +86,7 @@ Level 24 Requirement
 
 * Reduced the effectiveness of the Grease Monkey perk
     * **\[Known Issue\]** Perks that had their values adjusted will have no in-game effect until re-equipped
-* ` "Grease Monkey was individually causing too large of an impact. We have adjusted Grease Monkey to be more consistent with other perks.”` 
+    *` "Grease Monkey was individually causing too large of an impact. We have adjusted Grease Monkey to be more consistent with other perks.”`* 
 
 
 * **Trap Damage adjusted**
