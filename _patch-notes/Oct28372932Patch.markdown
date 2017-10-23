@@ -4,3 +4,137 @@ date: 2017-10-23 19:47:00 -04:00
 published: false
 ---
 
+### **Counselor Fox**
+
+New Playable Counselor: **Fox**
+
+* Level 24 Requirement
+
+* 9/10 Composure
+
+* 2/10 Luck
+
+* 8/10 Repair
+
+* 3/10 Speed
+
+* 4/10 Stamina
+
+* 6/10 Stealth
+
+* 3/10 Strength
+
+[![Mitch.jpg](/uploads/Mitch.jpg){:width="630px"}
+](http://f13game.com/uploads/Mitch.jpg)
+
+### **New Features**
+
+**Feature Name**
+
+* Feature #1
+
+  *`"Feature Quote"`*
+
+### **Changes**
+
+**Change Name/Desc**
+
+* Change#1
+
+* Change#2
+
+  *`"Change Quote"`*
+
+
+### **Bug Fixes**
+
+* **Perks**
+
+  * 
+
+  * 
+
+  * 
+
+
+* **Counselors**
+
+  * 
+
+  * 
+
+  * 
+
+  * 
+
+
+* **Jason**
+
+  * 
+
+  * 
+
+  * 
+
+  * 
+
+* **Tommy Jarvis**
+
+  * 
+
+  * 
+
+  * 
+
+  * 
+
+* **Spectators**
+
+  * 
+
+  * 
+
+* **Maps**
+
+  * **General**
+
+    * 
+
+  * **Packanack**
+
+    * 
+
+    * 
+
+  * **Packanack Small**
+
+    * 
+
+    * 
+
+    * 
+
+    * 
+
+* **Vehicles**
+
+  * 
+
+* **User Interface**
+
+  * 
+
+  * 
+
+  * 
+
+* **Matchmaking**
+
+  * 
+
+* **Sound**
+
+  * 
+
+
+## [[Click here to discuss the patch notes on the Official Forums]](Link)
