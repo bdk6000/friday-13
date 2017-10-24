@@ -24,9 +24,9 @@ New Playable Counselor: **Fox**
 
 * 6/10 Strength
 
+[![/uploads/CounselorFox4.jpg](/uploads/CounselorFox4.jpg){:width="744px"}](http://f13game.com/uploads/CounselorFox4.jpg)
 [![/uploads/CounselorFox1.jpg](/uploads/CounselorFox1.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox1.jpg)
 [![CounselorFox2.jpg.jpg](/uploads/CounselorFox2.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox2.jpg)
-[![/uploads/CounselorFox3.jpg](/uploads/CounselorFox3.jpg){:width="740px"}](http://f13game.com/uploads/CounselorFox3.jpg)
 
 ### **Jarvis 2.0 Update**
 
@@ -49,7 +49,7 @@ The new kills interact with objects such as:
 [![EnvKillBoomBox.jpg](/uploads/EnvKillBoomBox.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillBoomBox.jpg)
 [![EnvKillThroatSlit.jpg](/uploads/EnvKillThroatSlit.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillThroatSlit.jpg)
 [![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
-[![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="740px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
+[![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="744px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
 
 **Gamelift Servers (Steam)**
 
