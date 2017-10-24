@@ -8,21 +8,21 @@ published: false
 
 New Playable Counselor: **Fox**
 
-* Level 24 Requirement
+* Level 32 Requirement
 
-* 9/10 Composure
+* 6/10 Composure
 
-* 2/10 Luck
+* 3/10 Luck
 
-* 8/10 Repair
+* 5/10 Repair
 
-* 3/10 Speed
+* 6/10 Speed
 
-* 4/10 Stamina
+* 5/10 Stamina
 
-* 6/10 Stealth
+* 4/10 Stealth
 
-* 3/10 Strength
+* 6/10 Strength
 
 [![Mitch.jpg](/uploads/Mitch.jpg){:width="630px"}
 ](http://f13game.com/uploads/Mitch.jpg)
