@@ -58,7 +58,15 @@ New Playable Counselor: **Fox**
 
 * 5 New Environmental Kills
 
-  *`"5 New Environmental Kills Quote"`*
+[![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="620px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
+
+[![EnvKillFaceBoil.jpg](/uploads/EnvKillFaceBoil.jpg){:width="310px"}](http://f13game.com/uploads/EnvKillFaceBoil.jpg)
+
+[![EnvKillBoomBox.jpg](/uploads/EnvKillBoomBox.jpg){:width="310px"}](http://f13game.com/uploads/EnvKillBoomBox.jpg)
+
+[![EnvKillThroatSlit.jpg](/uploads/EnvKillThroatSlit.jpg){:width="310px"}](http://f13game.com/uploads/EnvKillThroatSlit.jpg)
+
+[![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg){:width="310px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
 
 **Gamelift Servers (Steam)**
 
