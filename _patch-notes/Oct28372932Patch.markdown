@@ -24,7 +24,7 @@ New Playable Counselor: **Fox**
 
 * 6/10 Strength
 
-[![vaca_home.jpg](/uploads/Jarvis%20Map.jpg){:width="125px"}](http://f13game.com/uploads/Jarvis%20Map.jpg)
+![vaca_home.jpg](/uploads/Jarvis%20Map.jpg)[{:width="325px"}](http://f13game.com/uploads/Jarvis%20Map.jpg)
 
 ### **New Features**
 
@@ -33,20 +33,22 @@ New Playable Counselor: **Fox**
 * Jarvis Features WOAH
 
   *`"Jarvis 2.0 Quote"`*
-  
+
 **New Environmental Kills**
+
+## **Screwdriver**
+![vaca_home.jpg](/uploads/Jarvis%20Map.jpg)[{:width="325px"}](http://f13game.com/uploads/Jarvis%20Map.jpg)
+## **Stove Top**
+![vaca_home.jpg](/uploads/Jarvis%20Map.jpg)[{:width="325px"}](http://f13game.com/uploads/Jarvis%20Map.jpg)
 
 * 5 New Environmental Kills
 
   *`"5 New Environmental Kills Quote"`*
 
-  
 **Gamelift Servers (Steam)**
 
-* 
+* *`"Gamelift Servers (Steam) Quote"`*
 
-  *`"Gamelift Servers (Steam) Quote"`*
-  
 ### **Changes**
 
 **Change Name/Desc**
@@ -56,7 +58,6 @@ New Playable Counselor: **Fox**
 * Change#2
 
   *`"Change Quote"`*
-
 
 ### **Bug Fixes**
 
@@ -71,7 +72,6 @@ New Playable Counselor: **Fox**
   * 
 
   * 
-
 
 * **Perks**
 
@@ -92,7 +92,6 @@ New Playable Counselor: **Fox**
   * 
 
   * 
-
 
 * **Jason**
 
@@ -158,7 +157,7 @@ New Playable Counselor: **Fox**
 
   * 
 
-  *
+  * 
 
 * **Emotes**
 
@@ -176,5 +175,4 @@ New Playable Counselor: **Fox**
 
   * 
 
-
-## [[Click here to discuss the patch notes on the Official Forums]](Link)
+## [\[Click here to discuss the patch notes on the Official Forums\]](Link)
