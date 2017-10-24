@@ -25,8 +25,8 @@ New Playable Counselor: **Fox**
 * 6/10 Strength
 
 [![/uploads/CounselorFox4.jpg](/uploads/CounselorFox4.jpg){:width="744px"}](http://f13game.com/uploads/CounselorFox4.jpg)
-[![/uploads/CounselorFox1.jpg](/uploads/CounselorFox1.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox1.jpg)
-[![CounselorFox2.jpg.jpg](/uploads/CounselorFox2.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox2.jpg)
+[![/uploads/CounselorFox2.jpg](/uploads/CounselorFox2.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox2.jpg)
+[![CounselorFox2.jpg.jpg](/uploads/CounselorFox1.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox1.jpg)
 
 ### **Jarvis 2.0 Update**
 
