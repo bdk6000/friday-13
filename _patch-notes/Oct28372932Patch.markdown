@@ -6,7 +6,6 @@ published: false
 
 alkdjalwkjdlkasdlasjdklajklsdjaklsdajsldjasdklajkdjalsdkajsdlaklsdjasdkzklcnjacnajksdjkahdjajsdhakjsdhjakshdjkahsdjkahsjkdajksdhajksdnjkasnjkcnzjkxbdjkashdkashdjkahdjksahdjkhzjkchzjkchjkxzhcjkhxzcjkzjxczjkxhcjkzhcjkxhckjzhxcjkhzjkcxhjkzhxcjkzhcjkzhxcjkhzjkxchzkchjkxzchjkzhck
 
-
 ### **Counselor Fox**
 
 New Playable Counselor: **Fox**
@@ -27,9 +26,9 @@ New Playable Counselor: **Fox**
 
 * 6/10 Strength
 
-[![/uploads/CounselorFox4.jpg](/uploads/CounselorFox4.jpg){:width="744px"}](http://f13game.com/uploads/CounselorFox4.jpg)
-[![/uploads/CounselorFox2.jpg](/uploads/CounselorFox2.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox2.jpg)
-[![CounselorFox2.jpg.jpg](/uploads/CounselorFox1.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox1.jpg)
+[![/uploads/CounselorFox4.jpg](/uploads/CounselorFox4.jpg)[{:width="744px"}](http://f13game.com/uploads/CounselorFox4.jpg)
+[![/uploads/CounselorFox2.jpg](/uploads/CounselorFox2.jpg)[{:width="370px"}](http://f13game.com/uploads/CounselorFox2.jpg)
+[![CounselorFox2.jpg.jpg](/uploads/CounselorFox1.jpg)[{:width="370px"}](http://f13game.com/uploads/CounselorFox1.jpg)
 
 ### **Jarvis 2.0 Update**
 
@@ -39,20 +38,24 @@ New Playable Counselor: **Fox**
 
 ### **5 New Environmental Kills**
 
-5 New Environmental Kills have been added to every map to spice things up a little bit! 
+5 New Environmental Kills have been added to every map to spice things up a little bit!
 The new kills interact with objects such as:
 
 * Stove Top
+
 * Boom Box
+
 * Kitchen Knife (Throat Slit)
+
 * Kitchen Knife (Stab)
+
 * Screw Driver
 
-[![EnvKillFaceBoil.jpg](/uploads/EnvKillFaceBoil.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillFaceBoil.jpg)
-[![EnvKillBoomBox.jpg](/uploads/EnvKillBoomBox.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillBoomBox.jpg)
-[![EnvKillThroatSlit.jpg](/uploads/EnvKillThroatSlit.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillThroatSlit.jpg)
-[![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
-[![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="744px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
+[![EnvKillFaceBoil.jpg](/uploads/EnvKillFaceBoil.jpg)[{:width="370px"}](http://f13game.com/uploads/EnvKillFaceBoil.jpg)
+[![EnvKillBoomBox.jpg](/uploads/EnvKillBoomBox.jpg)[{:width="370px"}](http://f13game.com/uploads/EnvKillBoomBox.jpg)
+[![EnvKillThroatSlit.jpg](/uploads/EnvKillThroatSlit.jpg)[{:width="370px"}](http://f13game.com/uploads/EnvKillThroatSlit.jpg)
+[![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg)[{:width="370px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
+[![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg)[{:width="744px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
 
 **Gamelift Servers (Steam)**
 
