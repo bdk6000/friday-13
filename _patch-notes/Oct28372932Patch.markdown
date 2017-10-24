@@ -24,7 +24,7 @@ New Playable Counselor: **Fox**
 
 * 6/10 Strength
 
-![vaca_home.jpg](/uploads/Jarvis%20Map.jpg)[{:width="325px"}](http://f13game.com/uploads/Jarvis%20Map.jpg)
+
 
 
 ### **Jarvis 2.0 Update**
@@ -37,11 +37,11 @@ New Playable Counselor: **Fox**
 
 ## **Screwdriver**
 
-![vaca_home.jpg](/uploads/Jarvis%20Map.jpg)[{:width="125px"}](http://f13game.com/uploads/Jarvis%20Map.jpg)
+[![vaca_home.jpg](/uploads/Jarvis%20Map.jpg){:width="125px"}](http://f13game.com/uploads/Jarvis%20Map.jpg)
 
 ## **Stove Top**
 
-![vaca_home.jpg](/uploads/Jarvis%20Map.jpg)[{:width="225px"}](http://f13game.com/uploads/Jarvis%20Map.jpg)
+[![vaca_home.jpg](/uploads/Jarvis_house.jpg){:width="230px"}](http://f13game.com/uploads/Jarvis_house.jpg)
 
 * 5 New Environmental Kills
 
