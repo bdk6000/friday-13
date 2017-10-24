@@ -58,15 +58,15 @@ New Playable Counselor: **Fox**
 
 * 5 New Environmental Kills
 
-[![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="600px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
+[![EnvKillFaceBoil.jpg](/uploads/EnvKillFaceBoil.jpg){:width="250px"}](http://f13game.com/uploads/EnvKillFaceBoil.jpg)
 
-[![EnvKillFaceBoil.jpg](/uploads/EnvKillFaceBoil.jpg){:width="280px"}](http://f13game.com/uploads/EnvKillFaceBoil.jpg)
-
-[![EnvKillBoomBox.jpg](/uploads/EnvKillBoomBox.jpg){:width="280px"}](http://f13game.com/uploads/EnvKillBoomBox.jpg)
+[![EnvKillBoomBox.jpg](/uploads/EnvKillBoomBox.jpg){:width="250px"}](http://f13game.com/uploads/EnvKillBoomBox.jpg)
 
 [![EnvKillThroatSlit.jpg](/uploads/EnvKillThroatSlit.jpg){:width="280px"}](http://f13game.com/uploads/EnvKillThroatSlit.jpg)
 
 [![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg){:width="280px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
+
+[![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="600px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
 
 **Gamelift Servers (Steam)**
 
