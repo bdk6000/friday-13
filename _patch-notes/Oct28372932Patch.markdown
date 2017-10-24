@@ -38,12 +38,23 @@ New Playable Counselor: **Fox**
 ## **Screwdriver**
 
 
-[![vaca_home.jpg](/uploads/Jarvis%20Map.jpg){:width="625px"}](http://f13game.com/uploads/Jarvis%20Map.jpg)
+[![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="625px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
 
 ## **Stove Top**
 
+[![EnvKillFaceBoil.jpg](/uploads/EnvKillFaceBoil.jpg){:width="625px"}](http://f13game.com/uploads/EnvKillFaceBoil.jpg)
 
-[![vaca_home.jpg](/uploads/Jarvis_house.jpg){:width="625px"}](http://f13game.com/uploads/Jarvis_house.jpg)
+## **Boom Box**
+
+[![EnvKillBoomBox.jpg](/uploads/EnvKillBoomBox.jpg){:width="625px"}](http://f13game.com/uploads/EnvKillBoomBox.jpg)
+
+## **Throat Slit**
+
+[![EnvKillThroatSlit.jpg](/uploads/EnvKillThroatSlit.jpg){:width="625px"}](http://f13game.com/uploads/EnvKillThroatSlit.jpg)
+
+## **Super Stab**
+
+[![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg){:width="625px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
 
 * 5 New Environmental Kills
 
