@@ -29,7 +29,7 @@ published: false
 <p>&nbsp;</p>
 
 
-<h3 style="text-align: center;"><span style="font-size:40px;"><strong>Tommy Jarvis 2.0 Update (AND JARVIS TAPES)</strong></span></h3>
+<h3 style="text-align: center;"><span style="font-size:40px;"><strong>Tommy Jarvis 2.0 (Jarvis Tapes!)</strong></span></h3>
 <p>&nbsp;</p>
 <p><a title="Hero Jarvis" href="/uploads/HeroJarvis.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/HeroJarvis.jpg" alt="Hero Jarvis" width="760" /></a></p>
 <p>&nbsp;</p>
