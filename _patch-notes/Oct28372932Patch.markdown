@@ -12,13 +12,13 @@ published: false
  Fox</strong></span></h3>
 
 <h4><a title="Fox Character Screen" href="/uploads/CounselorFox4.jpg"><img style="float: right;" src="/uploads/CounselorFox4.jpg" alt="Fox Character Screen" width="440" /></a>Level 32 Requirement</h4>
-<h4>6/10 Composure</h4>
-<h4>3/10 Luck</h4>
-<h4>5/10 Repair</h4>
-<h4>6/10 Speed</h4>
-<h4>5/10 Stamina</h4>
-<h4>4/10 Stealth</h4>
-<h4>6/10 Strength</h4>
+<h5>6/10 Composure</h5>
+<h5>3/10 Luck</h5>
+<h5>5/10 Repair</h5>
+<h5>6/10 Speed</h5>
+<h5>5/10 Stamina</h5>
+<h5>4/10 Stealth</h5>
+<h5>6/10 Strength</h5>
 
 <p>&nbsp;</p>
 
