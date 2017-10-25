@@ -6,6 +6,15 @@ published: false
 
 5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!
 
+<h3 style="text-align: center;"><span style="font-size:35px;"><strong>New Counselor:
+ Fox</strong></span></h3>
+<p>&nbsp;</p>
+<h5><img style="border-width: 5px; float: right;" src="http://f13game.com/uploads/Jarvis_house.jpg" width="370" />Level 32 Requirement<br />6/10 Composure<br />3/10 Luck<br />5/10 Repair<br />6/10 Speed<br />5/10 Stamina<br />4/10 Stealth<br />6/10 Strength</h5>
+
+
+
+
+
 <h3 align="center">New Counselor Fox</h3>
 
 #### Level **32** Requirement
@@ -28,7 +37,7 @@ published: false
 [![/uploads/CounselorFox2.jpg](/uploads/CounselorFox2.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox2.jpg)
 [![CounselorFox2.jpg.jpg](/uploads/CounselorFox1.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox1.jpg)
 
-<h3 style="text-align: center;"><span style="font-size:35px;"><strong>Jarvis 2.0 Update</strong></span></h3>
+<h3 style="text-align: center;"><span style="font-size:35px;"><strong>Tommy Jarvis 2.0 Update</strong></span></h3>
 
 * Jarvis Features WOAH
 
@@ -56,12 +65,6 @@ The new kills interact with objects such as:
 [![EnvKillThroatSlit.jpg](/uploads/EnvKillThroatSlit.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillThroatSlit.jpg)
 [![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
 [![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="744px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
-
-<h3 style="text-align: center;"><span style="font-size:35px;"><strong>Jarvis 2.0 Update</strong></span></h3>
-<p>&nbsp;</p>
-<p>Level 32 Requirement<br />6/10 Composure<br />3/10 Luck<br />5/10 Repair<br />6/10 Speed<br />5/10 Stamina<br />4/10 Stealth<br />6/10 Strength</p>
-<p><img style="border-width: 1px; float: right;" src="http://f13game.com/uploads/Jarvis_house.jpg" width="370" />Level 32 Requirement<br />6/10 Composure<br />3/10 Luck<br />5/10 Repair<br />6/10 Speed<br />5/10 Stamina<br />4/10 Stealth<br />6/10 Strength</p>
-
 
 <h3 align="center">Changes</h3>
 
