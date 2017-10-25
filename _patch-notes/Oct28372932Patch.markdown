@@ -60,7 +60,7 @@ published: false
 
 <h4 align="center">Made changes to how Jason receives kill credit</h4>
 ---
-
+<p>&nbsp;</p>
 * Jason now properly receives XP during the kill animation even if the Counselor disconnects before the kill is complete
 
   *`"Players were able to QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
@@ -69,7 +69,7 @@ published: false
 
 <h4 align="center">Vehicle Parts</h4>
 ---
-
+<p>&nbsp;</p>
 * Vehicle Parts now show up on map h4h4h4
 
   *`"This is a Quality of Life change to help QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`* 
@@ -78,7 +78,7 @@ published: false
 
 <h4 align="center">Changes made to Jason's Grab</h4>
 ---
-
+<p>&nbsp;</p>
 * Jason's Grab radius has been reduced
 * Jason's Grab maximum range has been reduced
 
@@ -88,7 +88,7 @@ published: false
 
 <h4 align="center">Emote and Scoreboard key mapping changed on controllers</h4>
 ---
-
+<p>&nbsp;</p>
 * The Emote Wheel is now accessible by **holding down** the [Y]/[Triangle] button on controllers
 
 * Pressing [UP] on the D-Pad brings up the Scoreboard as it did originally
@@ -100,7 +100,7 @@ published: false
 
 <h4 align="center">Gamelift Servers (STEAM)</h4>
 ---
-
+<p>&nbsp;</p>
 * Gamelift
 
   *`""The Steam Dedicated servers have been moved to QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE""`*
