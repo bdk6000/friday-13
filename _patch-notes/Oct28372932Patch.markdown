@@ -23,7 +23,7 @@ published: false
 
 5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!
 
-<p><a title="Fox Character Screen" href="/uploads/CounselorFox4"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/CounselorFox4.jpg" alt="Fox Character Screen" width="760" /></a></p>
+<p><a title="Fox Character Screen" href="/uploads/CounselorFox4.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/CounselorFox4.jpg" alt="Fox Character Screen" width="760" /></a></p>
 <p><a title="Fox 1" href="/uploads/CounselorFox1.jpg"><img style="float: left;" src="/uploads/CounselorFox1.jpg" width="365" /></a><a title="Fox 2" href="/uploads/CounselorFox2.jpg"><img style="float: right;" src="/uploads/CounselorFox2.jpg" width="365" /></a></p>
 
 <p>&nbsp;</p>
@@ -57,6 +57,14 @@ The new kills interact with objects such as:
 [![EnvKillThroatSlit.jpg](/uploads/EnvKillThroatSlit.jpg){:width="365px"}](http://f13game.com/uploads/EnvKillThroatSlit.jpg)
 [![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg){:width="365px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
 [![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="744px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
+
+
+<p><a title="Stove Top Kill" href="/uploads/EnvKillFaceBoil.jpg"><img style="float: left;" src="/uploads/EnvKillFaceBoil.jpg" width="375" /></a><a title="Boom Box Kill" href="/uploads/EnvKillBoomBox.jpg"><img style="float: right;" src="/uploads/EnvKillBoomBox.jpg" width="375" /></a></p>
+
+<p><a title="Kitchen Knife Throat Slit Kill" href="/uploads/EnvKillThroatSlit.jpg"><img style="float: left;" src="/uploads/EnvKillThroatSlit.jpg" width="375" /></a><a title="Kitchen Knife Stab Kill" href="/uploads/EnvKillSuperStab.jpg"><img style="float: right;" src="/uploads/EnvKillSuperStab.jpg" width="375" /></a></p>
+
+<p><a title="Screwdriver kill" href="/uploads/EnvKillScrewDriver.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/EnvKillScrewDriver.jpg" alt="Screwdriver kill" width="760" /></a></p>
+
 
 <h3 align="center">Changes</h3>
 
