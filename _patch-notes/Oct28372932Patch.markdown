@@ -46,7 +46,7 @@ We have also added an additional post round reward screen to show XP gained whil
 
 <h4 style="text-align: center;"><span style="font-size:30px;"><strong>Jarvis Tapes have been added!</strong></span></h4>
 ---
-<p style="text-align: center;"Tommy Jarvis Tapes have also been added alongside the TJ 2.0 update. These are collected in the same way as the Pamela tapes and there are 20 Jarvis tapes in total.</p>
+<p style="text-align: center;">Tommy Jarvis Tapes have also been added alongside the TJ 2.0 update. These are collected in the same way as the Pamela tapes and there are 20 Jarvis tapes in total.</p>
 
 <p><a title="Jarvis Tape" href="/uploads/JarvisTape2.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/JarvisTape2.jpg" alt="Jarvis Tape" width="760" /></a></p>
 
