@@ -9,7 +9,7 @@ published: false
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Counselor:
  Fox</strong></span></h3>
 
-<p style="text-align: center;">5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!</p>
+<p style="text-align: left;">A new counselor has arrived in Camp Crystal Lake and her name is Fox!</p>
 
 <h4 style="text-align: center;">Level 32 Requirement</h4>
 <h4 style="text-align: center;">6/10 Composure</h4>
@@ -42,7 +42,7 @@ published: false
 
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Environmental kills</strong></span></h3>
 
-<p style="text-align: left;">5 New environmental kills have been added to Jason's arsenal. These kills are available on every single available map and can be executed by all the Jason variants. This should spice things up a bit on Camp Crystal Lake! Counselors will need to be extra careful, as Jason is now able to use these following household items as environmental kills:</p>
+<p style="text-align: left;">5 New environmental kills have been added to Jason's arsenal! These kills are available on every single available map and can be executed by all the Jason variants. This should spice things up a bit on Camp Crystal Lake! Counselors will need to be extra careful, as Jason is now able to use these following household items as environmental kills:</p>
 <h4 style="text-align: center;">Stove Top</h4>
 <h4 style="text-align: center;">Boom Box</h4>
 <h4 style="text-align: center;">Kitchen Knife (Throat Slit)</h4>
