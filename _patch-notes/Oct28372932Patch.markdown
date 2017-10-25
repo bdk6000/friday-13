@@ -11,6 +11,8 @@ published: false
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Counselor:
  Fox</strong></span></h3>
 
+<p style="text-align: center;">5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!</p>
+
 <h4 style="text-align: center;">Level 32 Requirement</h4>
 <h4 style="text-align: center;">6/10 Composure</h4>
 <h4 style="text-align: center;">3/10 Luck</h4>
@@ -20,11 +22,12 @@ published: false
 <h4 style="text-align: center;">4/10 Stealth</h4>
 <h4 style="text-align: center;">6/10 Strength</h4>
 
-<p style="text-align: center;">5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!</p>
+
 
 <p><a title="Fox Character Screen" href="/uploads/CounselorFox4.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/CounselorFox4.jpg" alt="Fox Character Screen" width="760" /></a></p>
 <p><a title="Fox 1" href="/uploads/CounselorFox1.jpg"><img style="float: left;" src="/uploads/CounselorFox1.jpg" width="375" /></a><a title="Fox 2" href="/uploads/CounselorFox2.jpg"><img style="float: right;" src="/uploads/CounselorFox2.jpg" width="375" /></a></p>
 
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
