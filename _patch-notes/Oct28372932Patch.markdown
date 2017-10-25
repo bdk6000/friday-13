@@ -28,7 +28,6 @@ published: false
 [![/uploads/CounselorFox2.jpg](/uploads/CounselorFox2.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox2.jpg)
 [![CounselorFox2.jpg.jpg](/uploads/CounselorFox1.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox1.jpg)
 
----
 
 ### **Jarvis 2.0 Update**
 
