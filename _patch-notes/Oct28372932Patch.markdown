@@ -59,7 +59,7 @@ The new kills interact with objects such as:
 [![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
 [![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="744px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
 
----
+___
 
 ### **Changes**
 
