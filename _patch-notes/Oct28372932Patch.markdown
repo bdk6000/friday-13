@@ -21,32 +21,13 @@ published: false
 ##### 4/10 Stealth
 ##### 6/10 Strength
 
-
-<p><a title="Fox Character Screen" href="/uploads/CounselorFox4"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/CounselorFox4.jpg" alt="Fox Character Screen" width="440" /></a></p>
-<p><a title="Fox 1" href="/uploads/CounselorFox1.jpg"><img style="float: left;" src="/uploads/CounselorFox1.jpg" width="350" /></a><a title="Fox 2" href="/uploads/CounselorFox2.jpg"><img style="float: right;" src="/uploads/CounselorFox2.jpg" width="350" /></a></p>
-
-
-<h3 align="center">New Counselor Fox</h3>
-
-#### Level **32** Requirement
-##### 6/10 Composure
-##### 3/10 Luck
-##### 5/10 Repair
-##### 6/10 Speed
-##### 5/10 Stamina
-##### 4/10 Stealth
-##### 6/10 Strength
-
 5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!
 
-5 New Environmental Kills have been added to every map to spice things up a little bit!
+<p><a title="Fox Character Screen" href="/uploads/CounselorFox4"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/CounselorFox4.jpg" alt="Fox Character Screen" width="780" /></a></p>
+<p><a title="Fox 1" href="/uploads/CounselorFox1.jpg"><img style="float: left;" src="/uploads/CounselorFox1.jpg" width="350" /></a><a title="Fox 2" href="/uploads/CounselorFox2.jpg"><img style="float: right;" src="/uploads/CounselorFox2.jpg" width="350" /></a></p>
 
+<p>&nbsp;</p>
 
----
-
-[![/uploads/CounselorFox4.jpg](/uploads/CounselorFox4.jpg){:width="744px"}](http://f13game.com/uploads/CounselorFox4.jpg)
-[![/uploads/CounselorFox2.jpg](/uploads/CounselorFox2.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox2.jpg)
-[![CounselorFox2.jpg](/uploads/CounselorFox1.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox1.jpg)
 
 <h3 style="text-align: center;"><span style="font-size:35px;"><strong>Tommy Jarvis 2.0 Update</strong></span></h3>
 
