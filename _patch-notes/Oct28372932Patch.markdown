@@ -126,7 +126,7 @@ published: false
 
   * Players are no longer able to find duplicate Tapes
 
-    * Includes both Pamela Tapes and Jarvis Tapes 
+    * Applies to both the Pamela Tapes and the Jarvis Tapes 
 
   * Fixed a bug that caused Medical Sprays to sometimes show the incorrect number of remaining uses
 
