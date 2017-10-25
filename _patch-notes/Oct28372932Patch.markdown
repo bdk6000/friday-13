@@ -31,15 +31,22 @@ published: false
 
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>Tommy Jarvis 2.0 Update</strong></span></h3>
 
-* Tommy Jarvis Update
+Tommy Jarvis has had a pep talk and is now has the courage and determination to protect all the Counselors of Camp Crystal lake. In this update, we tried to clear define what it means to play as Tommy Jarvis. Players chosen as Jarvis should prioritize saving the other Counselors from Jason and helping them escape. 
 
 (Jarvis 2.0) Separate Post Round XP
+
 (Jarvis 2.0) Removed the VO when TJ spawns in
+
 (Jarvis 2.0) Jarvis spawn in text changed to "Save the Counselors"
+
 (Jarvis 2.0) Jarvis no longer startled by dead bodies
+
 (Jarvis 2.0) Jarvis starts with Med Spray and Pocket Knife
+
 (Jarvis 2.0) Jarvis gets an XP bonus for Counselors who escape while he is nearby
+
 (Jarvis 2.0) Jarvis gets an XP bonus for saving counselors and then dying 
+
 (Jarvis 2.0) Tommy Jarvis Tapes
 
   *`""`*
