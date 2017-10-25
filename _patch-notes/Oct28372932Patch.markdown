@@ -169,6 +169,8 @@ We have also added an additional post round reward screen to show XP gained whil
 
   * Added a minimum required distance between Jason traps to prevent players from being able to multi-trap objectives and chain stun Counselors 
 
+  * Fixed a bug that caused Jason Part (2/6/9) to have slightly higher HP than intended
+
   * Fixed some issues that were caused by Jason walking across the Police Line while holding a Counselor
 
 <p>&nbsp;</p>
