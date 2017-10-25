@@ -152,11 +152,9 @@ published: false
 
   * Added a minimum required distance between Jason traps to prevent being able to "chain stun" Counselors
 
-  * 
+  * Fixed a bug that caused Jason to do extra damage to doors and walls
 
-  * 
-
-  * 
+  * Fixed some issues that were caused by Jason walking across the Police Line while holding a Counselor
 
 * **Spectators**
 
