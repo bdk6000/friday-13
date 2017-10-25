@@ -28,13 +28,13 @@ published: false
 [![/uploads/CounselorFox2.jpg](/uploads/CounselorFox2.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox2.jpg)
 [![CounselorFox2.jpg.jpg](/uploads/CounselorFox1.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox1.jpg)
 
-<h3 align="center">Jarvis 2.0 Update</h3>
+<h3 style="text-align: center;"><span style="font-size:14px;"><strong>Jarvis 2/0 Update</strong></span></h3>
 
 * Jarvis Features WOAH
 
   *`"Jarvis 2.0 Quote"`*
 
-### **5 New Environmental Kills**
+<h3 align="center">5 New Environmental Kills</h3>
 
 5 New Environmental Kills have been added to every single map to spice things up a little bit!  
 The new kills interact with objects such as:
