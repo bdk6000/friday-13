@@ -57,7 +57,7 @@ The new kills interact with objects such as:
 [![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
 [![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="744px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
 
-<h3 style="text-align: center;"><span style="font-size:35px;"><strong>New Counselor Fox</strong></h3>
+<h3 style="text-align: center;"><span style="font-size:35px;"><strong>Jarvis 2.0 Update</strong></span></h3>
 <p>&nbsp;</p>
 <p>Level 32 Requirement<br />6/10 Composure<br />3/10 Luck<br />5/10 Repair<br />6/10 Speed<br />5/10 Stamina<br />4/10 Stealth<br />6/10 Strength</p>
 <p><img style="border-width: 1px; float: right;" src="http://f13game.com/uploads/Jarvis_house.jpg" width="370" />Level 32 Requirement<br />6/10 Composure<br />3/10 Luck<br />5/10 Repair<br />6/10 Speed<br />5/10 Stamina<br />4/10 Stealth<br />6/10 Strength</p>
