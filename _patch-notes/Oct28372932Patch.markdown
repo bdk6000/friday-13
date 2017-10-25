@@ -4,40 +4,23 @@ date: 2017-10-23 19:47:00 -04:00
 published: false
 ---
 
+<p>&nbsp;</p>
 <p align="center">5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!</p>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 
 <h3 style="text-align: center;"><span style="font-size:35px;"><strong>New Counselor:
  Fox</strong></span></h3>
 
-<ul style="list-style-type: circle;">
-<li>
 <h4><a title="Fox Character Screen" href="/uploads/CounselorFox4.jpg"><img style="float: right;" src="/uploads/CounselorFox4.jpg" alt="Fox Character Screen" width="440" /></a>Level 32 Requirement</h4>
-</li>
-<li>
-<h6>6/10 Composure</h6>
-</li>
-<li>
-<h6>3/10 Luck</h6>
-</li>
-<li>
-<h6>5/10 Repair</h6>
-</li>
-<li>
-<h6>6/10 Speed</h6>
-</li>
-<li>
-<h6>5/10 Stamina</h6>
-</li>
-<li>
-<h6>4/10 Stealth</h6>
-</li>
-<li>
-<h6>6/10 Strength</h6>
-</li>
-</ul>
+<h4>6/10 Composure</h4>
+<h4>3/10 Luck</h4>
+<h4>5/10 Repair</h4>
+<h4>6/10 Speed</h4>
+<h4>5/10 Stamina</h4>
+<h4>4/10 Stealth</h4>
+<h4>6/10 Strength</h4>
 
 <p>&nbsp;</p>
 
