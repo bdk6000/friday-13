@@ -65,10 +65,12 @@ published: false
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<h4 align="center">Vehicle Parts</h4>
+<h4 align="center">Vehicle Parts show up on the map when dropped</h4>
 ---
 <p>&nbsp;</p>
-* Vehicle Parts now show up on map
+* Vehicle Parts will now appear on all Counselor's maps (time) seconds after it has been dropped
+
+* () seconds after being dropped, vehicle parts will show up as an icon on all available Counselor maps. The icons will not appear on items that have not yet been picked up or on items currently being held. Jason is unable to see these icons on his map. If a Counselor escapes with the part or drops it in the water, the item will respawn somewhere on the map.
 
   *`""`* 
 <p>&nbsp;</p>
