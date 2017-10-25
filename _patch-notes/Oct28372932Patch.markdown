@@ -60,11 +60,10 @@ The new kills interact with objects such as:
 
 
 
-<p style="text-align: center;">### **Changes** </p>
-<h3 align="center">This is heading 1</h3>
----
 
-##### Made changes to how Jason receives kill credit
+<h3 align="center">Changes</h3>
+
+<h5 align="center">Made changes to how Jason receives kill credit</h5>
 
 ---
 
@@ -72,9 +71,8 @@ The new kills interact with objects such as:
 
   *`"Players were able to QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
 
----
 
-#### Vehicle Parts
+<h5 align="center">Vehicle Parts</h5>
 
 ---
 
