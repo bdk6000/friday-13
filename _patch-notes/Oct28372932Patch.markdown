@@ -21,8 +21,7 @@ published: false
 <h4 style="text-align: center;">5/10 Stamina</h4>
 <h4 style="text-align: center;">4/10 Stealth</h4>
 <h4 style="text-align: center;">6/10 Strength</h4>
-
-
+<p>&nbsp;</p>
 
 <p><a title="Fox Character Screen" href="/uploads/CounselorFox4.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/CounselorFox4.jpg" alt="Fox Character Screen" width="760" /></a></p>
 <p><a title="Fox 1" href="/uploads/CounselorFox1.jpg"><img style="float: left;" src="/uploads/CounselorFox1.jpg" width="375" /></a><a title="Fox 2" href="/uploads/CounselorFox2.jpg"><img style="float: right;" src="/uploads/CounselorFox2.jpg" width="375" /></a></p>
