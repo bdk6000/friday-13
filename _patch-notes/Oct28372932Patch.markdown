@@ -62,7 +62,11 @@ The new kills interact with objects such as:
 
 ### **Changes**
 
+---
+
 ##### Made changes to how Jason receives kill credit
+
+---
 
 * Jason now properly receives XP during the kill animation even if the Counselor disconnects before the kill is complete
 
@@ -70,7 +74,9 @@ The new kills interact with objects such as:
 
 ---
 
-##### Vehicle Parts
+#### Vehicle Parts
+
+---
 
 * Vehicle Parts now show up on map h4h4h4
 
