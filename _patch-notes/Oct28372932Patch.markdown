@@ -8,7 +8,7 @@ published: false
 <p align="center">5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!</p>
 
 
-<h3 style="text-align: center;"><span style="font-size:35px;"><strong>New Counselor:
+<h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Counselor:
  Fox</strong></span></h3>
 
 
@@ -27,15 +27,16 @@ published: false
 <p><a title="Fox 1" href="/uploads/CounselorFox1.jpg"><img style="float: left;" src="/uploads/CounselorFox1.jpg" width="365" /></a><a title="Fox 2" href="/uploads/CounselorFox2.jpg"><img style="float: right;" src="/uploads/CounselorFox2.jpg" width="365" /></a></p>
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
-<h3 style="text-align: center;"><span style="font-size:35px;"><strong>Tommy Jarvis 2.0 Update</strong></span></h3>
+<h3 style="text-align: center;"><span style="font-size:40px;"><strong>Tommy Jarvis 2.0 Update</strong></span></h3>
 
 * Jarvis Features WOAH
 
   *`"Jarvis 2.0 Quote"`*
 
-<h3 style="text-align: center;"><span style="font-size:35px;"><strong>New Environmental kills</strong></span></h3>
+<h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Environmental kills</strong></span></h3>
 
 Jason has received **5 new environmental kills** that are usable on every single map!
 These new kills interact with the following objects:
@@ -56,41 +57,40 @@ These new kills interact with the following objects:
 
 <p><a title="Screwdriver kill" href="/uploads/EnvKillScrewDriver.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/EnvKillScrewDriver.jpg" alt="Screwdriver kill" width="760" /></a></p>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-<h3 align="center">Changes</h3>
+<h3 style="text-align: center;"><span style="font-size:40px;"><strong>Changes</strong></span></h3>
 
-<h5 align="center">Made changes to how Jason receives kill credit</h5>
-
----
+<h4 align="center">Made changes to how Jason receives kill credit</h4>
 
 * Jason now properly receives XP during the kill animation even if the Counselor disconnects before the kill is complete
 
   *`"Players were able to QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-<h5 align="center">Vehicle Parts</h5>
-
----
+<h4 align="center">Vehicle Parts</h4>
 
 * Vehicle Parts now show up on map h4h4h4
 
   *`"This is a Quality of Life change to help QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`* 
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-##### Changes made to Jason's Grab
-
----
+<h4 align="center">Changes made to Jason's Grab</h4>
 
 * Jason's Grab radius has been reduced
 * Jason's Grab maximum range has been reduced
 
   *`"Jason's Grab radius and range caused issues QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-
-##### Emote and Scoreboard key mapping changed on controllers**
-
----
+<h4 align="center">Emote and Scoreboard key mapping changed on controllers</h4>
 
 * The Emote Wheel is now accessible by **holding down** the [Y]/[Triangle] button on controllers
 
@@ -98,17 +98,18 @@ These new kills interact with the following objects:
 
   *`"The button to activate the sweater remains unchanged. QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
+<h4 align="center">Gamelift Servers (STEAM)</h4>
 
-##### Gamelift Servers (Steam)
-
----
-
-*
+* Gamelift
 
   *`""The Steam Dedicated servers have been moved to QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE""`*
 
-<h3 align="center">Bug Fixes</h3>
+<p>&nbsp;</p>
+
+<h3 style="text-align: center;"><span style="font-size:40px;"><strong>Bug Fixes</strong></span></h3>
 
 * **General**
 
