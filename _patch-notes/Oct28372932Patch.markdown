@@ -12,16 +12,18 @@ published: false
  Fox</strong></span></h3>
 
 
-<h5><a title="Fox Character Screen" href="/uploads/CounselorFox4.jpg"><img style="float: right;" src="/uploads/CounselorFox4.jpg" alt="Fox Character Screen" width="500" /></a>Level 32 Requirement</h5>
-<h5>6/10 Composure</h5>
-<h5>3/10 Luck</h5>
-<h5>5/10 Repair</h5>
-<h5>6/10 Speed</h5>
-<h5>5/10 Stamina</h5>
-<h5>4/10 Stealth</h5>
-<h5>6/10 Strength</h5>
+#### Level **32** Requirement
+##### 6/10 Composure
+##### 3/10 Luck
+##### 5/10 Repair
+##### 6/10 Speed
+##### 5/10 Stamina
+##### 4/10 Stealth
+##### 6/10 Strength
 
-<p><a title="Fox 1" href="/uploads/CounselorFox1.jpg"><img style="float: left;" src="/uploads/CounselorFox1.jpg" width="375" /></a><a title="Fox 2" href="/uploads/CounselorFox2.jpg"><img style="float: right;" src="/uploads/CounselorFox2.jpg" width="375" /></a></p>
+
+<p><a title="Fox Character Screen" href="/uploads/CounselorFox4"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/CounselorFox4.jpg" alt="Fox Character Screen" width="440" /></a></p>
+<p><a title="Fox 1" href="/uploads/CounselorFox1.jpg"><img style="float: left;" src="/uploads/CounselorFox1.jpg" width="350" /></a><a title="Fox 2" href="/uploads/CounselorFox2.jpg"><img style="float: right;" src="/uploads/CounselorFox2.jpg" width="350" /></a></p>
 
 
 <h3 align="center">New Counselor Fox</h3>
