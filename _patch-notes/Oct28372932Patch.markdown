@@ -36,6 +36,9 @@ published: false
 
   *`"Jarvis 2.0 Quote"`*
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Environmental kills</strong></span></h3>
 
 Jason has received **5 new environmental kills** that are usable on every single map!
@@ -82,6 +85,9 @@ These new kills interact with the following objects:
 
 <h4 align="center">Changes made to Jason's Grab</h4>
 
+---
+
+
 * Jason's Grab radius has been reduced
 * Jason's Grab maximum range has been reduced
 
@@ -91,6 +97,9 @@ These new kills interact with the following objects:
 <p>&nbsp;</p>
 
 <h4 align="center">Emote and Scoreboard key mapping changed on controllers</h4>
+
+---
+
 
 * The Emote Wheel is now accessible by **holding down** the [Y]/[Triangle] button on controllers
 
@@ -103,10 +112,13 @@ These new kills interact with the following objects:
 
 <h4 align="center">Gamelift Servers (STEAM)</h4>
 
+---
+
 * Gamelift
 
   *`""The Steam Dedicated servers have been moved to QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE""`*
 
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>Bug Fixes</strong></span></h3>
@@ -225,6 +237,10 @@ These new kills interact with the following objects:
 
   * 
 
+<p>&nbsp;</p>
+
 <hr />
+
+<p>&nbsp;</p>
 
 <h4 style="text-align: center;"><strong><a href="Link" target="_blank" rel="noopener">Click here to discuss the patch notes on the Official Forums</a></strong></h4>
