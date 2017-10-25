@@ -150,7 +150,7 @@ published: false
 
   * Fixed a bug that sometimes caused Jason to become interaction locked after attacking a hiding Counselor that quits at the same time
 
-  * 
+  * Added a minimum required distance between Jason traps to prevent being able to "chain stun" Counselors
 
   * 
 
