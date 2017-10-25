@@ -93,9 +93,10 @@ We have also added an additional post round reward screen to show XP gained whil
 <h4 align="center">Jason's Grab adjusted</h4>
 ---
 <p>&nbsp;</p>
-* Jason's Grab **radius** and **maximum range** has been reduced
+* The range of Jason's Grab has been reduced.
 
   *`""`*
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -106,17 +107,8 @@ We have also added an additional post round reward screen to show XP gained whil
 
 * Pressing [UP] on the D-Pad brings up the Scoreboard as it did originally
 
-  *`"The button to activate the sweater remains unchanged."`*
+  *`“This is just a much more convenient button to access the scoreboard. The button to activate the sweater remains the same”`*
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<h4 align="center">Gamelift Servers (STEAM)</h4>
----
-<p>&nbsp;</p>
-* Gamelift
-
-  *`""`*
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
