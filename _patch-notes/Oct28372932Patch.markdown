@@ -51,7 +51,9 @@ Multiple bonuses? What is the range on this? Should we even disclose that?
     * This is a one time bonus per match. The bonus will not be granted multiple times for multiple Counselors in the vicinity. Any deaths caused by Jason will grant XP - this includes death by traps. Deaths due to suicide or team kill are excluded from the bonus XP.
 * Added an additional post round reward screen for players chosen as Tommy Jarvis. This will be shown after the normal Counselor reward screen and will display the bonus XP granted from playing as Tommy.
 
+<p><a title="Jarvis Tape" href="/uploads/JarvisTape1.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/JarvisTape1.jpg" alt="Jarvis Tape" width="760" /></a></p>
 
+<p><a title="Hero Jarvis" href="/uploads/HeroJarvis.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/HeroJarvis.jpg" alt="Hero Jarvis" width="760" /></a></p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
