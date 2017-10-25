@@ -166,9 +166,9 @@ published: false
 
   * **General**
 
-    * Fixed a bug on various maps that caused rain to be visible during Pamela’s win screen 
+    * Fixed a bug on various maps that caused rain to be visible during Pamela’s win screen
 
-    * Generators no longer incorrectly damages nearby objects when destroyed
+    * Destroying a generator will no longer incorrectly damage nearby objects
 
     * Fixed a bug where - if a Counselor exits the map while holding a large item, the item may sometimes respawn in an inaccessible area
 
