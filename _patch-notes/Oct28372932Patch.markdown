@@ -35,10 +35,10 @@ published: false
 
   *`"Jarvis 2.0 Quote"`*
 
-<h3 style="text-align: center;"><span style="font-size:35px;"><strong>Jason Has Received New Environmental Kills</strong></span></h3>
+<h3 style="text-align: center;"><span style="font-size:35px;"><strong>New Environmental kills</strong></span></h3>
 
-5 New Environmental Kills have been added to every single map to spice things up a little bit!  
-The new kills interact with objects such as:
+Jason has received **5 new environmental kills** that are usable on every single map!
+These new kills interact with the following objects:
 
 * Stove Top
 
@@ -49,15 +49,6 @@ The new kills interact with objects such as:
 * Kitchen Knife (Stab)
 
 * Screw Driver
-
----
-
-[![EnvKillFaceBoil.jpg](/uploads/EnvKillFaceBoil.jpg){:width="365px"}](http://f13game.com/uploads/EnvKillFaceBoil.jpg)
-[![EnvKillBoomBox.jpg](/uploads/EnvKillBoomBox.jpg){:width="365px"}](http://f13game.com/uploads/EnvKillBoomBox.jpg)
-[![EnvKillThroatSlit.jpg](/uploads/EnvKillThroatSlit.jpg){:width="365px"}](http://f13game.com/uploads/EnvKillThroatSlit.jpg)
-[![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg){:width="365px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
-[![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="744px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
-
 
 <p><a title="Stove Top Kill" href="/uploads/EnvKillFaceBoil.jpg"><img style="float: left;" src="/uploads/EnvKillFaceBoil.jpg" width="375" /></a><a title="Boom Box Kill" href="/uploads/EnvKillBoomBox.jpg"><img style="float: right;" src="/uploads/EnvKillBoomBox.jpg" width="375" /></a></p>
 
