@@ -72,35 +72,36 @@ We have also added an additional post round reward screen to show XP gained whil
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>Changes</strong></span></h3>
 <p>&nbsp;</p>
 
-<h4 align="center">Jason and Disconnecting Counselors</h4>
+<h4 align="left">Jason and Disconnecting Counselors</h4>
 ---
 <p>&nbsp;</p>
 * Jason will now properly receive the kill credit even if a counselor disconnects during the kill animation 
 
-  *`"This is an issue that we are glad to finally be rid of."`*
+  *`"No words are needed for this change."`*
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<h4 align="center">Counselors are now able to check their map to find the location of Repair Parts that have been dropped</h4>
+<h4 align="left">Counselors are now able to check their map to find the location of Repair Parts that have been dropped</h4>
 ---
 <p>&nbsp;</p>
 * Repair parts that have been dropped will now immediately show up as an icon on all available Counselor maps. These icons will not appear on items that have not yet been picked up or on items currently being held. Jason is unable to see these icons on his map. If a Counselor escapes with a repair part or dies with it in the water, the item will respawn somewhere else on the map with an icon accompanying it.
 
-  *`"It was frustrating in the later stages of a match for Counselors when vehicle parts were taken from their spawns and lost in a large map. Being able to locate your win condition is an important part of the game and this QoL change should help alleviate some issues"`* 
+  *`"It was frustrating in the later stages of a match for Counselors when repair parts were taken from their spawns and lost in a large map. Being able to locate your win condition is an important part of the game and this QoL change should help alleviate some issues"`* 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<h4 align="center">Jason's Grab adjusted</h4>
+<h4 align="left">Jason's Grab adjustments</h4>
 ---
 <p>&nbsp;</p>
-* The range of Jason's Grab has been reduced.
+* Slightly reduced the maximum range of Jason's Grab
+* Reduced the cone size of Jason's Grab
 
-  *`""`*
+  *`"This is a change that we have been looking into for a while. Through internal testing, we have decided that these new values currently feel better than they did previously. We will be keeping a close eye on community feedback regarding this change and are not opposed to making further adjustments in the future."`*
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<h4 align="center">Emote and Scoreboard key mapping changed on controllers</h4>
+<h4 align="left">Emote and Scoreboard key mapping changed on controllers</h4>
 ---
 <p>&nbsp;</p>
 * The Emote Wheel is now accessible by **holding down** the [Y]/[Triangle] button on controllers
