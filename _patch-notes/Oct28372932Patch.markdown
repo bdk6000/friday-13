@@ -45,24 +45,13 @@ published: false
 <p style="text-align: center;">These new kills interact with the following objects:</p>
 <h4 style="text-align: center;">Stove Top</h4>
 <h4 style="text-align: center;">Boom Box</h4>
-<h4 style="text-align: center;">Kitchen Knife(Throat Slit)</h4>
-<h4 style="text-align: center;">Kitchen Knife(Stab)</h4>
+<h4 style="text-align: center;">Kitchen Knife (Throat Slit)</h4>
+<h4 style="text-align: center;">Kitchen Knife (Stab)</h4>
 <h4 style="text-align: center;">Screw Driver</h4>
 
-<ul>
-<li style="text-align: center;">Stove Top</li>
-<li style="text-align: center;">Boom Box</li>
-<li style="text-align: center;">Kitchen Knife(Throat Slit)</li>
-<li style="text-align: center;">Kitchen Knife(Stab)</li>
-<li style="text-align: center;">Screw Driver</li>
-</ul>
-
 <p><a title="Stove Top Kill" href="/uploads/EnvKillFaceBoil.jpg"><img style="float: left;" src="/uploads/EnvKillFaceBoil.jpg" width="375" /></a><a title="Boom Box Kill" href="/uploads/EnvKillBoomBox.jpg"><img style="float: right;" src="/uploads/EnvKillBoomBox.jpg" width="375" /></a></p>
-
 <p><a title="Kitchen Knife Throat Slit Kill" href="/uploads/EnvKillThroatSlit.jpg"><img style="float: left;" src="/uploads/EnvKillThroatSlit.jpg" width="375" /></a><a title="Kitchen Knife Stab Kill" href="/uploads/EnvKillSuperStab.jpg"><img style="float: right;" src="/uploads/EnvKillSuperStab.jpg" width="375" /></a></p>
-
 <p><a title="Screwdriver kill" href="/uploads/EnvKillScrewDriver.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/EnvKillScrewDriver.jpg" alt="Screwdriver kill" width="760" /></a></p>
-
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
