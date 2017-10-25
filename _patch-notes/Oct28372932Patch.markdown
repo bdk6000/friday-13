@@ -16,6 +16,9 @@ published: false
 <p><img style="float: left;" src="http://f13game.com/uploads/vaca_home.jpg" alt="" width="370" /><a title="Jarvis House" href="http://f13game.com/uploads/Jarvis_house.jpg"><img style="float: right;" src="http://f13game.com/uploads/Jarvis_house.jpg" alt="" width="370" /></a></p>
 
 <p>&nbsp;</p>
+
+<p><a title="Vacation Home" href="http://f13game.com/uploads/vaca_home.jpg"><img style="float: left;" src="http://f13game.com/uploads/vaca_home.jpg" alt="" width="370" /></a><a title="Jarvis House" href="http://f13game.com/uploads/Jarvis_house.jpg"><img style="float: left;" src="http://f13game.com/uploads/Jarvis_house.jpg" alt="" width="370" /></a></p>
+
 <p>&nbsp;</p>
 
 
