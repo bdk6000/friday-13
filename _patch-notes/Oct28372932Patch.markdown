@@ -39,9 +39,6 @@ published: false
 </ul>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <p><a title="Fox 1" href="/uploads/CounselorFox1.jpg"><img style="float: left;" src="/uploads/CounselorFox1.jpg" width="375" /></a><a title="Fox 2" href="/uploads/CounselorFox2.jpg"><img style="float: right;" src="/uploads/CounselorFox2.jpg" width="375" /></a></p>
 
