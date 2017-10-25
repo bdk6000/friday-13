@@ -12,11 +12,11 @@ published: false
 <h4 style="text-align: center;">Level 32 Requirement</h4>
 <h4 style="text-align: center;">6/10 Composure</h4>
 <h4 style="text-align: center;">3/10 Luck</h4>
-<h4 style="text-align: center;">5/10 Repair</h4>
-<h4 style="text-align: center;">6/10 Speed</h4>
+<h4 style="text-align: center;">6/10 Repair</h4>
+<h4 style="text-align: center;">4/10 Speed</h4>
 <h4 style="text-align: center;">5/10 Stamina</h4>
 <h4 style="text-align: center;">4/10 Stealth</h4>
-<h4 style="text-align: center;">6/10 Strength</h4>
+<h4 style="text-align: center;">7/10 Strength</h4>
 <p>&nbsp;</p>
 
 <p><a title="Fox Character Screen" href="/uploads/CounselorFox4.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/CounselorFox4.jpg" alt="Fox Character Screen" width="760" /></a></p>
@@ -34,21 +34,20 @@ published: false
 Tommy Jarvis has had a pep talk and now has the courage and determination to protect all the Counselors of Camp Crystal lake. In this update, we tried to clear define what it means to play as Tommy Jarvis. Players chosen as Jarvis should prioritize saving the other Counselors from Jason and helping them escape. To emphasize Tommy’s hero attributes and goals, we have introduced these following changes:
 
 * Tommy Jarvis Tapes have been added and include -
-* Tommy Jarvis no longer says “I need to get out of here” when he spawns 
-* The text that displays when Tommy Jarvis spawns has been changed from “Escape!” to “Save the other counselors!” 
+* Tommy Jarvis no longer says a variant of “I need to get out of here” when he spawns 
+* The text that displays when Tommy Jarvis spawns has been changed from “Escape!” to “**YOU were chosen to be Tommy Jarvis**” “**Save the other counselors!**” 
 * Tommy Jarvis is no longer startled by dead bodies
 * Tommy Jarvis spawns with a Medical Spray and Pocket Knife
 
-To incentivise these new character goals and discourage players from escaping on their own as Tommy Jarvis, we have added XP bonuses for TJ players that sacrifice themselves for their teammates and assist escaping Counselors.
+<p>&nbsp;</p>
 
-* Jarvis is granted XP for Counselors who escape while he is nearby 
-* Jarvis is granted XP for sacrificing himself while there are any living Counselors nearby
-    * This is a one time bonus per match. The bonus will not be granted multiple times for multiple Counselors in the vicinity. Any deaths caused by Jason will grant XP - this includes death by traps. Deaths due to suicide or team kill are excluded from the bonus XP.
-* Added an additional post round reward screen for players chosen as Tommy Jarvis. This will be shown after the normal Counselor reward screen and will display the bonus XP granted from playing as Tommy.
+To incentivise these new character goals and discourage Jarvis players from escaping on their own, XP will be granted to Jarvis for sacrificing himself while there are any living Counselors nearby (20 meters). This is a one time bonus per match. The bonus will not be granted multiple times for multiple Counselors in the vicinity. Any deaths caused by Jason will grant XP - this includes death by traps. Deaths due to suicide or team kills are excluded from the bonus XP.
+We have also added an additional post round reward screen to show XP gained while playing as Tommy Jarvis. This will be shown after the normal Counselor reward screen.
+
 
 <p>&nbsp;</p>
 
-<h4 style="text-align: center;"><span style="font-size:35px;"><strong>Jarvis Tapes!</strong></span></h4>
+<h4 style="text-align: center;"><span style="font-size:35px;"><strong>Jarvis Tapes have been added!</strong></span></h4>
 <p><a title="Jarvis Tape" href="/uploads/JarvisTape2.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/JarvisTape2.jpg" alt="Jarvis Tape" width="760" /></a></p>
 
 <p>&nbsp;</p>
