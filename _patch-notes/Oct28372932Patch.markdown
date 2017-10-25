@@ -166,7 +166,7 @@ published: false
 
   * **General**
 
-    * Fixed a bug on various maps that caused rain to be visible during Pamela’s win screen
+    * Fixed a bug on various maps that caused rain to be visible during Pamela’s post round reward screen
 
     * Destroying a generator will no longer incorrectly damage nearby objects
 
@@ -180,21 +180,25 @@ published: false
 
   * **Jarvis Map**
 
-    * 
+    * Fixed a bug that caused players to not receive the police officer voice cue that accompanies the successful use of the phone
 
-    * 
+    * Removed areas of the map that allowed players to escape prematurely
 
-    * 
+    * Added a radio tower that was missing in one of the cabins with a CB radio spawn
 
-    * 
+    * Fixed some interaction issues with the basement door in the Blue House
 
-    * 
+    * Removed an "invisible wall" that was present on one of the roads
 
-    * 
+    * Tidied up collision on several rocks and boulders around the map
 
-    * 
+    * Tidied up collision on various wooden log steps around the map
 
-    * 
+    * Removed an overlapping Fuel Canister spawn
+
+    * Removed grass that was growing in one of the cabins
+
+    * Fixed some texture issues on the Jarvis House 
 
   * **Higgins Haven**
 
