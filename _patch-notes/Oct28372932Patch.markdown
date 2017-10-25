@@ -169,7 +169,7 @@ published: false
 
   * **Crystal Lake**
 
-    * Removed an item spawn that produced a non-interactable propeller inside the dock
+    * Removed an item spawn that sometimes produced a non-interactable propeller inside the dock
 
   * **Jarvis Map**
 
@@ -191,35 +191,41 @@ published: false
 
   * **Higgins Haven**
 
-    * 
+    * The police that spawn in the upper-left corner of the map will now properly shoot at Jason when he approaches
 
-    * 
+    * Fixed a bug that caused one of the fireplaces to sometimes shine a bright blue light throughout the cabin
 
   * **Packanack**
 
-    * 
+    * Adjusted the spawn point that caused Jason to sometimes spawn under the ground
+
+    *  
 
 * **Vehicles**
 
-  * 
-
-  * 
+  * Fixed a bug where - if a Counselor was sitting inside of a vehicle, their fear would not decrease until they exit the vehicle
 
 * **Emotes**
 
+  * Fixed a bug that caused Brandon 'Buggzy' Wilson's arms to clip through his head when performing the *Cry* emote
+
+  * Equipped items are no longer visible in a Counselor’s hand while they are performing an emote
+
+  * Counselors are no longer able to aim the Flare Gun or Shotgun while they are performing an emote
+
+  * Fixed a bug where - if a player used an attack while performing any dance emote, their character would become stuck for a short period of time
+
 * **User Interface**
 
-  * 
+  * Updated the “Controller Mapping” image to reflect the new emote and scoreboard controls  
 
-  * 
+  * Fixed a bug causing Counselor outfits to not update properly in the customization preview
 
-  * 
+  * Added the missing description to Jason’s (Part 4) *Throat Slit* kill
 
 * **Sound**
 
-  * 
-
-  * 
+  * Lowered the volume of the Rain SFX during Jason's Stalk ability
 
 <p>&nbsp;</p>
 
