@@ -14,7 +14,7 @@ After installation you can select costumes from the various offerings in the cou
 
 Regular Price: $1.99
 
-Get it on  
+Get it SOON on  
 * Xbox One
 * PS4
 * Steam
