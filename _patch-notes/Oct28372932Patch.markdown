@@ -225,6 +225,6 @@ These new kills interact with the following objects:
 
   * 
 
----
+<hr />
 
-#### [\[Click here to discuss the patch notes on the Official Forums\]](Link)
+<h4 style="text-align: center;"><strong><a href="Link" target="_blank" rel="noopener">Click here to discuss the patch notes on the Official Forums</a></strong></h4>
