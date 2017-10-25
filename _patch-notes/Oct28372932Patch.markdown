@@ -6,6 +6,34 @@ published: false
 
 5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!
 
+<ul style="list-style-type: circle;">
+<li>
+<h4><a title="Fox Character Screen" href="http://f13game.com/uploads/Jarvis_house.jpg"><img style="float: right;" src="http://f13game.com/uploads/Jarvis_house.jpg" alt="Fox Character Screen" width="440" /></a>Level 32 Requirement</h4>
+</li>
+<li>
+<h4>6/10 Composure</h4>
+</li>
+<li>
+<h4>3/10 Luck</h4>
+</li>
+<li>
+<h4>5/10 Repair</h4>
+</li>
+<li>
+<h4>6/10 Speed</h4>
+</li>
+<li>
+<h4>5/10 Stamina</h4>
+</li>
+<li>
+<h4>4/10 Stealth</h4>
+</li>
+<li>
+<h4>6/10 Strength</h4>
+</li>
+</ul>
+
+
 <h3 style="text-align: center;"><span style="font-size:35px;"><strong>New Counselor:
  Fox</strong></span></h3>
 
