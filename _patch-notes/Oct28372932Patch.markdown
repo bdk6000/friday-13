@@ -208,7 +208,7 @@ published: false
 
     * Adjusted the spawn point that caused Jason to sometimes spawn under the ground
 
-    *  
+    * Fixed a terrain issue that caused players to be able to fall into an inescapable hole in the ground 
 
 * **Vehicles**
 
