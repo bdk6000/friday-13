@@ -8,7 +8,7 @@ published: false
 
 ### **New Counselor Fox**
 
-####  * Level 32 Requirement
+#####Level **32** Requirement
 
 #### 6/10 Composure
 #### 3/10 Luck
@@ -28,8 +28,8 @@ published: false
 [![/uploads/CounselorFox4.jpg](/uploads/CounselorFox4.jpg){:width="744px"}](http://f13game.com/uploads/CounselorFox4.jpg)
 [![/uploads/CounselorFox2.jpg](/uploads/CounselorFox2.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox2.jpg)
 [![CounselorFox2.jpg.jpg](/uploads/CounselorFox1.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox1.jpg)
-
 ---
+
 ### **Jarvis 2.0 Update**
 
 * Jarvis Features WOAH
@@ -51,12 +51,13 @@ The new kills interact with objects such as:
 
 * Screw Driver
 
+---
 [![EnvKillFaceBoil.jpg](/uploads/EnvKillFaceBoil.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillFaceBoil.jpg)
 [![EnvKillBoomBox.jpg](/uploads/EnvKillBoomBox.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillBoomBox.jpg)
 [![EnvKillThroatSlit.jpg](/uploads/EnvKillThroatSlit.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillThroatSlit.jpg)
 [![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
 [![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="744px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
-
+---
 **Gamelift Servers (Steam)**
 
 * *`"Gamelift Servers (Steam) Quote"`*
