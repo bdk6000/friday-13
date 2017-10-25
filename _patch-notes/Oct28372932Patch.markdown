@@ -8,7 +8,7 @@ published: false
 
 ### **New Counselor Fox**
 
-#####Level **32** Requirement
+##### Level **32** Requirement
 
 #### 6/10 Composure
 #### 3/10 Luck
@@ -19,15 +19,18 @@ published: false
 #### 6/10 Strength
 
 
+---
 5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!
 
 5 New Environmental Kills have been added to every map to spice things up a little bit!
 
-***
+
+---
 
 [![/uploads/CounselorFox4.jpg](/uploads/CounselorFox4.jpg){:width="744px"}](http://f13game.com/uploads/CounselorFox4.jpg)
 [![/uploads/CounselorFox2.jpg](/uploads/CounselorFox2.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox2.jpg)
 [![CounselorFox2.jpg.jpg](/uploads/CounselorFox1.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox1.jpg)
+
 ---
 
 ### **Jarvis 2.0 Update**
