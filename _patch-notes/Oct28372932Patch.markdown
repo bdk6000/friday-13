@@ -29,9 +29,8 @@ published: false
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<h3 style="text-align: center;"><span style="font-size:40px;"><strong>Tommy Jarvis 2.0 (Jarvis Tapes!)</strong></span></h3>
+<h3 style="text-align: center;"><span style="font-size:40px;"><strong>Tommy Jarvis 2.0 (and Jarvis Tapes!)</strong></span></h3>
 <p><a title="Hero Jarvis" href="/uploads/HeroJarvis.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/HeroJarvis.jpg" alt="Hero Jarvis" width="760" /></a></p>
-<p>&nbsp;</p>
 Tommy Jarvis has had a pep talk and now has the courage and determination to protect all the Counselors of Camp Crystal lake. In this update, we tried to clear define what it means to play as Tommy Jarvis. Players chosen as Jarvis should prioritize saving the other Counselors from Jason and helping them escape. To emphasize Tommy’s hero attributes and goals, we have introduced these following changes:
 
 <p>&nbsp;</p>
