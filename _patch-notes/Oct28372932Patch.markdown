@@ -72,12 +72,12 @@ We have also added an additional post round reward screen to show XP gained whil
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>Changes</strong></span></h3>
 <p>&nbsp;</p>
 
-<h4 align="center">Made changes to how Jason receives kill credit</h4>
+<h4 align="center">Jason and Disconnecting Counselors</h4>
 ---
 <p>&nbsp;</p>
-* Jason will now properly receive kill credit when a counselor disconnects during a kill animation 
+* Jason will now properly receive the kill credit even if a counselor disconnects during the kill animation 
 
-  *`"This was a QUOTE QUOTE QUOTE QUOTE QUOTE QUOTE QUOTE"`*
+  *`"This is an issue that we are glad to finally be rid of."`*
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -109,17 +109,6 @@ We have also added an additional post round reward screen to show XP gained whil
 
   *`“This is just a much more convenient button to access the scoreboard. The button to activate the sweater remains the same”`*
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<h4 align="center">Jason Part/2/6/9 Stats adjusted</h4>
----
-<p>&nbsp;</p>
-
-* 
-* 
-
-  *`""`*
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
