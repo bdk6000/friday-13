@@ -31,25 +31,27 @@ published: false
 
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>Tommy Jarvis 2.0 Update</strong></span></h3>
 
-Tommy Jarvis has had a pep talk and is now has the courage and determination to protect all the Counselors of Camp Crystal lake. In this update, we tried to clear define what it means to play as Tommy Jarvis. Players chosen as Jarvis should prioritize saving the other Counselors from Jason and helping them escape. 
+Tommy Jarvis has had a pep talk and now has the courage and determination to protect all the Counselors of Camp Crystal lake. In this update, we tried to clear define what it means to play as Tommy Jarvis. Players chosen as Jarvis should prioritize saving the other Counselors from Jason and helping them escape. To emphasize Tommy’s hero attributes and goals, we have introduced these following changes:
 
-(Jarvis 2.0) Separate Post Round XP
+<p>&nbsp;</p>
 
-(Jarvis 2.0) Removed the VO when TJ spawns in
+* Tommy Jarvis Tapes have been added and include -
+* Tommy Jarvis no longer says “I need to get out of here” when he spawns 
+* The text that displays when Tommy Jarvis spawns has been changed from “Escape!” to “Save the other counselors!” 
+* Tommy Jarvis is no longer startled by dead bodies
+* Tommy Jarvis spawns with a Medical Spray and Pocket Knife
 
-(Jarvis 2.0) Jarvis spawn in text changed to "Save the Counselors"
+<p>&nbsp;</p>
 
-(Jarvis 2.0) Jarvis no longer startled by dead bodies
+To incentivise these new character goals and discourage players from escaping on their own as Tommy Jarvis, we have added XP bonuses for TJ players that sacrifice themselves for their teammates and assist escaping Counselors.
 
-(Jarvis 2.0) Jarvis starts with Med Spray and Pocket Knife
+* Jarvis is granted XP for Counselors who escape while he is nearby 
+Multiple bonuses? What is the range on this? Should we even disclose that?
+* Jarvis is granted XP for sacrificing himself while there are any living Counselors nearby
+    * This is a one time bonus per match. The bonus will not be granted multiple times for multiple Counselors in the vicinity. Any deaths caused by Jason will grant XP - this includes death by traps. Deaths due to suicide or team kill are excluded from the bonus XP.
+* Added an additional post round reward screen for players chosen as Tommy Jarvis. This will be shown after the normal Counselor reward screen and will display the bonus XP granted from playing as Tommy.
 
-(Jarvis 2.0) Jarvis gets an XP bonus for Counselors who escape while he is nearby
 
-(Jarvis 2.0) Jarvis gets an XP bonus for saving counselors and then dying 
-
-(Jarvis 2.0) Tommy Jarvis Tapes
-
-  *`""`*
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
