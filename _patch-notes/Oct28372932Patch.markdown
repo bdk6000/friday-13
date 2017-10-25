@@ -136,6 +136,7 @@ published: false
 
   * Force Feedback on controllers added to various actions that were previously missing it
 
+<p>&nbsp;</p>
 * **Perks**
 
   * Sucker Punch now correctly increases Melee Stun Chance
@@ -144,12 +145,14 @@ published: false
 
   * Perks that have been updated in a patch no longer need to be re-equipped for "activation"
  
+<p>&nbsp;</p>
 * **Counselors**
 
   * Fixed a bug causing blood splatter to not appear correctly on Counselors executed with a Cinematic Kill
 
   * Fixed a bug causing Counselors to sometimes "hang" in the air when executed with an Environmental Kill
 
+<p>&nbsp;</p>
 * **Jason**
 
   * Fixed a bug that allowed Jason to block and attack at the same time
@@ -166,10 +169,12 @@ published: false
 
   * Fixed some issues that were caused by Jason walking across the Police Line while holding a Counselor
 
+<p>&nbsp;</p>
 * **Spectators**
 
   * Spectators no longer have their audio muted after spectating a Counselor that commits suicide
 
+<p>&nbsp;</p>
 * **Maps**
 
   * **General**
@@ -220,10 +225,12 @@ published: false
 
     * Fixed a terrain issue that caused players to be able to fall into an inescapable hole in the ground 
 
+<p>&nbsp;</p>
 * **Vehicles**
 
   * Fixed a bug where - if a Counselor was sitting inside of a vehicle, their fear would not decrease until they exit the vehicle
 
+<p>&nbsp;</p>
 * **Emotes**
 
   * Fixed a bug that caused Brandon 'Buggzy' Wilson's arms to clip through his head when performing the *Cry* emote
@@ -234,6 +241,7 @@ published: false
 
   * Fixed a bug where - if a player used an attack while performing any dance emote, their character would become stuck for a short period of time
 
+<p>&nbsp;</p>
 * **User Interface**
 
   * Updated the “Controller Mapping” image to reflect the new emote and scoreboard controls  
@@ -242,6 +250,7 @@ published: false
 
   * Added a description that was missing for Jason’s (Part 4) *Throat Slit* kill
 
+<p>&nbsp;</p>
 * **Sound**
 
   * Lowered the volume of the Rain SFX during Jason's Stalk ability
