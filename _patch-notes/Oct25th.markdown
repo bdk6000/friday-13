@@ -1,7 +1,6 @@
 ---
 title: Patch Notes
 date: 2017-10-25 05:00:00 -04:00
-published: false
 ---
 
 <p>&nbsp;</p>
