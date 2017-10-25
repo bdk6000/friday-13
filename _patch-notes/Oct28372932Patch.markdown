@@ -121,7 +121,7 @@ published: false
 
   * Fixed a bug causing some items to be “stackable” in the air until they become unreachable
 
- * Fixed a bug where - if Jason destroys the fuse box powering the Radio, it could cause the “Use the Radio to call Tommy Jarvis” objective to be incorrectly displayed as “Complete”
+  * Fixed a bug where - if Jason destroys the fuse box powering the Radio, it could cause the “Use the Radio to call Tommy Jarvis” objective to be incorrectly displayed as “Complete”
 
   * Force Feedback on controllers added to various actions that were previously missing it
 
