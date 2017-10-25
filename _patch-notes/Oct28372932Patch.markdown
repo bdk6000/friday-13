@@ -120,6 +120,8 @@ published: false
 
   * Fixed a bug causing some items to be “stackable” in the air until they become unreachable
 
+ * Fixed a bug where - if Jason destroys the fuse box powering the Radio, it could cause the “Use the Radio to call Tommy Jarvis” objective to be incorrectly displayed as “Complete”
+
   * Force Feedback on controllers added to various actions that were previously missing it
 
 * **Perks**
@@ -166,7 +168,7 @@ published: false
 
     * Generators no longer incorrectly damages nearby objects when destroyed
 
-    * Fixed a bug where - if Counselors exit the map while holding a large item, the item may sometimes respawn in an inaccessible area
+    * Fixed a bug where - if a Counselor exits the map while holding a large item, the item may sometimes respawn in an inaccessible area
 
     * Removed various Counselor exploit areas from all maps
 
