@@ -23,8 +23,8 @@ published: false
 
 5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!
 
-<p><a title="Fox Character Screen" href="/uploads/CounselorFox4"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/CounselorFox4.jpg" alt="Fox Character Screen" width="780" /></a></p>
-<p><a title="Fox 1" href="/uploads/CounselorFox1.jpg"><img style="float: left;" src="/uploads/CounselorFox1.jpg" width="350" /></a><a title="Fox 2" href="/uploads/CounselorFox2.jpg"><img style="float: right;" src="/uploads/CounselorFox2.jpg" width="350" /></a></p>
+<p><a title="Fox Character Screen" href="/uploads/CounselorFox4"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/CounselorFox4.jpg" alt="Fox Character Screen" width="760" /></a></p>
+<p><a title="Fox 1" href="/uploads/CounselorFox1.jpg"><img style="float: left;" src="/uploads/CounselorFox1.jpg" width="365" /></a><a title="Fox 2" href="/uploads/CounselorFox2.jpg"><img style="float: right;" src="/uploads/CounselorFox2.jpg" width="365" /></a></p>
 
 <p>&nbsp;</p>
 
@@ -52,10 +52,10 @@ The new kills interact with objects such as:
 
 ---
 
-[![EnvKillFaceBoil.jpg](/uploads/EnvKillFaceBoil.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillFaceBoil.jpg)
-[![EnvKillBoomBox.jpg](/uploads/EnvKillBoomBox.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillBoomBox.jpg)
-[![EnvKillThroatSlit.jpg](/uploads/EnvKillThroatSlit.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillThroatSlit.jpg)
-[![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
+[![EnvKillFaceBoil.jpg](/uploads/EnvKillFaceBoil.jpg){:width="365px"}](http://f13game.com/uploads/EnvKillFaceBoil.jpg)
+[![EnvKillBoomBox.jpg](/uploads/EnvKillBoomBox.jpg){:width="365px"}](http://f13game.com/uploads/EnvKillBoomBox.jpg)
+[![EnvKillThroatSlit.jpg](/uploads/EnvKillThroatSlit.jpg){:width="365px"}](http://f13game.com/uploads/EnvKillThroatSlit.jpg)
+[![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg){:width="365px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
 [![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="744px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
 
 <h3 align="center">Changes</h3>
