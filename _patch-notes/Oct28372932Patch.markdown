@@ -6,9 +6,7 @@ published: false
 
 5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!
 
-### **Counselor Fox**
-
-New Playable Counselor: **Fox**
+### **New Counselor Fox**
 
 # Level 32 Requirement
 
@@ -16,7 +14,7 @@ New Playable Counselor: **Fox**
 
 ### 3/10 Luck
 
-#### 5/10 Repair
+#### * 5/10 Repair
 
 ##### 6/10 Speed
 
@@ -26,9 +24,9 @@ New Playable Counselor: **Fox**
 
 * 6/10 Strength
 
-5 New Environmental Kills have been added to every map to spice things up a little bit!5 New `Environmental Kills` have been ` added to every map ` to spice things up a little bit!
+5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!
 
-``` 5 New Environmental Kills have been added to every map to spice things up a little bit! ```
+5 New Environmental Kills have been added to every map to spice things up a little bit!
 
 
 [![/uploads/CounselorFox4.jpg](/uploads/CounselorFox4.jpg){:width="744px"}](http://f13game.com/uploads/CounselorFox4.jpg)
