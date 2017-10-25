@@ -55,15 +55,14 @@ The new kills interact with objects such as:
 * Screw Driver
 
 ---
+
 [![EnvKillFaceBoil.jpg](/uploads/EnvKillFaceBoil.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillFaceBoil.jpg)
 [![EnvKillBoomBox.jpg](/uploads/EnvKillBoomBox.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillBoomBox.jpg)
 [![EnvKillThroatSlit.jpg](/uploads/EnvKillThroatSlit.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillThroatSlit.jpg)
 [![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
 [![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="744px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
----
-**Gamelift Servers (Steam)**
 
-* *`"Gamelift Servers (Steam) Quote"`*
+---
 
 ### **Changes**
 
@@ -74,6 +73,10 @@ The new kills interact with objects such as:
 * Change#2
 
   *`"Change Quote"`*
+
+**Gamelift Servers (Steam)**
+
+* *`"Gamelift Servers (Steam) Quote"`*
 
 ### **Bug Fixes**
 
