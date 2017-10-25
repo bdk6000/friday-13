@@ -165,11 +165,11 @@ published: false
 
     * Fixed a bug where - if Counselors exit the map while holding a large item, the item may sometimes respawn in an inaccessible area
 
-    * 
+    * Removed various Counselor exploit areas from all maps
 
   * **Crystal Lake**
 
-    * 
+    * Removed an item spawn that produced a non-interactable propeller inside the dock
 
   * **Jarvis Map**
 
