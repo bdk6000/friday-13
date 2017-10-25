@@ -15,7 +15,7 @@ The new kills include:
 
 Regular Price: $2.99
 
-Get it on all three platforms
+Get it SOON on
 * Xbox One
 * PlayStation 4
 * Steam
