@@ -33,15 +33,11 @@ published: false
 <p><a title="Hero Jarvis" href="/uploads/HeroJarvis.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/HeroJarvis.jpg" alt="Hero Jarvis" width="760" /></a></p>
 Tommy Jarvis has had a pep talk and now has the courage and determination to protect all the Counselors of Camp Crystal lake. In this update, we tried to clear define what it means to play as Tommy Jarvis. Players chosen as Jarvis should prioritize saving the other Counselors from Jason and helping them escape. To emphasize Tommy’s hero attributes and goals, we have introduced these following changes:
 
-<p>&nbsp;</p>
-
 * Tommy Jarvis Tapes have been added and include -
 * Tommy Jarvis no longer says “I need to get out of here” when he spawns 
 * The text that displays when Tommy Jarvis spawns has been changed from “Escape!” to “Save the other counselors!” 
 * Tommy Jarvis is no longer startled by dead bodies
 * Tommy Jarvis spawns with a Medical Spray and Pocket Knife
-
-<p>&nbsp;</p>
 
 To incentivise these new character goals and discourage players from escaping on their own as Tommy Jarvis, we have added XP bonuses for TJ players that sacrifice themselves for their teammates and assist escaping Counselors.
 
@@ -53,6 +49,7 @@ To incentivise these new character goals and discourage players from escaping on
 <p>&nbsp;</p>
 
 <h4 style="text-align: center;"><span style="font-size:35px;"><strong>Jarvis Tapes!</strong></span></h4>
+---
 <p><a title="Jarvis Tape" href="/uploads/JarvisTape2.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/JarvisTape2.jpg" alt="Jarvis Tape" width="760" /></a></p>
 
 <p>&nbsp;</p>
