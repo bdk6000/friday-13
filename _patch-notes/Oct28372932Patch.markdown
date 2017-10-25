@@ -28,15 +28,16 @@ published: false
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>Tommy Jarvis 2.0 Update</strong></span></h3>
 
-* Jarvis Features WOAH
+* Tommy Jarvis Update
 
-  *`"Jarvis 2.0 Quote"`*
+  *`""`*
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -65,16 +66,16 @@ published: false
 <p>&nbsp;</p>
 * Jason now properly receives XP during the kill animation even if the Counselor disconnects before the kill is complete
 
-  *`"Players were able to QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
+  *`""`*
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <h4 align="center">Vehicle Parts</h4>
 ---
 <p>&nbsp;</p>
-* Vehicle Parts now show up on map h4h4h4
+* Vehicle Parts now show up on map
 
-  *`"This is a Quality of Life change to help QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`* 
+  *`""`* 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -84,7 +85,7 @@ published: false
 * Jason's Grab radius has been reduced
 * Jason's Grab maximum range has been reduced
 
-  *`"Jason's Grab radius and range caused issues QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
+  *`""`*
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -95,7 +96,7 @@ published: false
 
 * Pressing [UP] on the D-Pad brings up the Scoreboard as it did originally
 
-  *`"The button to activate the sweater remains unchanged. QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
+  *`"The button to activate the sweater remains unchanged."`*
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -105,7 +106,7 @@ published: false
 <p>&nbsp;</p>
 * Gamelift
 
-  *`""The Steam Dedicated servers have been moved to QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE""`*
+  *`""`*
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
