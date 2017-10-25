@@ -8,15 +8,14 @@ published: false
 
 ### **New Counselor Fox**
 
-##### Level **32** Requirement
-
-#### 6/10 Composure
-#### 3/10 Luck
-#### 5/10 Repair
-#### 6/10 Speed
-#### 5/10 Stamina
-#### 4/10 Stealth
-#### 6/10 Strength
+#### Level **32** Requirement
+##### 6/10 Composure
+##### 3/10 Luck
+##### 5/10 Repair
+##### 6/10 Speed
+##### 5/10 Stamina
+##### 4/10 Stealth
+##### 6/10 Strength
 
 
 ---
