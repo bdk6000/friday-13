@@ -194,4 +194,6 @@ The new kills interact with objects such as:
 
   * 
 
-## [\[Click here to discuss the patch notes on the Official Forums\]](Link)
+---
+
+#### [\[Click here to discuss the patch notes on the Official Forums\]](Link)
