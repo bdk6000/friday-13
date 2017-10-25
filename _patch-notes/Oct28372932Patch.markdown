@@ -48,7 +48,6 @@ Tommy Jarvis has had a pep talk and now has the courage and determination to pro
 To incentivise these new character goals and discourage players from escaping on their own as Tommy Jarvis, we have added XP bonuses for TJ players that sacrifice themselves for their teammates and assist escaping Counselors.
 
 * Jarvis is granted XP for Counselors who escape while he is nearby 
-Multiple bonuses? What is the range on this? Should we even disclose that?
 * Jarvis is granted XP for sacrificing himself while there are any living Counselors nearby
     * This is a one time bonus per match. The bonus will not be granted multiple times for multiple Counselors in the vicinity. Any deaths caused by Jason will grant XP - this includes death by traps. Deaths due to suicide or team kill are excluded from the bonus XP.
 * Added an additional post round reward screen for players chosen as Tommy Jarvis. This will be shown after the normal Counselor reward screen and will display the bonus XP granted from playing as Tommy.
