@@ -39,15 +39,16 @@ Tommy Jarvis has had a pep talk and now has the courage and determination to pro
 * Tommy Jarvis is no longer startled by dead bodies
 * Tommy Jarvis spawns with a Medical Spray and Pocket Knife
 
-<p>&nbsp;</p>
-
 To incentivise these new character goals and discourage Jarvis players from escaping on their own, XP will be granted to Jarvis for sacrificing himself while there are any living Counselors nearby (20 meters). This is a one time bonus per match. The bonus will not be granted multiple times for multiple Counselors in the vicinity. Any deaths caused by Jason will grant XP - this includes death by traps. Deaths due to suicide or team kills are excluded from the bonus XP.
 We have also added an additional post round reward screen to show XP gained while playing as Tommy Jarvis. This will be shown after the normal Counselor reward screen.
 
 
 <p>&nbsp;</p>
 
-<h4 style="text-align: center;"><span style="font-size:35px;"><strong>Jarvis Tapes have been added!</strong></span></h4>
+<h4 style="text-align: center;"><span style="font-size:30px;"><strong>Jarvis Tapes have been added!</strong></span></h4>
+---
+<p style="text-align: center;"Tommy Jarvis Tapes have also been added alongside the TJ 2.0 update. These are collected in the same way as the Pamela tapes and there are 20 Jarvis tapes in total.</p>
+
 <p><a title="Jarvis Tape" href="/uploads/JarvisTape2.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/JarvisTape2.jpg" alt="Jarvis Tape" width="760" /></a></p>
 
 <p>&nbsp;</p>
