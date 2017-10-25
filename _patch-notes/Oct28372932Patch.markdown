@@ -59,28 +59,34 @@ The new kills interact with objects such as:
 [![EnvKillSuperStab.jpg](/uploads/EnvKillSuperStab.jpg){:width="370px"}](http://f13game.com/uploads/EnvKillSuperStab.jpg)
 [![EnvKillScrewDriver.jpg](/uploads/EnvKillScrewDriver.jpg){:width="744px"}](http://f13game.com/uploads/EnvKillScrewDriver.jpg)
 
-___
+
 
 ### **Changes**
 
-###### Made changes to how Jason receives kill credit
+##### Made changes to how Jason receives kill credit
 
 * Jason now properly receives XP during the kill animation even if the Counselor disconnects before the kill is complete
 
   *`"Players were able to QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
 
-##### Vehicle Parts**
+---
+
+##### Vehicle Parts
 
 * Vehicle Parts now show up on map h4h4h4
 
   *`"This is a Quality of Life change to help QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`* 
 
-#### Changes made to Jason's Grab
+---
+
+##### Changes made to Jason's Grab
 
 * Jason's Grab radius has been reduced
 * Jason's Grab maximum range has been reduced
 
   *`"Jason's Grab radius and range caused issues QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
+
+---
 
 ##### Emote and Scoreboard key mapping changed on controllers**
 
@@ -90,7 +96,9 @@ ___
 
   *`"The button to activate the sweater remains unchanged. QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
 
-#### Gamelift Servers (Steam)
+---
+
+##### Gamelift Servers (Steam)
 
 *
 
