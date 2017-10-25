@@ -50,6 +50,7 @@ published: false
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Environmental kills</strong></span></h3>
 
 <p style="text-align: left;">5 New environmental kills have been added to Jason's arsenal! These kills are available on every single available map and can be executed by all the Jason variants. This should spice things up a bit on Camp Crystal Lake! Counselors will need to be extra careful, as Jason is now able to use these following household items as environmental kills:</p>
+<p>&nbsp;</p>
 <h4 style="text-align: center;">Stove Top</h4>
 <h4 style="text-align: center;">Boom Box</h4>
 <h4 style="text-align: center;">Kitchen Knife (Throat Slit)</h4>
