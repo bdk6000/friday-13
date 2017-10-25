@@ -79,7 +79,7 @@ published: false
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<h4 align="center">Changes made to Jason's Grab</h4>
+<h4 align="center">Jason's Grab adjusted</h4>
 ---
 <p>&nbsp;</p>
 * Jason's Grab radius has been reduced
