@@ -11,8 +11,8 @@ published: false
 <h3 style="text-align: center;"><span style="font-size:35px;"><strong>New Counselor:
  Fox</strong></span></h3>
 
-<h4><a title="Fox Character Screen" href="/uploads/CounselorFox4.jpg"><img style="float: right;" src="/uploads/CounselorFox4.jpg" alt="Fox Character Screen" width="440" /></a>Level 32 Requirement</h4>
-<h5>6/10 Composure</h5>
+<h4>Level 32 Requirement</4>
+<h5><a title="Fox Character Screen" href="/uploads/CounselorFox4.jpg"><img style="float: right;" src="/uploads/CounselorFox4.jpg" alt="Fox Character Screen" width="440" /></a>6/10 Composure</h5>
 <h5>3/10 Luck</h5>
 <h5>5/10 Repair</h5>
 <h5>6/10 Speed</h5>
