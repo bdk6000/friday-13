@@ -51,7 +51,6 @@ To incentivise these new character goals and discourage players from escaping on
 * Added an additional post round reward screen for players chosen as Tommy Jarvis. This will be shown after the normal Counselor reward screen and will display the bonus XP granted from playing as Tommy.
 
 <h4 style="text-align: center;"><span style="font-size:35px;"><strong>Jarvis Tapes!</strong></span></h4>
----
 <p><a title="Jarvis Tape" href="/uploads/JarvisTape2.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/JarvisTape2.jpg" alt="Jarvis Tape" width="760" /></a></p>
 
 <p>&nbsp;</p>
