@@ -59,9 +59,9 @@ published: false
 <h4 align="center">Made changes to how Jason receives kill credit</h4>
 ---
 <p>&nbsp;</p>
-* Jason now properly receives credit for kills 
+* Jason will now properly receive kill credit when a counselor disconnects during a kill animation 
 
-  *`""`*
+  *`"This was a QUOTE QUOTE QUOTE QUOTE QUOTE QUOTE QUOTE"`*
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
