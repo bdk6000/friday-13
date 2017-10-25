@@ -33,6 +33,15 @@ published: false
 
 * Tommy Jarvis Update
 
+(Jarvis 2.0) Separate Post Round XP
+(Jarvis 2.0) Removed the VO when TJ spawns in
+(Jarvis 2.0) Jarvis spawn in text changed to "Save the Counselors"
+(Jarvis 2.0) Jarvis no longer startled by dead bodies
+(Jarvis 2.0) Jarvis starts with Med Spray and Pocket Knife
+(Jarvis 2.0) Jarvis gets an XP bonus for Counselors who escape while he is nearby
+(Jarvis 2.0) Jarvis gets an XP bonus for saving counselors and then dying 
+(Jarvis 2.0) Tommy Jarvis Tapes
+
   *`""`*
 
 <p>&nbsp;</p>
@@ -77,8 +86,7 @@ published: false
 <h4 align="center">Jason's Grab adjusted</h4>
 ---
 <p>&nbsp;</p>
-* Jason's Grab radius has been reduced
-* Jason's Grab maximum range has been reduced
+* Jason's Grab **radius** and **maximum range** has been reduced
 
   *`""`*
 <p>&nbsp;</p>
