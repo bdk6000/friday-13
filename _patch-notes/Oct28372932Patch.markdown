@@ -115,6 +115,7 @@ published: false
 * **General**
 
   * Players are no longer able to find duplicate Tapes
+        * Includes both Pamela tapes and Jarvis Tapes 
 
   * Fixed a bug that caused Medical Sprays to sometimes show the incorrect number of remaining uses
 
@@ -130,21 +131,21 @@ published: false
 
   * Fixed a bug with the Sneaky perk that was causing some players to experience camera and collision issues
 
-  * 
+  * Perks that have been updated in a patch no longer need to be re-equipped for "activation"
  
 * **Counselors**
 
-  * Fixed a bug causing blood splatter to not appear correctly on Counselors killed via Cinematic Kills
+  * Fixed a bug causing blood splatter to not appear correctly on Counselors executed with a Cinematic Kill
 
-  * Fixed a bug causing Counselors to "hang" in the air when killed via Environmental Kills
+  * Fixed a bug causing Counselors to sometimes "hang" in the air when executed with an Environmental Kill
 
 * **Jason**
 
   * Fixed a bug that allowed Jason to block and attack at the same time
 
-  * Fixed a bug that caused Jason’s grab animation to not be played when grabbing a Counselor out of a car
+  * Fixed a bug that caused Jason’s grab animation to sometimes not trigger when grabbing a Counselor out of a car
 
-  * Jason (Part 4) can no longer incorrectly access kills that have not been unlocked
+  * Players are no longer able to access the Jason (Part 4) kills that they have not yet unlocked
 
   * Fixed a bug that sometimes caused Jason to become interaction locked after attacking a hiding Counselor that quits at the same time
 
@@ -196,7 +197,7 @@ published: false
 
   * **Higgins Haven**
 
-    * The police that spawn in the upper-left corner of the map will now properly shoot at Jason when he approaches
+    * The police that spawn in the upper-left corner of the map will now properly shoot at Jason when he approaches the police line
 
     * Fixed a bug that caused one of the fireplaces to sometimes shine a bright blue light throughout the cabin
 
@@ -226,7 +227,7 @@ published: false
 
   * Fixed a bug causing Counselor outfits to not update properly in the customization preview
 
-  * Added the missing description to Jason’s (Part 4) *Throat Slit* kill
+  * Added a description that was missing for Jason’s (Part 4) *Throat Slit* kill
 
 * **Sound**
 
