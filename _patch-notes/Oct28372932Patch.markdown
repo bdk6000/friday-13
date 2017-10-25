@@ -134,8 +134,6 @@ We have also added an additional post round reward screen to show XP gained whil
 
   * Fixed a bug that caused Medical Sprays to sometimes show the incorrect number of remaining uses
 
-  * Fixed a bug causing some items to be “stackable” in the air until they become unreachable
-
   * Fixed a bug where - if Jason destroys the fuse box powering the Radio, it could cause the “Use the Radio to call Tommy Jarvis” objective to be incorrectly displayed as “Complete”
 
   * Force Feedback on controllers added to various actions that were previously missing it
@@ -161,15 +159,15 @@ We have also added an additional post round reward screen to show XP gained whil
 
   * Fixed a bug that allowed Jason to block and attack at the same time
 
+  * Fixed a bug that caused Jason to do extra damage to doors and walls
+
   * Fixed a bug that caused Jason’s grab animation to sometimes not trigger when grabbing a Counselor out of a car
 
   * Players are no longer able to access the Jason (Part 4) kills that they have not yet unlocked
 
   * Fixed a bug that sometimes caused Jason to become interaction locked after attacking a hiding Counselor that quits at the same time
 
-  * Added a minimum required distance between Jason traps to prevent being able to "chain stun" Counselors
-
-  * Fixed a bug that caused Jason to do extra damage to doors and walls
+  * Added a minimum required distance between Jason traps to prevent players from being able to multi-trap objectives and chain stun Counselors 
 
   * Fixed some issues that were caused by Jason walking across the Police Line while holding a Counselor
 
@@ -232,7 +230,7 @@ We have also added an additional post round reward screen to show XP gained whil
 <p>&nbsp;</p>
 * **Vehicles**
 
-  * Fixed a bug where - if a Counselor was sitting inside of a vehicle, their fear would not decrease until they exit the vehicle
+  * Fixed a bug where - if a Counselor was sitting inside of a vehicle, their fear would not update(increase/decrease) until they exit the vehicle
 
 <p>&nbsp;</p>
 * **Emotes**
