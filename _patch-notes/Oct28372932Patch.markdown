@@ -6,11 +6,10 @@ published: false
 
 <p>&nbsp;</p>
 <p align="center">5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!</p>
-
+<p>&nbsp;</p>
 
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Counselor:
  Fox</strong></span></h3>
-
 
 <h4 style="text-align: center;">Level 32 Requirement</h4>
 <h4 style="text-align: center;">6/10 Composure</h4>
