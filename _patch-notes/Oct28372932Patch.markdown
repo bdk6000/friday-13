@@ -70,6 +70,8 @@ These new kills interact with the following objects:
 * Jason now properly receives XP during the kill animation even if the Counselor disconnects before the kill is complete
 
   *`"Players were able to QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
+<p>&nbsp;</p>
+---
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -79,40 +81,38 @@ These new kills interact with the following objects:
 * Vehicle Parts now show up on map h4h4h4
 
   *`"This is a Quality of Life change to help QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`* 
+<p>&nbsp;</p>
+---
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <h4 align="center">Changes made to Jason's Grab</h4>
 
----
-
-
 * Jason's Grab radius has been reduced
 * Jason's Grab maximum range has been reduced
 
   *`"Jason's Grab radius and range caused issues QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
+<p>&nbsp;</p>
+---
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <h4 align="center">Emote and Scoreboard key mapping changed on controllers</h4>
 
----
-
-
 * The Emote Wheel is now accessible by **holding down** the [Y]/[Triangle] button on controllers
 
 * Pressing [UP] on the D-Pad brings up the Scoreboard as it did originally
 
   *`"The button to activate the sweater remains unchanged. QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
+<p>&nbsp;</p>
+---
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <h4 align="center">Gamelift Servers (STEAM)</h4>
-
----
 
 * Gamelift
 
