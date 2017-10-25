@@ -60,7 +60,7 @@ The new kills interact with objects such as:
 
 
 
-### **Changes**
+<p style="text-align: center;"> ### **Changes** </p>
 
 ---
 
