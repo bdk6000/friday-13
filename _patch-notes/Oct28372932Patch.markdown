@@ -6,7 +6,7 @@ published: false
 
 5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!5 New Environmental Kills have been added to every map to spice things up a little bit!
 
-### **New Counselor Fox**
+<h3 align="center">New Counselor Fox</h3>
 
 #### Level **32** Requirement
 ##### 6/10 Composure
@@ -28,8 +28,7 @@ published: false
 [![/uploads/CounselorFox2.jpg](/uploads/CounselorFox2.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox2.jpg)
 [![CounselorFox2.jpg.jpg](/uploads/CounselorFox1.jpg){:width="370px"}](http://f13game.com/uploads/CounselorFox1.jpg)
 
-
-### **Jarvis 2.0 Update**
+<h3 align="center">Jarvis 2.0 Update</h3>
 
 * Jarvis Features WOAH
 
@@ -80,18 +79,21 @@ The new kills interact with objects such as:
 
   *`"This is a Quality of Life change to help QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`* 
 
----
 
 ##### Changes made to Jason's Grab
+
+---
 
 * Jason's Grab radius has been reduced
 * Jason's Grab maximum range has been reduced
 
   *`"Jason's Grab radius and range caused issues QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
 
----
+
 
 ##### Emote and Scoreboard key mapping changed on controllers**
+
+---
 
 * The Emote Wheel is now accessible by **holding down** the [Y]/[Triangle] button on controllers
 
@@ -99,15 +101,17 @@ The new kills interact with objects such as:
 
   *`"The button to activate the sweater remains unchanged. QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE"`*
 
----
+
 
 ##### Gamelift Servers (Steam)
+
+---
 
 *
 
   *`""The Steam Dedicated servers have been moved to QUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTEQUOTE QUOTE QUOTE QUOTE""`*
 
-### **Bug Fixes**
+<h3 align="center">Bug Fixes</h3>
 
 * **General**
 
