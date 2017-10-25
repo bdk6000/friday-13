@@ -35,7 +35,7 @@ published: false
 
   *`"Jarvis 2.0 Quote"`*
 
-<h3 align="center">5 New Environmental Kills</h3>
+<h3 style="text-align: center;"><span style="font-size:35px;"><strong>Jason Has Received New Environmental Kills</strong></span></h3>
 
 5 New Environmental Kills have been added to every single map to spice things up a little bit!  
 The new kills interact with objects such as:
