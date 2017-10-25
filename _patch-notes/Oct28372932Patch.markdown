@@ -111,45 +111,37 @@ published: false
 
 * **General**
 
-  * 
+  * Players are no longer able to find duplicate Tapes
 
-  * 
+  * Fixed a bug that caused Medical Sprays to sometimes show the incorrect number of remaining uses
 
-  * 
+  * Fixed a bug causing some items to be “stackable” in the air until they become unreachable
 
-  * 
-
-  * 
+  * Force Feedback on controllers added to various actions that were previously missing it
 
 * **Perks**
 
-  * 
+  * Sucker Punch now correctly increases Melee Stun Chance
+
+  * Fixed a bug with the Sneaky perk that was causing some players to experience camera and collision issues
 
   * 
-
-  * 
-
-  * 
-
+ 
 * **Counselors**
 
-  * 
+  * Fixed a bug causing blood splatter to not appear correctly on Counselors killed via Cinematic Kills
 
-  * 
-
-  * 
-
-  * 
+  * Fixed a bug causing Counselors to "hang" in the air when killed via Environmental Kills
 
 * **Jason**
 
-  * 
+  * Fixed a bug that allowed Jason to block and attack at the same time
 
-  * 
+  * Fixed a bug that caused Jason’s grab animation to not be played when grabbing a Counselor out of a car
 
-  * 
+  * Jason (Part 4) can no longer incorrectly access kills that have not been unlocked
 
-  * 
+  * Fixed a bug that sometimes caused Jason to become interaction locked after attacking a hiding Counselor that quits at the same time
 
   * 
 
@@ -161,15 +153,21 @@ published: false
 
 * **Spectators**
 
-  * 
+  * Spectators no longer have their audio muted after spectating a Counselor that commits suicide
 
 * **Maps**
 
   * **General**
 
+    * Fixed a bug on various maps that caused rain to be visible during Pamela’s win screen 
+
+    * Generators no longer incorrectly damages nearby objects when destroyed
+
+    * Fixed a bug where - if Counselors exit the map while holding a large item, the item may sometimes respawn in an inaccessible area
+
     * 
 
-  * **Crystal Lake (Small)**
+  * **Crystal Lake**
 
     * 
 
