@@ -81,10 +81,10 @@ We have also added an additional post round reward screen to show XP gained whil
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<h4 align="center">Vehicle Parts show up on the map when dropped</h4>
+<h4 align="center">Counselors are now able to check their map to find the location of Repair Parts that have been dropped</h4>
 ---
 <p>&nbsp;</p>
-* () seconds after being dropped, vehicle parts will show up as an icon on all available Counselor maps. These icons will not appear on items that have not yet been picked up or on items currently being held. Jason is unable to see these icons on his map. If a Counselor escapes with a vehicle part or drops it in the water, the item will respawn somewhere else on the map.
+* Repair parts that have been dropped will now immediately show up as an icon on all available Counselor maps. These icons will not appear on items that have not yet been picked up or on items currently being held. Jason is unable to see these icons on his map. If a Counselor escapes with a repair part or dies with it in the water, the item will respawn somewhere else on the map with an icon accompanying it.
 
   *`"It was frustrating in the later stages of a match for Counselors when vehicle parts were taken from their spawns and lost in a large map. Being able to locate your win condition is an important part of the game and this QoL change should help alleviate some issues"`* 
 <p>&nbsp;</p>
