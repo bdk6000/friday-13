@@ -255,4 +255,4 @@ We have also added an additional post round reward screen to show XP gained whil
 
 <p>&nbsp;</p>
 
-<h4 style="text-align: center;"><strong><a href="Link" target="_blank" rel="noopener">Click here to discuss the patch notes on the Official Forums</a></strong></h4>
+<h4 style="text-align: center;"><strong><a href="http://forum.f13game.com/index.php?/topic/12302-patch-notes-10252017/" target="_blank" rel="noopener">Click here to discuss the patch notes on the Official Forums</a></strong></h4>
