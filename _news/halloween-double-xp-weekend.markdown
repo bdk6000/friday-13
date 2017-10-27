@@ -11,4 +11,4 @@ Hot off the heels of our last major content update, we're happy to announce an a
 Be sure to get yours on Xbox One, PlayStation 4 and PC!
 
 * Start Time: THURSDAY 10/26 - 7PM EST
-* End Time: TUESDAY 11/1 - 12PM EST
+* End Time: WEDNESDAY 11/1 - 12PM EST
