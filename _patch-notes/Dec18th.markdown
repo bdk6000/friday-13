@@ -65,7 +65,7 @@ published: false
 <h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Heavy Hitter perk</strong></span></h2>
 
-  * The Heavy Hitter perk has been reduced in effectiveness from 10%-40% down to 
+  * The Heavy Hitter perk has been reduced in effectiveness from 10%-40% down to 5%-15% 
 
 <p>&nbsp;</p>
 <h2 style="text-align: left;"><span style="font-size:23px;">
