@@ -10,8 +10,7 @@ published: false
 
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Playable Counselor</strong></span></h3>
 
-<h2 style="text-align: center;"><span style="font-size:30px;"><strong>Sheldon "Shelly" Finklestein</strong></span></h2>Sheldon "Shelly" Finklestein
-
+<h2 style="text-align: center;"><span style="font-size:30px;"><strong>Sheldon "Shelly" Finklestein</strong></span></h2>
 * NO LEVEL Requirement
 
 * 6/10 Composure
