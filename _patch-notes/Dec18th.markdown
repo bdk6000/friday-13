@@ -57,6 +57,12 @@ published: false
 <h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Medical Sprays</strong></span></h2>
 
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 **General**
 
   * Made improvements to the camera angles used when players are opening a drawer
