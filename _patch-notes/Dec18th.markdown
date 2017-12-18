@@ -44,19 +44,32 @@ published: false
 
 <h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Jarvis House map changes</strong></span></h2>
+ 
+ * 
 
+<p>&nbsp;</p>
 <h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Campfire Item Spawns</strong></span></h2>
 
+ * 
+
+<p>&nbsp;</p>
 <h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Rain toggle in Private Matches</strong></span></h2>
 
+ *
+
+<p>&nbsp;</p>
 <h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Heavy Hitter perk changes</strong></span></h2>
 
+ *
+
+<p>&nbsp;</p>
 <h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Medical Sprays and Trap bug fixes</strong></span></h2>
 
+ *
 
 
 <p>&nbsp;</p>
