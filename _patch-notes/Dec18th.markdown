@@ -69,6 +69,8 @@ published: false
 
 **General**
 
+  * The maximum level cap has been raised from 101 up to 150
+
   * Made improvements to the camera angles used when players are opening a drawer
 Perks
 
