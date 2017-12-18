@@ -47,7 +47,7 @@ The Virtual Cabin 2.0 and Offline Bots game modes have been released and are bot
 
  * Two new grab kills (Disarm and Free Kick) are now purchasable at level 118 and 125
 
- * There are plans for many more unlockable rewards to be released in upcoming patches!
+**There are plans for many more unlockable leveling rewards to be released in upcoming patches!**
 
 <p>&nbsp;</p>
 
