@@ -10,7 +10,7 @@ published: false
 
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Playable Counselor</strong></span></h3>
 
-## Sheldon "Shelly" Finklestein**
+# Sheldon "Shelly" Finklestein
 
 * NO LEVEL Requirement
 
