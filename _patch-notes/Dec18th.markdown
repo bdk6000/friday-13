@@ -41,11 +41,13 @@ published: false
 <strong>Changes</strong></span></h3>
 
 <p>&nbsp;</p>
-
 <h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Jarvis House map changes</strong></span></h2>
  
- * 
+ * Added more variation to the possible cabin types and cabin spawn locations
+ * Added additional item spawns and environmental kills in the Jarvis House and Vacation House
+ * Adjusted repair item spawn locations to no longer spawn at inaccessible locations
+ * Corrected various collision issues that were blocking player movement 
 
 <p>&nbsp;</p>
 <h2 style="text-align: left;"><span style="font-size:23px;">
@@ -57,20 +59,23 @@ published: false
 <h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Rain toggle in Private Matches</strong></span></h2>
 
- *
+ * Added an option in private matches to toggle Rain On/Off/Random
 
 <p>&nbsp;</p>
 <h2 style="text-align: left;"><span style="font-size:23px;">
-<strong>Heavy Hitter perk changes</strong></span></h2>
+<strong>Heavy Hitter perk</strong></span></h2>
 
- *
+  * The Heavy Hitter perk has been reduced in effectiveness from 10%-40% down to 
 
 <p>&nbsp;</p>
 <h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Medical Sprays and Trap bug fixes</strong></span></h2>
 
- *
+ * Medical Sprays will no longer contain extra charges after being dropped by a counselor with the Medic perk equipped
 
+ * Fixed a bug that prevented Jason's traps from properly triggering when a Counselor is entering a repaired vehicle 
+
+ * ""
 
 <p>&nbsp;</p>
 
