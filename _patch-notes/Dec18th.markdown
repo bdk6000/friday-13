@@ -53,29 +53,13 @@ published: false
 <h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Campfire Item Spawns</strong></span></h2>
 
- * 
+ * Additional item spawns are now available in campfire locations across all maps
+ * Lowered the maximum range of possible Medical Sprays that may spawn in drawers to compensate for the additional item spawns that have been added
 
-<p>&nbsp;</p>
-<h2 style="text-align: left;"><span style="font-size:23px;">
-<strong>Rain toggle in Private Matches</strong></span></h2>
-
- * Added an option in private matches to toggle Rain On/Off/Random
-
-<p>&nbsp;</p>
 <h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Heavy Hitter perk</strong></span></h2>
 
   * The Heavy Hitter perk has been reduced in effectiveness from 10%-40% down to 5%-15% 
-
-<p>&nbsp;</p>
-<h2 style="text-align: left;"><span style="font-size:23px;">
-<strong>Medical Sprays and Trap bug fixes</strong></span></h2>
-
- * Medical Sprays will no longer contain extra charges after being dropped by a counselor with the Medic perk equipped
-
- * Fixed a bug that prevented Jason's traps from properly triggering when a Counselor is entering a repaired vehicle 
-
- * ""
 
 <p>&nbsp;</p>
 
