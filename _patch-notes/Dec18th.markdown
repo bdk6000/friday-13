@@ -7,6 +7,8 @@ published: false
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>Virtual Cabin 2.0 and Offline Bots</strong></span></h3>
 
 The Virtual Cabin 2.0 and Offline Bots game modes have been released and are both accessible through the "Offline Play" option found in the Main Menu
+<p>&nbsp;</p>
+<p><a title="VC 2.0" href="/uploads/VC222.jpg"><img style="float: left;" src="/uploads/VC222.jpg" width="375" /></a><a title="Offline Bots Settings" href="/uploads/Offline%20Bots%20Settings.jpg"><img style="float: right;" src="/uploads/Offline%20Bots%20Settings.jpg" width="375" /></a></p>
 
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Playable Counselor</strong></span></h3>
 
@@ -30,7 +32,7 @@ The Virtual Cabin 2.0 and Offline Bots game modes have been released and are bot
 
 <p>&nbsp;</p>
 
-<p><a title="Sheldon Stats" href="/uploads/SheldonStats720.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/SheldonStats720.jpg" alt="Fox Character Screen" width="760" /></a></p>
+<p><a title="Sheldon Stats" href="/uploads/SheldonStats720.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/SheldonStats720.jpg" alt="Sheldon Stats" width="760" /></a></p>
 <p><a title="Sheldon Action" href="/uploads/SheldonAction.jpg"><img style="float: left;" src="/uploads/SheldonAction.jpg" width="375" /></a><a title="Sheldon Fleeing" href="/uploads/SheldonFleeing.jpg"><img style="float: right;" src="/uploads/SheldonFleeing.jpg" width="375" /></a></p>
 
 <p>&nbsp;</p>
