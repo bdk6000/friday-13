@@ -2,6 +2,7 @@
 title: Patch Notes
 date: 2017-12-18 12:54:00 -05:00
 published: false
+position: 0
 ---
 
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>Virtual Cabin 2.0 and Offline Bots</strong></span></h3>
