@@ -4,9 +4,7 @@ date: 2017-12-18 12:54:00 -05:00
 published: false
 ---
 
-### **Counselor Shelly**
-
-New Playable Counselor: **Sheldon "Shelly" Finkelstein**
+### New Playable Counselor: **Sheldon "Shelly" Finkelstein**
 
 * NO LEVEL Requirement
 
