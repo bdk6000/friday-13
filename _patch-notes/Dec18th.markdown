@@ -165,7 +165,7 @@ Perks
 
 **Vehicles**
 
-  * 
+  * Added multiple countermeasures to prevent counselors from becoming stuck inside vehicles during various situations
 
 **User Interface**
 
