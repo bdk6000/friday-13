@@ -42,19 +42,19 @@ published: false
 
 <p>&nbsp;</p>
 
-<h2 style="text-align: left;"><span style="font-size:20px;">
+<h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Jarvis House map changes</strong></span></h2>
 
-<h2 style="text-align: left;"><span style="font-size:20px;">
+<h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Campfire Item Spawns </strong></span></h2>
 
-<h2 style="text-align: left;"><span style="font-size:20px;">
+<h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Rain toggle in Private Matches</strong></span></h2>
 
-<h2 style="text-align: left;"><span style="font-size:20px;">
+<h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Heavy Hitter</strong></span></h2>
 
-<h2 style="text-align: left;"><span style="font-size:20px;">
+<h2 style="text-align: left;"><span style="font-size:23px;">
 <strong>Medical Sprays</strong></span></h2>
 
 **General**
