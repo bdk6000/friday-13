@@ -43,29 +43,6 @@ The Virtual Cabin 2.0 and Offline Bots game modes have been released and are bot
 <strong>Changes</strong></span></h3>
 
 <p>&nbsp;</p>
-<h2 style="text-align: left;"><span style="font-size:23px;">
-<strong>Jarvis House map changes</strong></span></h2>
- 
- * Added more variation to the possible cabin types and cabin spawn locations
- * Added additional item spawns and environmental kills in the Jarvis House and Vacation House
- * Adjusted repair item spawn locations to no longer spawn at inaccessible locations
- * Corrected various collision issues that were blocking player movement 
-
-<p>&nbsp;</p>
-<h2 style="text-align: left;"><span style="font-size:23px;">
-<strong>Campfire Item Spawns</strong></span></h2>
-
- * Additional item spawns are now available in campfire locations across all maps
- * Lowered the maximum range of possible Medical Sprays that may spawn in drawers to compensate for the additional item spawns that have been added
-
-<h2 style="text-align: left;"><span style="font-size:23px;">
-<strong>Heavy Hitter perk</strong></span></h2>
-
-  * The Heavy Hitter perk has been reduced in effectiveness from 10%-40% down to 5%-15% 
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
 
 **General**
 
