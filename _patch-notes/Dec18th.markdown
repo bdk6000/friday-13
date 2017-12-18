@@ -8,7 +8,9 @@ published: false
 
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>Virtual Cabin 2.0</strong></span></h3>
 
-<h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Playable Counselor</strong><p>&nbsp;</p><strong>Sheldon "Shelly" Finkelstein</strong></span></h3>
+<h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Playable Counselor</strong></span></h3>
+
+New Playable Counselor: **Sheldon "Shelly" Finklestein**
 
 * NO LEVEL Requirement
 
