@@ -65,8 +65,6 @@ The Virtual Cabin 2.0 and Offline Bots game modes have been released and are bot
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 **General**
 
   * The maximum level cap has been raised from 101 up to 150
