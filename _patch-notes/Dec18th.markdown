@@ -90,11 +90,11 @@ Perks
 
 **Maps**
 
-    * Added additional item spawns to campsites
+  * Added additional item spawns to campsites
 
-    * Lowered the maximum amount of Medical Sprays that are able to spawn in drawers
+  * Lowered the maximum amount of Medical Sprays that are able to spawn in drawers
 
-    * Added countermeasures to prevent players from parking vehicles in front of Jason’s shack
+  * Added countermeasures to prevent players from parking vehicles in front of Jason’s shack
 
     * Removed various exploit spots on all maps
 
