@@ -31,7 +31,7 @@ published: false
 <p>&nbsp;</p>
 
 <p><a title="Sheldon Stats" href="/uploads/SheldonStats720.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/SheldonStats720.jpg" alt="Fox Character Screen" width="760" /></a></p>
-<p><a title="Sheldon Action" href="/uploads/SheldonAction.jpg"><img style="float: left;" src="/uploads/SheldonAction.jpg" width="375" /></a><a title="Fox 2" href="/uploads/SheldonFleeing.jpg"><img style="float: right;" src="/uploads/SheldonFleeing.jpg" width="375" /></a></p>
+<p><a title="Sheldon Action" href="/uploads/SheldonAction.jpg"><img style="float: left;" src="/uploads/SheldonAction.jpg" width="375" /></a><a title="Sheldon Fleeing" href="/uploads/SheldonFleeing.jpg"><img style="float: right;" src="/uploads/SheldonFleeing.jpg" width="375" /></a></p>
 
 <p>&nbsp;</p>
 
