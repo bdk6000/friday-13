@@ -172,6 +172,7 @@ Perks
   * Added an option in private matches to toggle Rain On/Off/Random
   * Made adjustments to the lobby system to more evenly distribute the chances for players to be chosen as Jason
   * Players who choose the ‘Counselor’ option in the ‘Spawn Preference’ menu will no longer be chosen as Jason (unless there are no other options)
+  * Fixed an issue causing players to sometimes be unable to correctly join a lobby with a party
 
 
 **Sound**
