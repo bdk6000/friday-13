@@ -8,7 +8,7 @@ published: false
 
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>Virtual Cabin 2.0</strong></span></h3>
 
-<h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Playable Counselor</strong><strong>Sheldon "Shelly" Finkelstein</strong></span></h3>
+<h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Playable Counselor</strong><p>&nbsp;</p><strong>Sheldon "Shelly" Finkelstein</strong></span></h3>
 
 * NO LEVEL Requirement
 
@@ -35,20 +35,20 @@ published: false
 <p>&nbsp;</p>
 
 
-* **General**
+**General**
 
   * Made improvements to the camera angles used when players are opening a drawer
 Perks
 
   * The “Inverted Controller Look” option no longer affects the emote wheel
 
-* **Perks**
+**Perks**
 
   * Medical Sprays will no longer contain extra charges after being dropped by a counselor with the Medic perk equipped
 
   * Reduced the effectiveness of the Heavy Hitter perk
 
-* **Counselors**
+**Counselors**
 
   * Large items are now properly hidden for counselors operating the CB radio
 
@@ -62,7 +62,7 @@ Perks
   
   * Fixed an issue with the baseball bat not properly calculating durability
 
-* **Jason**
+**Jason**
 
   * Addressed an issue that would sometimes cause Jason to clip through terrain while in shallow water
 
@@ -86,7 +86,7 @@ Perks
 
   * Fixed a collision issue with Jason's throwing knives
 
-* **Maps**
+**Maps**
 
     * Added additional item spawns to campsites
 
@@ -115,23 +115,23 @@ Perks
 
     * Removed a tire that would sometimes block the phone repair box by Blair Cove
 
-* **Vehicles**
+**Vehicles**
 
   * 
 
-* **User Interface**
+**User Interface**
 
   * Repair Part Icons are no longer able to appear beneath the default Map Location Icons
   * Fixed a bug that was causing an incorrect amount of kills to be shown on the scoreboard
 
-* **Matchmaking**
+**Matchmaking**
 
   * Added an option in private matches to toggle Rain On/Off/Random
   * Made adjustments to the lobby system to more evenly distribute the chances for players to be chosen as Jason
   * Players who choose the ‘Counselor’ option in the ‘Spawn Preference’ menu will no longer be chosen as Jason (unless there are no other options)
 
 
-* **Sound**
+**Sound**
 
   * Reduced the volume of Part 9 Jason’s music
   * Fixed various audio issues occurring with some of Jason’s environmental kills
