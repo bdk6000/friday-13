@@ -35,10 +35,18 @@ published: false
 
 <p>&nbsp;</p>
 
+<h3 style="text-align: center;"><span style="font-size:40px;"><strong>Level Cap Update</strong></span></h3>
+
 <h3 style="text-align: center;"><span style="font-size:40px;">
 <strong>Changes</strong></span></h3>
 
 <p>&nbsp;</p>
+
+**Jarvis House map changes**
+
+**Campfire Item Spawns**
+
+
 
 
 **General**
