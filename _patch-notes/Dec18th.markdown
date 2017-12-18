@@ -10,7 +10,7 @@ published: false
 
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Playable Counselor</strong></span></h3>
 
-New Playable Counselor: **Sheldon "Shelly" Finklestein**
+## Sheldon "Shelly" Finklestein**
 
 * NO LEVEL Requirement
 
@@ -96,9 +96,9 @@ Perks
 
   * Added countermeasures to prevent players from parking vehicles in front of Jason’s shack
 
-    * Removed various exploit spots on all maps
+  * Removed various exploit spots on all maps
 
-    * Removed objects on various maps that were blocking the use of some of Jason’s environmental kills
+  * Removed objects on various maps that were blocking the use of some of Jason’s environmental kills
 
   * **Jarvis House**
 
