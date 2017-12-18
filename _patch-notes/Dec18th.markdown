@@ -39,6 +39,18 @@ The Virtual Cabin 2.0 and Offline Bots game modes have been released and are bot
 
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>Level Cap Update</strong></span></h3>
 
+ * The maximum level cap has been increased to 150
+
+ * Players that reach the level cap are now able to obtain Customization Points every time they gain enough EXP for a "level rollover"
+
+ * Various counselor outfits and Jason bloody skins are now available to be unlocked by leveling to specific levels over 101
+
+ * Two new grab kills (Disarm and Free Kick) are now purchasable at level 118 and 125
+
+ * There are plans for many more unlockable rewards to be released in upcoming patches!
+
+<p>&nbsp;</p>
+
 <h3 style="text-align: center;"><span style="font-size:40px;">
 <strong>Changes</strong></span></h3>
 
