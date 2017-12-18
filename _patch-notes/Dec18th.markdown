@@ -162,4 +162,4 @@ Perks
 
 
 
-## [[Click here to discuss the patch notes on the Official Forums]](Link)
+## [[Click here to discuss the patch notes on the Official Forums]](http://forum.f13game.com/topic/13999-patch-notes-12182017/)
