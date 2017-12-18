@@ -46,6 +46,11 @@ published: false
 
 **Campfire Item Spawns**
 
+**Rain toggle in Private Matches**
+
+**Medical Sprays**
+
+**Heavy Hitter**
 
 
 
