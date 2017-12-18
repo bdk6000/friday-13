@@ -50,9 +50,13 @@ published: false
 
 **Medical Sprays**
 
+<h2 style="text-align: left;"><span style="font-size:20px;">
+<strong>Heavy Hitter</strong></span></h2>
+
 **Heavy Hitter**
 
-
+<h2 style="text-align: left;"><span style="font-size:20px;">
+<strong>Medical Sprays</strong></span></h2>
 
 **General**
 
