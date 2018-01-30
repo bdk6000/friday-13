@@ -30,13 +30,16 @@ Part 5 has **no level requirement** and has access to the following grab kills:
 
 <h3 style="text-align: left;"><span style="font-size:35px;"><strong>New Unlockable Grab Kill</strong></span></h3>
 
-The grab kill "Rugby Player" is now available and can be unlocked at **level 108**
+The grab kill "Rugby Player" is now available! 
+The requirements to unlock Rugby Player are:
+
+   * Level - 108
+   * Cost - 2500 CP 
 
 <p>&nbsp;</p>
 
 <p><a title="Rugby Player kill" href="/uploads/Rugby1280.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/Rugby1280.jpg" alt="Sheldon Stats" width="760" /></a></p>
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <h3 style="text-align: left;"><span style="font-size:35px;"><strong>Changes and Bug Fixes</strong></span></h3>
