@@ -64,7 +64,7 @@ The requirements to unlock Rugby Player are:
 
   * Jason’s grab range and cone has been **slightly increased**
 
-  * Players can once again access the bloody skin for Savini Jason
+  * Players can once again access the **medium** bloody skin for Savini Jason
 
   * Fixed a bug that allowed Jason’s character model to rotate while knocked down
 
