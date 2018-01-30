@@ -8,13 +8,13 @@ published: false
 
 Jason Part 5 and the Pinehurst map are now available for both Multiplayer and Offline Bots! 
 
-Part 5 has no level requirement and has access to the following grab kills:
+Part 5 has **no level requirement** and has access to the following grab kills:
 
-    *Hedge Trimmer
+    * **Hedge Trimmer**
 
-    *Last Breath
+    * **Last Breath**
 
-    *You're so Vein
+    * **You're so Vein**
 
 <p>&nbsp;</p>
 
