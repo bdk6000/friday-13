@@ -8,16 +8,15 @@ published: false
 
 Jason Part 5 and the Pinehurst map are now available for both Multiplayer and Offline Bots! 
 <p>&nbsp;</p>
-<p><a title="VC 2.0" href="/uploads/VC222.jpg"><img style="float: left;" src="/uploads/VC222.jpg" width="375" /></a><a title="Offline Bots Settings" href="/uploads/Offline%20Bots%20Settings.jpg"><img style="float: right;" src="/uploads/Offline%20Bots%20Settings.jpg" width="375" /></a></p>
+<p><a title="Jason Part 5 and Pinehurst" href="/uploads/J5Pinehurst1280.jpg"><img style="float: left;" src="/uploads/J5Pinehurst1280.jpg" width="375" /></a><a title="Jason Part 5 and Pinehurst" href="/uploads/J5Pinehurst1280.jpg"><img style="float: right;" src="/uploads/J5Pinehurst1280.jpg" width="375" /></a></p>
 
 <h3 style="text-align: left;"><span style="font-size:40px;"><strong>New Unlockable Grab Kill</strong></span></h3>
 
-The grab kill "Rugby Player" is now available and is unlockable for players that have reached **level 108**
+The grab kill "Rugby Player" is now available and can be unlocked at **level 108**
 
 <p>&nbsp;</p>
 
-<p><a title="Sheldon Stats" href="/uploads/SheldonStats720.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/SheldonStats720.jpg" alt="Sheldon Stats" width="760" /></a></p>
-<p><a title="Sheldon Action" href="/uploads/SheldonAction.jpg"><img style="float: left;" src="/uploads/SheldonAction.jpg" width="375" /></a><a title="Sheldon Fleeing" href="/uploads/SheldonFleeing.jpg"><img style="float: right;" src="/uploads/SheldonFleeing.jpg" width="375" /></a></p>
+<p><a title="Rugby Player kill" href="/uploads/Rugby1280.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/Rugby1280.jpg" alt="Sheldon Stats" width="760" /></a></p>
 
 <p>&nbsp;</p>
 
