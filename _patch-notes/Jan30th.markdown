@@ -47,9 +47,9 @@ The requirements to unlock Rugby Player are:
 
 **General**
 
-  * **Reduced** the amount of Pocket Knives and Medical Sprays that can spawn per match
+  * **Reduced** the amount of **Pocket Knives** and **Medical Sprays** that can spawn per match
 
-  * **Adjusted** the amount of available spawns for each weapon
+  * **Adjusted** the amount of available spawns per match for **each weapon**
 
   * Addressed several issues that were causing players to become interaction locked
 
