@@ -66,6 +66,8 @@ The requirements to unlock Rugby Player are:
 
   * Players can once again access the **medium** bloody skin for Savini Jason
 
+     * **Note: The unlockable Light/Heavy bloody skins are not available for Savini Jason**
+
   * Fixed a bug that allowed Jason’s character model to rotate while knocked down
 
   * The grab kills “Free Kick” and “Disarm” will now properly grant Versatile experience 
