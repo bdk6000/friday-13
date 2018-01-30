@@ -5,7 +5,7 @@ published: false
 release-date: 2018-01-30 00:00:00 -05:00
 ---
 
-<h3 style="text-align: left;"><span style="font-size:35px;"><strong>Jason Part 5 and Pinehurst</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:45px;"><strong>Jason Part 5 and Pinehurst</strong></span></h3>
 
 **Jason Part 5** and the **Pinehurst map** are both now available for both Multiplayer and Offline Bots! 
 
@@ -29,13 +29,13 @@ Part 5 has **no level requirement** and has access to the following grab kills:
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<h3 style="text-align: left;"><span style="font-size:35px;"><strong>New Unlockable Grab Kill</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:45px;"><strong>New Unlockable Grab Kill</strong></span></h3>
 
-The grab kill "Rugby Player" is now available! 
+The grab kill **Rugby Player** is now available! 
 The requirements to unlock Rugby Player are:
 
-   * Level - 108
-   * Cost - 2500 CP 
+   * **Level: 108**
+   * **Cost: 2500 CP** 
 
 <p>&nbsp;</p>
 
@@ -43,7 +43,7 @@ The requirements to unlock Rugby Player are:
 
 <p>&nbsp;</p>
 
-<h3 style="text-align: left;"><span style="font-size:35px;"><strong>Changes and Bug Fixes</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:45px;"><strong>Changes and Bug Fixes</strong></span></h3>
 
 **General**
 
