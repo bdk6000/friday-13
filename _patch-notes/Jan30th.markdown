@@ -4,13 +4,13 @@ date: 2018-01-30 14:04:00 -05:00
 published: false
 ---
 
-<h3 style="text-align: center;"><span style="font-size:40px;"><strong>Jason Part 5 and Pinehurst</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:40px;"><strong>Jason Part 5 and Pinehurst</strong></span></h3>
 
 Jason Part 5 and the Pinehurst map are now available for both Multiplayer and Offline Bots! 
 <p>&nbsp;</p>
 <p><a title="VC 2.0" href="/uploads/VC222.jpg"><img style="float: left;" src="/uploads/VC222.jpg" width="375" /></a><a title="Offline Bots Settings" href="/uploads/Offline%20Bots%20Settings.jpg"><img style="float: right;" src="/uploads/Offline%20Bots%20Settings.jpg" width="375" /></a></p>
 
-<h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Unlockable Grab Kill</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:40px;"><strong>New Unlockable Grab Kill</strong></span></h3>
 
 The grab kill "Rugby Player" is now available and is unlockable for players that have reached **level 108**
 
