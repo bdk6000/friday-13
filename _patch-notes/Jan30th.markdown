@@ -7,8 +7,17 @@ published: false
 <h3 style="text-align: left;"><span style="font-size:40px;"><strong>Jason Part 5 and Pinehurst</strong></span></h3>
 
 Jason Part 5 and the Pinehurst map are now available for both Multiplayer and Offline Bots! 
+
+Part 5 has no level requirement and has access to the following grab kills:
+
+    *Hedge Trimmer
+
+    *Last Breath
+
+    *You're so Vein
+
 <p>&nbsp;</p>
-<p><a title="Jason Part 5 and Pinehurst" href="/uploads/J5Pinehurst1280.jpg"><img style="float: left;" src="/uploads/J5Pinehurst1280.jpg" width="375" /></a><a title="Jason Part 5 and Pinehurst" href="/uploads/J5Pinehurst1280.jpg"><img style="float: right;" src="/uploads/J5Pinehurst1280.jpg" width="375" /></a></p>
+<p><a title="Jason Part 5 and Pinehurst" href="/uploads/J5Pinehurst1280.jpg"><img style="float: left;" src="/uploads/J5Pinehurst1280.jpg" width="375" /></a><a title="J5 Stats" href="/uploads/J5%20Stats.jpg"><img style="float: right;" src="/uploads/J5%20Stats.jpg" width="375" /></a></p>
 
 <h3 style="text-align: left;"><span style="font-size:40px;"><strong>New Unlockable Grab Kill</strong></span></h3>
 
@@ -19,7 +28,7 @@ The grab kill "Rugby Player" is now available and can be unlocked at **level 108
 <p><a title="Rugby Player kill" href="/uploads/Rugby1280.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/Rugby1280.jpg" alt="Sheldon Stats" width="760" /></a></p>
 
 <p>&nbsp;</p>
-
+<p>&nbsp;</p>
 **General**
 
   * **Reduced** the amount of Pocket Knives and Medical Sprays that can spawn per match
@@ -86,6 +95,7 @@ The grab kill "Rugby Player" is now available and can be unlocked at **level 108
   * Players should once again be able to hear the sound of weapons and items being dropped
   * The grab kill “Free Kick” will now properly take into account the user’s audio settings
 
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## [[Click here to discuss the patch notes on the Official Forums]]()
