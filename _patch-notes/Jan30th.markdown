@@ -2,6 +2,7 @@
 title: Patch Notes
 date: 2018-01-30 14:04:00 -05:00
 published: false
+release-date: 2018-01-30 00:00:00 -05:00
 ---
 
 <h3 style="text-align: left;"><span style="font-size:35px;"><strong>Jason Part 5 and Pinehurst</strong></span></h3>
