@@ -19,9 +19,16 @@ Part 5 has **no level requirement** and has access to the following grab kills:
 <p>&nbsp;</p>
 
 
-<p><a title="Jason Part 5 and Pinehurst" href="/uploads/J5Pinehurst1280.jpg"><img style="float: left;" src="/uploads/J5Pinehurst1280.jpg" width="375" /></a><a title="J5 Stats" href="/uploads/J5%20Stats.jpg"><img style="float: right;" src="/uploads/J5%20Stats.jpg" width="375" /></a></p>
 
-<h3 style="text-align: left;"><span style="font-size:40px;"><strong>New Unlockable Grab Kill</strong></span></h3>
+<p><a title="Jason Part 5 and Pinehurst" href="/uploads/J5Pinehurst1280.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/J5Pinehurst1280.jpg" alt="Jason Part 5 and Pinehurst" width="760" /></a></p>
+
+<p><a title="Pinehurst" href="/uploads/Pinehurst%20OfflineBots.jpg"><img style="float: left;" src="/uploads/Pinehurst%20OfflineBots.jpg" width="375" /></a><a title="J5 Stats" href="/uploads/J5%20Stats.jpg"><img style="float: right;" src="/uploads/J5%20Stats.jpg" width="375" /></a></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h3 style="text-align: left;"><span style="font-size:35px;"><strong>New Unlockable Grab Kill</strong></span></h3>
 
 The grab kill "Rugby Player" is now available and can be unlocked at **level 108**
 
@@ -31,6 +38,9 @@ The grab kill "Rugby Player" is now available and can be unlocked at **level 108
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+<h3 style="text-align: left;"><span style="font-size:35px;"><strong>Changes and Bug Fixes</strong></span></h3>
+
 **General**
 
   * **Reduced** the amount of Pocket Knives and Medical Sprays that can spawn per match
