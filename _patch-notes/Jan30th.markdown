@@ -6,7 +6,7 @@ published: false
 
 <h3 style="text-align: left;"><span style="font-size:40px;"><strong>Jason Part 5 and Pinehurst</strong></span></h3>
 
-**Jason Part 5** and the **Pinehurst map** are now available for both Multiplayer and Offline Bots! 
+**Jason Part 5** and the **Pinehurst map** are both now available for both Multiplayer and Offline Bots! 
 
 Part 5 has **no level requirement** and has access to the following grab kills:
 
