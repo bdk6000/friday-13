@@ -12,8 +12,7 @@ Jason Part 5 and the Pinehurst map are now available for both Multiplayer and Of
 
 <h3 style="text-align: center;"><span style="font-size:40px;"><strong>New Unlockable Grab Kill</strong></span></h3>
 
-<h2 style="text-align: center;"><span style="font-size:30px;"><strong>Sheldon "Shelly" Finklestein</strong></span></h2>
-<p>&nbsp;</p>
+The grab kill "Rugby Player" is now available and is unlockable for players that have reached **level 108**
 
 <p>&nbsp;</p>
 
@@ -24,9 +23,9 @@ Jason Part 5 and the Pinehurst map are now available for both Multiplayer and Of
 
 **General**
 
-  * Decreased the amount of Pocket Knives and Medical Sprays that can spawn per match
+  * **Reduced** the amount of Pocket Knives and Medical Sprays that can spawn per match
 
-  * Adjusted the amount of available spawns for each weapon
+  * **Adjusted** the amount of available spawns for each weapon
 
   * Addressed several issues that were causing players to become interaction locked
 
@@ -36,11 +35,11 @@ Jason Part 5 and the Pinehurst map are now available for both Multiplayer and Of
 
 **Jason**
 
-  * Jason will now begin each match equipped with 2 additional throwing knives
+  * Jason will now begin each match equipped with **2** additional throwing knives
 
-  * Jason’s movement speed has been slightly increased
+  * Jason’s movement speed has been **slightly increased**
 
-  * Jason’s grab range and cone has been slightly increased
+  * Jason’s grab range and cone has been **slightly increased**
 
   * Players can once again access the bloody skin for Savini Jason
 
@@ -74,7 +73,7 @@ Jason Part 5 and the Pinehurst map are now available for both Multiplayer and Of
 
   * Fixed a bug causing the end score screen to incorrectly show badge progression in Offline Bots 
 
-      * Note: Badges can not be obtained through Offline Bots
+      * **Note: Badges can not be obtained through Offline Bots**
  
 
 **Matchmaking**
@@ -90,4 +89,4 @@ Jason Part 5 and the Pinehurst map are now available for both Multiplayer and Of
 
 
 
-## [[Click here to discuss the patch notes on the Official Forums]](http://forum.f13game.com/topic/13999-patch-notes-12182017/)
+## [[Click here to discuss the patch notes on the Official Forums]]()
