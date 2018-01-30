@@ -17,6 +17,9 @@ Part 5 has no level requirement and has access to the following grab kills:
     *You're so Vein
 
 <p>&nbsp;</p>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MczKDq-zO30" target="_blank"><img src="http://img.youtube.com/vi/MczKDq-zO30/0.jpg" 
+alt="Pinehurst J5" width="240" height="180" border="10" /></a>
 <p><a title="Jason Part 5 and Pinehurst" href="/uploads/J5Pinehurst1280.jpg"><img style="float: left;" src="/uploads/J5Pinehurst1280.jpg" width="375" /></a><a title="J5 Stats" href="/uploads/J5%20Stats.jpg"><img style="float: right;" src="/uploads/J5%20Stats.jpg" width="375" /></a></p>
 
 <h3 style="text-align: left;"><span style="font-size:40px;"><strong>New Unlockable Grab Kill</strong></span></h3>
