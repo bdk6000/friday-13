@@ -115,4 +115,4 @@ The requirements to unlock Rugby Player are:
 <p>&nbsp;</p>
 
 
-<h3 style="text-align: left;"><span style="font-size:45px;"><strong>[[Click here to discuss the patch notes on the Official Forums]](http://forum.f13game.com/topic/16300-patch-notes-01302018/)</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:45px;"><strong>[http://forum.f13game.com/topic/16300-patch-notes-01302018/](http://forum.f13game.com/topic/16300-patch-notes-01302018/)</strong></span></h3>
