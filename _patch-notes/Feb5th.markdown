@@ -8,15 +8,15 @@ published: false
 
 **General**
 
-  * Made adjustments to the window collision box that appears when a counselor is going through a window
-
-  * Fixed a bug that caused counselors to sometimes become stuck while climbing through a window 
+  * Made adjustments to the window collision blocker that is created while a counselor is climbing/jumping through a window 
 
   * Addressed several exploits and exploit locations
 
 **Counselors**
 
   * Fixed a bug that caused Bear Traps to become stuck in a counselor’s hands
+
+  * Fixed a bug that caused counselors to sometimes become stuck while climbing through a window 
 
 **Maps**
 **Pinehurst**
