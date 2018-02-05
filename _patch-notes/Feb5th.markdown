@@ -8,7 +8,7 @@ published: false
 
 **General**
 
-  * Made adjustments to the window collision blocker that is created while a counselor is climbing/jumping through a window 
+  * Made adjustments to the window collision blocker that is created while a counselor in the process of climbing or jumping through a window 
 
   * Addressed several exploits and exploit locations
 
