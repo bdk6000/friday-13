@@ -19,9 +19,10 @@ published: false
   * Fixed a bug that caused counselors to sometimes become stuck while climbing through a window 
 
 **Maps**
+
 **Pinehurst**
 
-  *The Northwestern exit now properly works when escaping with a vehicle
+  * The Northwestern exit now properly works when escaping with a vehicle
 
 **Vehicles**
 
