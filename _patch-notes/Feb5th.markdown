@@ -22,7 +22,7 @@ published: false
 
 **Pinehurst**
 
-  * The Northwestern exit now properly works when escaping with a vehicle
+  * Fixed a bug that caused the northwestern exit to not work properly as a vehicle escape
 
 **Vehicles**
 
