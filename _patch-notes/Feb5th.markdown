@@ -109,10 +109,10 @@ The requirements to unlock Rugby Player are:
 
 **Sound**
 
-  * Players should once again be able to hear the sound of weapons and items being dropped
-  * The grab kill “Free Kick” will now properly take into account the user’s audio settings
+  * 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## [[Click here to discuss the patch notes on the Official Forums]](http://forum.f13game.com/topic/16300-patch-notes-01302018/)
+
+<h3 style="text-align: left;"><span style="font-size:45px;"><strong>[[Click here to discuss the patch notes on the Official Forums]](http://forum.f13game.com/topic/16300-patch-notes-01302018/)</strong></span></h3>
