@@ -1,6 +1,6 @@
 ---
 title: Patch Notes
-date: 2018-02-06 15:43:00 -05:00
+date: 2018-02-06 00:43:00 -05:00
 published: false
 release-date: 2018-02-06 00:00:00 -05:00
 ---
