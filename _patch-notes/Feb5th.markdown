@@ -10,9 +10,11 @@ published: false
 
   * Made adjustments to the window collision blocker that is created while a counselor in the process of climbing or jumping through a window 
 
-  * Addressed several exploits and exploit locations
+  * Addressed multiple exploits and exploit locations
 
 **Counselors**
+
+  * Fixed a bug that caused Bear Traps to work inconsistently when being placed near doorways
 
   * Fixed a bug that caused Bear Traps to become stuck in a counselor’s hands
 
