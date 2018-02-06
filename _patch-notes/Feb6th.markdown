@@ -1,7 +1,8 @@
 ---
 title: Patch Notes
-date: 2018-02-05 15:43:00 -05:00
+date: 2018-02-06 15:43:00 -05:00
 published: false
+release-date: 2018-02-06 00:00:00 -05:00
 ---
 
 <h3 style="text-align: left;"><span style="font-size:45px;"><strong>Changes and Bug Fixes</strong></span></h3>
