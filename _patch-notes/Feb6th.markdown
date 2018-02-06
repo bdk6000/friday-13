@@ -38,4 +38,4 @@ release-date: 2018-02-06 00:00:00 -05:00
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-### [[Click here to discuss the patch notes on the Official Forums]](http://forum.f13game.com/topic/)
+### [[Click here to discuss the patch notes on the Official Forums]](http://forum.f13game.com/topic/16729-patch-notes-020618/)
