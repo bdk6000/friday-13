@@ -1,6 +1,8 @@
 ---
 title: Perk System Update & Legendaries
 date: 2018-03-30 18:44:00 -04:00
+main-image: "/uploads/Perk_update-main.png"
+hero-image: "/uploads/Perk_update-hero.png"
 ---
 
 Good afternoon, counselors!
