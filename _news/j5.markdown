@@ -1,0 +1,21 @@
+---
+title: Jason Part 5 (Roy)
+date: 2018-03-30 14:28:00 -04:00
+subtitle: Official Stats
+main-image: "/uploads/j5_stats_main.png"
+hero-image: "/uploads/j5_stats_hero.png"
+---
+
+Howdy Campers, long time no see. Sorry about that, been head down, working with the team on this upcoming patch. They have busted hump and I'm proud of this content patch dropping on Tuesday, Jan 30th. But let's cut to the chase. J5 STATS!!
+
+First off, he unlocks at level 0, meaning you get him instantly. OK, now the pros and cons. 
+ 
+PROS                                                       
++ Throwing Knives                                
++ Stalk                                                     
++ Can Run                                               
+
+CONS
+- Defense
+- Grip Strength
+- Stun Resistance
