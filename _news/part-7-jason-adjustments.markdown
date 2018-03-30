@@ -15,6 +15,6 @@ Change 1: We are replacing +Grip Strength with +Weapon Strength. This will help 
 
 Change 2: We are replacing -Shift with -Stun. This change will allow for more mobility by Jason.
 
-![J7_rework.png](/uploads/J7_rework.png)
+![J7_rework-113816.png](/uploads/J7_rework-113816.png)
 
 We believe that these changes will increase the viability of selecting Part 7 Jason.
