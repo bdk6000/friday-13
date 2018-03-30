@@ -1,6 +1,8 @@
 ---
 title: Jason Weapon Swapping & Keybinding
 date: 2018-03-30 18:28:00 -04:00
+main-image: "/uploads/weapon_swapping_main.png"
+hero-image: "/uploads/weapon_swapping_hero.png"
 ---
 
 <iframe width="1093" height="640" src="https://www.youtube.com/embed/ZQ-S_CDuLBQ?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
