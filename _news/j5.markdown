@@ -19,3 +19,5 @@ CONS
 - Defense
 - Grip Strength
 - Stun Resistance
+
+![J5_stats.jpg](/uploads/J5_stats.jpg)
