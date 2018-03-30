@@ -1,6 +1,7 @@
 ---
 title: Counselor Safety Briefing
 date: 2018-03-30 15:19:00 -04:00
+subtitle: Pocket knives, Med Sprays, and More
 main-image: "/uploads/safety_briefing_main.png"
 hero-image: "/uploads/safety_briefing_hero.png"
 ---
