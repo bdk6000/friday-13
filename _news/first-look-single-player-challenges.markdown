@@ -3,6 +3,7 @@ title: 'First Look: Single Player Challenges'
 date: 2018-03-30 18:03:00 -04:00
 ---
 
+<iframe width="999" height="587" src="https://www.youtube.com/embed/pqH4xOBBxQ4?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Hey everyone!
 
