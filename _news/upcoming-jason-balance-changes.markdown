@@ -2,7 +2,7 @@
 title: Upcoming Jason Balance Changes
 date: 2018-03-30 13:58:00 -04:00
 main-image: "/uploads/Balance_main-b30322.png"
-hero-image: "/uploads/Balance_hero-1fdc9c.png"
+hero-image: "/uploads/Balance_hero-ea9020.png"
 ---
 
 Good evening, counselors and slashers.
