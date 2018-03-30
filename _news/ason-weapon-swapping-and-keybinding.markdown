@@ -1,5 +1,5 @@
 ---
-title: ason Weapon Swapping & Keybinding
+title: Jason Weapon Swapping & Keybinding
 date: 2018-03-30 18:28:00 -04:00
 ---
 
