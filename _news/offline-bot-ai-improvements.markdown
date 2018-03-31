@@ -1,6 +1,8 @@
 ---
 title: Offline Bot AI Improvements
 date: 2018-03-30 19:00:00 -04:00
+main-image: "/uploads/Ai_bot_main.png"
+hero-image: "/uploads/Ai_bot_hero.png"
 ---
 
 Hello Camp Slashers,
