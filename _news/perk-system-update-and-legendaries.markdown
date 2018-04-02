@@ -1,6 +1,7 @@
 ---
-title: Perk System Update & Legendaries
+title: Perks Update
 date: 2018-03-30 18:44:00 -04:00
+subtitle: System Update & Legendaries
 main-image: "/uploads/Perk_update-main.png"
 hero-image: "/uploads/Perk_update-hero.png"
 ---
