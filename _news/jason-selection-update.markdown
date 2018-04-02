@@ -1,6 +1,7 @@
 ---
 title: Jason Selection Update
 date: 2018-03-30 18:47:00 -04:00
+subtitle: Improved the selection process
 main-image: "/uploads/Jason_selection_main.png"
 hero-image: "/uploads/Jason_selection_hero.png"
 ---
