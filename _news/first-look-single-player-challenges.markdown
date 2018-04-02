@@ -1,6 +1,7 @@
 ---
 title: 'First Look: Single Player Challenges'
 date: 2018-03-30 18:03:00 -04:00
+subtitle: Buggzy gets caught off guard ;)
 main-image: "/uploads/SP_Challenges_main.png"
 hero-image: "/uploads/SP_Challenges_hero.png"
 ---
