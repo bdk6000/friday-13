@@ -2,7 +2,7 @@
 title: Grab Animation Update
 date: 2018-03-30 18:43:00 -04:00
 main-image: "/uploads/Choke_main-0ea39e.png"
-hero-image: "/uploads/Choke_hero.png"
+hero-image: "/uploads/Choke_hero-24778d.png"
 ---
 
 ![5a8f0cf4c3f48_JasonGrab(1).gif.12fcc1272997cd8e6ff373b3bb79d273.gif](/uploads/5a8f0cf4c3f48_JasonGrab(1).gif.12fcc1272997cd8e6ff373b3bb79d273.gif)
