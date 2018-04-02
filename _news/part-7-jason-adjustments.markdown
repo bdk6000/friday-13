@@ -1,7 +1,7 @@
 ---
 title: Part 7 Jason Adjustments
 date: 2018-03-30 18:51:00 -04:00
-subtitle: J7 gets an upgrade
+subtitle: J7 power up
 main-image: "/uploads/J7_rework_main.png"
 hero-image: "/uploads/J7_rework_hero.png"
 ---
