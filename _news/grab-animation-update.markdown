@@ -1,6 +1,7 @@
 ---
 title: Grab Animation Update
 date: 2018-03-30 18:43:00 -04:00
+subtitle: Jason gets scarier
 main-image: "/uploads/Choke_main-0ea39e.png"
 hero-image: "/uploads/Choke_hero-5b33ea.png"
 ---
