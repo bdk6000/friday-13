@@ -1,6 +1,7 @@
 ---
-title: 'Dedicated Servers: Updating The Engine'
+title: Dedicated Servers Update
 date: 2018-03-30 16:56:00 -04:00
+subtitle: Updating The Engine
 main-image: "/uploads/updating_the_engine_main.png"
 hero-image: "/uploads/updating_the_engine_hero.png"
 ---
