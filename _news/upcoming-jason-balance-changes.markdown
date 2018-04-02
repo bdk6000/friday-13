@@ -1,6 +1,7 @@
 ---
 title: Upcoming Jason Balance Changes
 date: 2018-03-30 13:58:00 -04:00
+subtitle: Jason gets an upgrade
 main-image: "/uploads/Balance_main-b30322.png"
 hero-image: "/uploads/Balance_hero-79ea4b.png"
 ---
