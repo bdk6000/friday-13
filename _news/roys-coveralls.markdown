@@ -1,6 +1,7 @@
 ---
 title: Roy's Coveralls
 date: 2018-03-30 18:46:00 -04:00
+subtitle: Spruce green edition
 main-image: "/uploads/J5_green_coveralls_main-93e0dd.png"
 hero-image: "/uploads/J5_green_coveralls_hero-543914.png"
 ---
