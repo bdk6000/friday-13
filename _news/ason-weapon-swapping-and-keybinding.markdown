@@ -1,6 +1,7 @@
 ---
 title: Jason Weapon Swapping & Keybinding
 date: 2018-03-30 18:28:00 -04:00
+subtitle: Machetes for all!
 main-image: "/uploads/weapon_swapping_main.png"
 hero-image: "/uploads/weapon_swapping_hero.png"
 ---
