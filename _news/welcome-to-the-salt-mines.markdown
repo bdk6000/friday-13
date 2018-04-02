@@ -1,6 +1,7 @@
 ---
 title: Welcome to the Salt Mines
 date: 2018-03-30 18:57:00 -04:00
+subtitle: For those who act like jerks
 main-image: "/uploads/Salty_main.png"
 hero-image: "/uploads/Salty_hero.png"
 ---
