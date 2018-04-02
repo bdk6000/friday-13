@@ -1,9 +1,9 @@
 ---
 title: Level Increase to 150!
 date: 2017-12-18 13:57:00 -05:00
-subtitle: More unlocks and more content with new level cap!
-main-image: "/uploads/Level%20Cap_main.png"
-hero-image: "/uploads/Level%20Cap_hero.png"
+subtitle: Unlocks and content with new level cap!
+main-image: "/uploads/Level%20Cap_main-7e70f6.png"
+hero-image: "/uploads/Level%20Cap_hero-cbd7ca.png"
 ---
 
 Today we are excited to talk about one of the new changes coming with our next update; an increase in max player level from 101 to 150. This increase won’t just be a number that keeps getting higher as you play more and earn XP. There are some cool things that you will unlock along the way, and we’re going to talk about a few of those right now.
