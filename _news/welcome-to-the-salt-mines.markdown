@@ -2,8 +2,8 @@
 title: Welcome to the Salt Mines
 date: 2018-03-30 18:57:00 -04:00
 subtitle: Earning salt is easy
-main-image: "/uploads/Salty_main.png"
-hero-image: "/uploads/Salty_hero.png"
+main-image: "/uploads/Salty_main-aa0bd2.png"
+hero-image: "/uploads/Salty_hero-a5665b.png"
 ---
 
 We all know how excruciating it is to play a match, snatch up a counselor, and – BAM! – “the host has left” pops up on the screen. It’s annoying. It’s INFURIATING. It’s an issue that players have been experiencing, and telling us about, for a while now.
