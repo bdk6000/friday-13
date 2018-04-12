@@ -2,8 +2,8 @@
 title: Introducing Victoria
 date: 2018-04-12 13:33:00 -04:00
 subtitle: New Counselor
-main-image: "/uploads/Victoria_main.png"
-hero-image: "/uploads/Victoria_hero.png"
+main-image: "/uploads/Victoria_main-cf18f2.png"
+hero-image: "/uploads/Victoria_hero-c3bb5c.png"
 ---
 
 Hello Campers! 
