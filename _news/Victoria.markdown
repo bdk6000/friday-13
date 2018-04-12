@@ -6,3 +6,7 @@ main-image: "/uploads/Victoria_main.png"
 hero-image: "/uploads/Victoria_hero.png"
 ---
 
+
+
+
+![Victoria_Stats.png](/uploads/Victoria_Stats.png)
