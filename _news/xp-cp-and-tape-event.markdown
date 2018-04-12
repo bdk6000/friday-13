@@ -2,7 +2,7 @@
 title: XP, CP, & Tape Event
 date: 2018-04-12 17:33:00 -04:00
 subtitle: Happy Friday the 13th Campers
-main-image: "/uploads/13_event_main.png"
+main-image: "/uploads/13_event_main-147bbc.png"
 hero-image: "/uploads/13_event_hero.png"
 ---
 
