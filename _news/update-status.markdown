@@ -27,6 +27,6 @@ Every piece of “Thursday News” that we have released since February 9th, 201
 Are you going to “surprise drop” this update?
 No, the next update is a massive milestone for us and we will not be silent about its release date. We will be releasing communications about the update’s release before it comes out, and we will communicate the date as soon as it is certain.
 
-[](https://www.youtube.com/watch?v=ObAY_DL-Xzk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ObAY_DL-Xzk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![BaeJ.png](/uploads/BaeJ.png)
