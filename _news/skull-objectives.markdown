@@ -6,7 +6,7 @@ main-image: "/uploads/Skull_Objectives_main.png"
 hero-image: "/uploads/Skull_Objectives_hero.png"
 ---
 
-**Good morning slashers & campers!**
+**Good afternoon slashers & campers!**
  
 We’ve talked about Single Player Challenges a couple of times now, as well as some of the basics of Skull Objectives. Today we're going to discuss what exactly Skull Objectives are, and how you can unlock sweet new emotes within the Challenges. Each of our 10 Single Player Challenges give players an opportunity to unlock 3 emotes. Players who complete all of the Skull Objectives in Single Player Challenges will have earned a total of 30 new emotes for their counselors.
  
