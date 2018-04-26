@@ -19,6 +19,8 @@ We’ve talked about Single Player Challenges a couple of times now, as well as 
 **Undetected Skull:** Simultaneously as simple, yet difficult, as it sounds. Save Crystal Lake from the filthy teenagers without being seen. Not sure if AJ saw you? Don’t worry, a pop up will occur if this Skull has been lost due to Jason being detected.
 
 Missed a popup and unsure whether you completed an Objective? Each Skull Objective will be displayed at the end of the Challenge to let players know how they performed.
+
+![SkullObjectiveIcons-1.gif](/uploads/SkullObjectiveIcons-1.gif)
  
 We’re listing the Challenges by their unlock order, so we don’t spoil anything before they drop for everyone. Challenge One is unlocked for everyone, but after that players will need to unlock each Challenge by completing two Skull Objectives in the previous Challenge. Each completed Skull Objective will unlock an emote reward. 
 
@@ -76,4 +78,3 @@ Let’s take a look at the emotes you can unlock for every Skull Objective in ea
  
 Some of the emotes are different based on the gender of the counselor, but each emote unlocks an action for both female and male counselors.
 
-![SkullObjectiveIcons-1.gif](/uploads/SkullObjectiveIcons-1.gif)
