@@ -24,11 +24,8 @@ We’re listing the Challenges by their unlock order, so we don’t spoil anythi
 Let’s take a look at the emotes you can unlock for every Skull Objective in each Challenge. 
 
 **Challenge One (Broken Down):**
-
 No Survivors: Hurry!
-
 XP Score: Check Pockets
-
 Undetected: The Cabin Boogie
 
 **Challenge Two:**
