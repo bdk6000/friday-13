@@ -1,6 +1,7 @@
 ---
 title: Skull Objectives
 date: 2018-04-25 14:40:00 -04:00
+subtitle: Unlock 30 new emotes
 main-image: "/uploads/Skull_Objectives_main.png"
 hero-image: "/uploads/Skull_Objectives_hero.png"
 ---
