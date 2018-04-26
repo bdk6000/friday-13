@@ -1,7 +1,7 @@
 ---
 title: 'First Look: Single Player Challenges'
 date: 2018-03-30 18:03:00 -04:00
-subtitle: "The Majestic Buggz-i-corn \U0001F984"
+subtitle: 'The Majestic Buggz-i-corn '
 main-image: "/uploads/SP_Challenges_main.png"
 hero-image: "/uploads/SP_Challenges_hero.png"
 ---
