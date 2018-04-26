@@ -74,3 +74,5 @@ Let’s take a look at the emotes you can unlock for every Skull Objective in ea
 * Undetected: The Running Man
  
 Some of the emotes are different based on the gender of the counselor, but each emote unlocks an action for both female and male counselors.
+
+![SkullObjectiveIcons-1.gif](/uploads/SkullObjectiveIcons-1.gif)
