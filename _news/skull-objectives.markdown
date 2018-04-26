@@ -29,9 +29,9 @@ XP Score: Check Pockets
 Undetected: The Cabin Boogie
 
 **Challenge Two:**
-No Survivors: Praise
-XP Score: Melbourne Shuffle
-Undetected: Pelvis Thrust
+* No Survivors: Praise
+* XP Score: Melbourne Shuffle
+* Undetected: Pelvis Thrust
 
 **Challenge Three:**
 No Survivors: Scatter
