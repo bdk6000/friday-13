@@ -34,11 +34,8 @@ XP Score: Melbourne Shuffle
 Undetected: Pelvis Thrust
 
 **Challenge Three:**
-
 No Survivors: Scatter
-
 XP Score: Air Guitar
-
 Undetected: The Mia
 
 **Challenge Four:**
