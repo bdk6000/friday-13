@@ -9,7 +9,7 @@ published: false
 <h3 style="text-align: left;"><span style="font-size:45px;"><strong>Legendary Perks & Perk Changes</strong></span></h3>
 
 
-<h2 style="text-align: left;"><span style="font-size:25px;"><strong>Legendary Perks & Perk Changes</strong></span></h2>
+<h2 style="text-align: left;"><span style="font-size:25px;"><strong>Legendary Perks</strong></span></h2>
 
 A new perk rarity tier has been introduced! Legendary perks!
 Legendary perks are now the rarest perks that can be obtained.
