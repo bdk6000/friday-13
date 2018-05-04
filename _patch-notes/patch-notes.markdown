@@ -4,12 +4,12 @@ date: 2018-05-03 20:00:00 -04:00
 published: false
 ---
 
-<h3 style="text-align: left;"><span style="font-size:45px;"><strong>New Game Mode: Single Player Challenges</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:38px;"><strong>New Game Mode: Single Player Challenges</strong></span></h3>
 
-<h3 style="text-align: left;"><span style="font-size:45px;"><strong>Legendary Perks & Perk Changes</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:38px;"><strong>Legendary Perks & Perk Changes</strong></span></h3>
 
 
-<h2 style="text-align: left;"><span style="font-size:25px;"><strong>Legendary Perks</strong></span></h2>
+<h2 style="text-align: left;"><span style="font-size:27px;"><strong>Legendary Perks</strong></span></h2>
 
 A new perk rarity tier has been introduced! Legendary perks!
 Legendary perks are now the rarest perks that can be obtained.
