@@ -4,6 +4,19 @@ date: 2018-05-03 20:00:00 -04:00
 published: false
 ---
 
+<h3 style="text-align: left;"><span style="font-size:45px;"><strong>Legendary Perks & Perk Changes</strong></span></h3>
+
+
+<h2 style="text-align: left;"><span style="font-size:45px;"><strong>Legendary Perks & Perk Changes</strong></span></h2>
+
+A new perk rarity tier has been introduced! Legendary perks!
+Legendary perks are now the rarest perks that can be obtained.
+The perk values and traits are identical to Epic perks, but there is one big difference between the two rarities.
+All Legendary perks come equipped with one extra positive trait!
+These traits are predetermined and work in addition to the perk’s original traits.
+Here are the traits that are tied to each Legendary perk:
+
+
 |                      |                                      |
 |----------------------|-------------------------------------:|
 | Adrenaline Rush      |                        Total Stamina |
