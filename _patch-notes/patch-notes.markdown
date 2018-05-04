@@ -4,8 +4,9 @@ date: 2018-05-03 20:00:00 -04:00
 published: false
 ---
 
+|         Perk         	|   	|            Legendary Trait           	|
+|:--------------------:	|---	|:------------------------------------:	|
 | Adrenaline Rush      	|   	|                        Total Stamina 	|
-|----------------------	|:-:	|-------------------------------------:	|
 | Aquanaut             	|   	|           Avoid Sense While Swimming 	|
 | Controlled Breathing 	|   	|               Overall Fear Reduction 	|
 | Easy Listening       	|   	|                        Total Stamina 	|
