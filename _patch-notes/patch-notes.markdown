@@ -79,6 +79,53 @@ Here are the traits that are tied to each Legendary perk:
 
 <h3 style="text-align: left;"><span style="font-size:38px;"><strong>Combat Update</strong></span></h3>
 
+
+<h2 style="text-align: left;"><span style="font-size:27px;"><strong>Weapon Swapping Feature</strong></span></h2>
+
+
+A new option is now available in the Jason selection screen! 
+Players will now be able to equip different weapons on each Jason.
+This feature unlocks for players at level 113 and will allow the swapping of the following weapons:
+
+Pickaxe
+Machete
+Axe
+Fire Axe
+Battle Axe
+Spear
+Pig Splitter
+Shears
+
+All the grab kills tied to the weapons (including the DLC kills) will also be available through the swap.
+
+<h2 style="text-align: left;"><span style="font-size:27px;"><strong>Jason’s Swing Animation</strong></span></h2>
+
+All of Jason’s weapons have had their swinging animations adjusted to swing lower towards the ground. 
+This change should help prevent Jason’s swings from missing players that are on uneven terrain or crouching.
+
+<h2 style="text-align: left;"><span style="font-size:27px;"><strong>Jason’s Grab Changes</strong></span></h2>
+
+Jason’s grab has been updated with a new animation and sound effect. 
+These change should more accurately represent the distance of Jason’s grab and also feel more gratifying when landing a grab on a counselor.
+
+<h2 style="text-align: left;"><span style="font-size:27px;"><strong>Doorway Combat Changes</strong></span></h2>
+
+We have made some adjustments to the way that combat works when there is a door in between Jason and a counselor. Originally, players were able to initiate combat from both sides of a closed door. This allowed counselors to time their swings and safely interrupt/damage Jason during his process of breaking down the door. Because of the way that combat works, there was little counterplay to these occurrences. In order to combat this one-sided exchange, counselors will no longer be able to hit Jason through doors. However, Jason will still have the ability to damage counselors that are standing too close to the door.
+
+<h2 style="text-align: left;"><span style="font-size:27px;"><strong>Counselor Weapon Stats Adjusted</strong></span></h2>
+
+The pips that represent the weapon stats in the How to Play section have had their values per pip adjusted to be more consistent.
+The following weapons have had their stats adjusted.
+
+2X4
+Frying Pan
+Fallen Tree Branch
+Baseball Bat
+Metal Pipe
+Wrench
+Cooking Pot
+
+
 <h3 style="text-align: left;"><span style="font-size:38px;"><strong>Matchmaking Changes</strong></span></h3>
 
 <h2 style="text-align: left;"><span style="font-size:27px;"><strong>Infraction System</strong></span></h2>
@@ -108,5 +155,10 @@ For more information about this system, please visit our official forums.
 The Spawn Preference system only affects Private Matches only when a Jason has not been picked manually.
 
 <h3 style="text-align: left;"><span style="font-size:38px;"><strong>Keybinding Support</strong></span></h3>
+
+Keybinding Support is now available on the PC for players using a keyboard and mouse
+
+This feature may be accessed through Settings > Keybindings
+
 
 <h3 style="text-align: left;"><span style="font-size:38px;"><strong>General Changes and Bugfixes</strong></span></h3>
