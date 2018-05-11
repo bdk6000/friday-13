@@ -117,13 +117,13 @@ We have made some adjustments to the way that combat works when there is a door 
 The pips that represent the weapon stats in the How to Play section have had their values per pip adjusted to be more consistent.
 The following weapons have had their stats adjusted.
 
-2X4
-Frying Pan
-Fallen Tree Branch
-Baseball Bat
-Metal Pipe
-Wrench
-Cooking Pot
+* 2X4
+* Frying Pan
+* Fallen Tree Branch
+* Baseball Bat
+* Metal Pipe
+* Wrench
+* Cooking Pot
 
 
 <h3 style="text-align: left;"><span style="font-size:38px;"><strong>Matchmaking Changes</strong></span></h3>
