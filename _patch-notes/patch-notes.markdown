@@ -15,7 +15,7 @@ There are also 30 new unlockable emotes that can be obtained in the Single Playe
 
 <h3 style="text-align: left;"><span style="font-size:38px;"><strong>New Playable Counselor: Victoria Sterling</strong></span></h3>
 
-<h3 style="text-align: left;"><span style="font-size:38px;"><strong>Legendary Perks & Perk Changes</strong></span></h3>
+<h1 style="text-align: left;"><span style="font-size:38px;"><strong>Legendary Perks & Perk Changes</strong></span></h1>
 
 
 <h2 style="text-align: left;"><span style="font-size:27px;"><strong>Legendary Perks</strong></span></h2>
