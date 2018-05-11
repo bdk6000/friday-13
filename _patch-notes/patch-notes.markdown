@@ -98,7 +98,7 @@ Accumulating too many infractions points will place you in a low priority queue 
 
 
 
-<h2 style="text-align: left;"><span style="font-size:27px;"><strong>Spawn Preference</strong></span></h2>
+<h2 style="text-align: left;"><span style="font-size:27px;"><strong>Spawn Preference System</strong></span></h2>
 
 In the December patch of last year, we introduced a ticketing system to the Spawn Preferences to combat some of the issues players were having with the Jason selection process. To improve on this system, we have made multiple changes to the Spawn Preferences this patch. The most noteworthy improvement is that the ticketing system is now tied to each individual player’s account. This means that a player’s chance to be selected as Jason will now persist even after changing lobbies. In addition, we have also made adjustments to the values in the preference system in order to provide players a fairer distribution of chances to become Jason. 
 
