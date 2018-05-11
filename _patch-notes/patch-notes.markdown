@@ -163,26 +163,26 @@ This feature may be accessed through Settings > Keybindings
 
 <h3 style="text-align: left;"><span style="font-size:38px;"><strong>General Changes and Bugfixes</strong></span></h3>
 
-<h1 style="text-align: left;"><span style="font-size:27px;"><strong>General</strong></span></h1>
+**General**
 
-<h4 style="text-align: left;"><span style="font-size:27px;"><strong>Jason</strong></span></h4>
+**Jason**
 
-<h5 style="text-align: left;"><span style="font-size:27px;"><strong>Counselors</strong></span></h5>
+**Counselors**
 
-Perks
+**Perks**
 
-Vehicles
+**Vehicles**
 
-Maps
+**Maps**
 
-General
-Jarvis House
-Pinehurst
-Crystal Lake
-Packanack
+**General**
+**Jarvis House**
+**Pinehurst**
+**Crystal Lake**
+**Packanack**
 
-Bots
+**Bots**
 
-Sound
+**Sound**
 
-UI
+**UI**
