@@ -163,7 +163,7 @@ This feature may be accessed through Settings > Keybindings
 
 <h3 style="text-align: left;"><span style="font-size:38px;"><strong>General Changes and Bugfixes</strong></span></h3>
 
-General
+<h1 style="text-align: left;"><span style="font-size:27px;"><strong>SGeneral</strong></span></h1>
 
 Jason
 
