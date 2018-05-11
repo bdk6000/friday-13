@@ -163,11 +163,11 @@ This feature may be accessed through Settings > Keybindings
 
 <h3 style="text-align: left;"><span style="font-size:38px;"><strong>General Changes and Bugfixes</strong></span></h3>
 
-<h1 style="text-align: left;"><span style="font-size:27px;"><strong>SGeneral</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:27px;"><strong>General</strong></span></h1>
 
-Jason
+<h4 style="text-align: left;"><span style="font-size:27px;"><strong>Jason</strong></span></h4>
 
-Counselors
+<h5 style="text-align: left;"><span style="font-size:27px;"><strong>Counselors</strong></span></h5>
 
 Perks
 
