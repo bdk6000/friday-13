@@ -162,3 +162,27 @@ This feature may be accessed through Settings > Keybindings
 
 
 <h3 style="text-align: left;"><span style="font-size:38px;"><strong>General Changes and Bugfixes</strong></span></h3>
+
+General
+
+Jason
+
+Counselors
+
+Perks
+
+Vehicles
+
+Maps
+
+General
+Jarvis House
+Pinehurst
+Crystal Lake
+Packanack
+
+Bots
+
+Sound
+
+UI
