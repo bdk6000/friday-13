@@ -21,6 +21,7 @@ There are also 30 new unlockable emotes that can be obtained in the Single Playe
 <h2 style="text-align: left;"><span style="font-size:27px;"><strong>Legendary Perks</strong></span></h2>
 
 A new perk rarity tier has been introduced! Legendary perks!
+
 Legendary perks are now the rarest perks that can be obtained.
 The perk values and traits are identical to Epic perks, but there is one big difference between the two rarities.
 All Legendary perks come equipped with one extra positive trait!
