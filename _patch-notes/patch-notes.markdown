@@ -133,10 +133,10 @@ The following weapons have had their stats adjusted.
 An infraction system has been added in order to combat issues with players prematurely leaving matches.
 Players will now gain infraction points by performing any of the following actions in a Quickplay match:
 
-Leaving the match as Jason
-Leaving the match as the Host
-Leaving the match while still alive as a Counselor
-Leaving the match while in the process of being killed
+* Leaving the match as Jason
+* Leaving the match as the Host
+* Leaving the match while still alive as a Counselor
+* Leaving the match while in the process of being killed
 
 Accumulating too many infractions points will place you in a low priority queue in matchmaking with other similar players. These Infraction points are not permanent and will decay over time. For more information about this system, please visit our official forums.
 
