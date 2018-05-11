@@ -87,14 +87,14 @@ A new option is now available in the Jason selection screen!
 Players will now be able to equip different weapons on each Jason.
 This feature unlocks for players at level 113 and will allow the swapping of the following weapons:
 
-    * Pickaxe
-    * Machete
-    * Axe
-    * Fire Axe
-    * Battle Axe
-    * Spear
-    * Pig Splitter
-    * Shears
+* Pickaxe
+* Machete
+* Axe
+* Fire Axe
+* Battle Axe
+* Spear
+* Pig Splitter
+* Shears
 
 All the grab kills tied to the weapons (including the DLC kills) will also be available through the swap.
 
