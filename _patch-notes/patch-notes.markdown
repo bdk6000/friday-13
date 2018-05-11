@@ -81,6 +81,32 @@ Here are the traits that are tied to each Legendary perk:
 
 <h3 style="text-align: left;"><span style="font-size:38px;"><strong>Matchmaking Changes</strong></span></h3>
 
+<h2 style="text-align: left;"><span style="font-size:27px;"><strong>Infraction System</strong></span></h2>
+
+An infraction system has been added in order to combat issues with players prematurely leaving matches.
+Players will now gain infraction points by performing any of the following actions in a Quickplay match:
+
+Leaving the match as Jason
+Leaving the match as the Host
+Leaving the match while still alive as a Counselor
+Leaving the match while in the process of being killed
+
+Accumulating too many infractions points will place you in a low priority queue in matchmaking with other similar players. These Infraction points are not permanent and will decay over time. For more information about this system, please visit our official forums.
+
+
+
+
+
+
+<h2 style="text-align: left;"><span style="font-size:27px;"><strong>Spawn Preference</strong></span></h2>
+
+In the December patch of last year, we introduced a ticketing system to the Spawn Preferences to combat some of the issues players were having with the Jason selection process. To improve on this system, we have made multiple changes to the Spawn Preferences this patch. The most noteworthy improvement is that the ticketing system is now tied to each individual player’s account. This means that a player’s chance to be selected as Jason will now persist even after changing lobbies. In addition, we have also made adjustments to the values in the preference system in order to provide players a fairer distribution of chances to become Jason. 
+
+The probability of a player being chosen as Jason is affected by their preference settings and also their recent amount of Jason games. Playing as Jason too many times in a small timeframe will cause the player to no longer be considered as a candidate to play as Jason. However, the player’s chance to be selected as Jason rapidly “recharges” over time and this system will have no long lasting effects on players. 
+For more information about this system, please visit our official forums.
+
+The Spawn Preference system only affects Private Matches only when a Jason has not been picked manually.
+
 <h3 style="text-align: left;"><span style="font-size:38px;"><strong>Keybinding Support</strong></span></h3>
 
 <h3 style="text-align: left;"><span style="font-size:38px;"><strong>General Changes and Bugfixes</strong></span></h3>
