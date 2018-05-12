@@ -189,7 +189,7 @@ The following weapons have had their stats adjusted.
 <p>&nbsp;</p>
 
 
-<h1 style="text-align: left;"><span style="font-size:38px;"><strong>Matchmaking Changes</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:30px;"><strong>Matchmaking Changes</strong></span></h1>
 
 <p>&nbsp;</p>
 
