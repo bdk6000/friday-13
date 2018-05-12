@@ -35,7 +35,7 @@ Victoria has a level requirement of 42 and her stats are the following:
 
 <p>&nbsp;</p>
 
-<h4 style="text-align: left;"><span style="font-size:22px;">Legendary Perks</span></h4>
+<h4 style="text-align: left;"><span style="font-size:23px;">Legendary Perks</span></h4>
 
 <p>&nbsp;</p>
 
@@ -98,7 +98,7 @@ Here are the traits that are tied to each Legendary perk:
 
 <p>&nbsp;</p>
 
-<h4 style="text-align: left;"><span style="font-size:20px;">Perk Values Adjusted</span></h4>
+<h4 style="text-align: left;"><span style="font-size:23px;">Perk Values Adjusted</span></h4>
 
 <p>&nbsp;</p>
 
@@ -120,7 +120,7 @@ The following perks have had their possible values adjusted:
 
 <p>&nbsp;</p>
 
-<h4 style="text-align: left;"><span style="font-size:20px;">Perk Selection Screen Updated</span></h4>
+<h4 style="text-align: left;"><span style="font-size:23px;">Perk Selection Screen Updated</span></h4>
 
 <p>&nbsp;</p>
 
@@ -133,7 +133,7 @@ Perk rarity can now also be distinguished by a numbering system added to the per
 
 <p>&nbsp;</p>
 
-<h4 style="text-align: left;"><span style="font-size:27px;">Weapon Swapping Feature</span></h4>
+<h4 style="text-align: left;"><span style="font-size:23px;">Weapon Swapping Feature</span></h4>
 
 <p>&nbsp;</p>
 
@@ -154,7 +154,7 @@ All the grab kills tied to the weapons (including the DLC kills) will also be av
 
 <p>&nbsp;</p>
 
-<h4 style="text-align: left;"><span style="font-size:27px;">Jason’s Swing Animation</span></h4>
+<h4 style="text-align: left;"><span style="font-size:23px;">Jason’s Swing Animation</span></h4>
 
 <p>&nbsp;</p>
 
@@ -165,7 +165,7 @@ This change should help prevent Jason’s swings from missing players that are o
 
 
 <p>&nbsp;</p>
-<h4 style="text-align: left;"><span style="font-size:27px;">Jason’s Grab Changes</span></h4>
+<h4 style="text-align: left;"><span style="font-size:23px;">Jason’s Grab Changes</span></h4>
 
 <p>&nbsp;</p>
 
@@ -174,13 +174,19 @@ These change should more accurately represent the distance of Jason’s grab and
 
 
 <p>&nbsp;</p>
-<h4 style="text-align: left;"><span style="font-size:27px;">Doorway Combat Changes</span></h4>
+<h4 style="text-align: left;"><span style="font-size:23px;">Doorway Combat Changes</span></h4>
 
 <p>&nbsp;</p>
 
 We have made some adjustments to the way that combat works when there is a door in between Jason and a counselor. Originally, players were able to initiate combat from both sides of a closed door. This allowed counselors to time their swings and safely interrupt/damage Jason during his process of breaking down the door. Because of the way that combat works, there was little counterplay to these occurrences. In order to combat this one-sided exchange, counselors will no longer be able to hit Jason through doors. However, Jason will still have the ability to damage counselors that are standing too close to the door.
 
-<h4 style="text-align: left;"><span style="font-size:27px;"><strong>Counselor Weapon Stats Adjusted</strong></span></h4>
+
+
+
+<p>&nbsp;</p>
+<h4 style="text-align: left;"><span style="font-size:23px;"><strong>Counselor Weapon Stats Adjusted</strong></span></h4>
+
+<p>&nbsp;</p>
 
 The pips that represent the weapon stats in the How to Play section have had their values per pip adjusted to be more consistent.
 The following weapons have had their stats adjusted.
@@ -193,10 +199,16 @@ The following weapons have had their stats adjusted.
 * Wrench
 * Cooking Pot
 
+<p>&nbsp;</p>
+
 
 <h1 style="text-align: left;"><span style="font-size:38px;"><strong>Matchmaking Changes</strong></span></h1>
 
-<h4 style="text-align: left;"><span style="font-size:27px;">Infraction System</span></h4>
+<p>&nbsp;</p>
+
+<h4 style="text-align: left;"><span style="font-size:23px;">Infraction System</span></h4>
+
+<p>&nbsp;</p>
 
 An infraction system has been added in order to combat issues with players prematurely leaving matches.
 Players will now gain infraction points by performing any of the following actions in a Quickplay match:
@@ -212,8 +224,10 @@ Accumulating too many infractions points will place you in a low priority queue 
 
 
 
+<p>&nbsp;</p>
+<h4 style="text-align: left;"><span style="font-size:23px;">Spawn Preference System</span></h4>
 
-<h4 style="text-align: left;"><span style="font-size:27px;">Spawn Preference System</span></h4>
+<p>&nbsp;</p>
 
 In the December patch of last year, we introduced a "ticketing" system to the Spawn Preferences to combat some of the issues players were having with the Jason selection process. To improve on this system, we have made multiple changes to the Spawn Preferences this patch. The most noteworthy improvement is that this system is now tied to each individual player’s account. This means that a player’s chance to be selected as Jason will now persist even after changing lobbies. In addition, we have also made adjustments to the values in the preference system in order to provide players a fairer distribution of chances to become Jason. 
 
@@ -222,15 +236,21 @@ For more information about this system, please visit our official forums.
 
 The Spawn Preference system only affects Private Matches only when a Jason has not been picked manually.
 
+
+<p>&nbsp;</p>
 <h1 style="text-align: left;"><span style="font-size:30px;"><strong>Keybinding Support</strong></span></h1>
+<p>&nbsp;</p>
 
 Keybinding Support is now available on the PC for players using a keyboard and mouse
 
 This feature may be accessed through Settings > Keybindings
 
 
+
+<p>&nbsp;</p>
 <h1 style="text-align: left;"><span style="font-size:30px;"><strong>General Changes and Bugfixes</strong></span></h1>
 
+<p>&nbsp;</p>
 
 **General**
 
