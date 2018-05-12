@@ -96,7 +96,11 @@ Here are the traits that are tied to each Legendary perk:
 | **[Thrasher]**             |          Reduced Weapon Damage Taken |
 | **[Tinker]**               |              Boat Start Time Reduced |
 
+<p>&nbsp;</p>
+
 <h4 style="text-align: left;"><span style="font-size:20px;">Perk Values Adjusted</span></h4>
+
+<p>&nbsp;</p>
 
 The following perks have had their possible values adjusted:
 
@@ -114,10 +118,11 @@ The following perks have had their possible values adjusted:
 
 [Aquanaut] Increases the Counselor’s swimming speed by 5% - 35% (was 1% - 15%)
 
+<p>&nbsp;</p>
 
 <h4 style="text-align: left;"><span style="font-size:20px;">Perk Selection Screen Updated</span></h4>
 
-
+<p>&nbsp;</p>
 
 Perk rarity can now also be distinguished by a numbering system added to the perk graphic in order to assist players with color blindness
 
@@ -126,9 +131,11 @@ Perk rarity can now also be distinguished by a numbering system added to the per
 
 <h1 style="text-align: left;"><span style="font-size:30px;"><strong>Combat Update</strong></span></h1>
 
+<p>&nbsp;</p>
 
 <h4 style="text-align: left;"><span style="font-size:27px;">Weapon Swapping Feature</span></h4>
 
+<p>&nbsp;</p>
 
 A new option is now available in the Jason selection screen! 
 Players will now be able to equip different weapons on each Jason.
@@ -145,17 +152,31 @@ This feature unlocks for players at level 113 and will allow the swapping of the
 
 All the grab kills tied to the weapons (including the DLC kills) will also be available through the swap.
 
+<p>&nbsp;</p>
+
 <h4 style="text-align: left;"><span style="font-size:27px;">Jason’s Swing Animation</span></h4>
+
+<p>&nbsp;</p>
 
 All of Jason’s weapons have had their swinging animations adjusted to swing lower towards the ground. 
 This change should help prevent Jason’s swings from missing players that are on uneven terrain or crouching.
 
+
+
+
+<p>&nbsp;</p>
 <h4 style="text-align: left;"><span style="font-size:27px;">Jason’s Grab Changes</span></h4>
+
+<p>&nbsp;</p>
 
 Jason’s grab has been updated with a new animation and sound effect. 
 These change should more accurately represent the distance of Jason’s grab and also feel more gratifying when landing a grab on a counselor.
 
+
+<p>&nbsp;</p>
 <h4 style="text-align: left;"><span style="font-size:27px;">Doorway Combat Changes</span></h4>
+
+<p>&nbsp;</p>
 
 We have made some adjustments to the way that combat works when there is a door in between Jason and a counselor. Originally, players were able to initiate combat from both sides of a closed door. This allowed counselors to time their swings and safely interrupt/damage Jason during his process of breaking down the door. Because of the way that combat works, there was little counterplay to these occurrences. In order to combat this one-sided exchange, counselors will no longer be able to hit Jason through doors. However, Jason will still have the ability to damage counselors that are standing too close to the door.
 
