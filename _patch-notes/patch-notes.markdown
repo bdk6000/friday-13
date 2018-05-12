@@ -27,7 +27,7 @@ Victoria has a level requirement of 42 and her stats are the following:
 * Stealth - 7
 * Strength - 2
 
-<h2 style="text-align: left;"><span style="font-size:40px;"><strong>Legendary Perks & Perk Changes</strong></span></h2>
+<h3 style="text-align: left;"><span style="font-size:40px;"><strong>Legendary Perks & Perk Changes</strong></span></h3>
 
 
 <h4 style="text-align: left;"><span style="font-size:27px;">Legendary Perks</span></h4>
