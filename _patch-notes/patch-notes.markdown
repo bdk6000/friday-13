@@ -4,7 +4,7 @@ date: 2018-05-03 20:00:00 -04:00
 published: false
 ---
 
-<h1 style="text-align: left;"><span style="font-size:38px;"><strong>New Game Mode: Single Player Challenges</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:30px;"><strong>New Game Mode: Single Player Challenges</strong></span></h1>
 
 Single Player Challenges, Friday the 13th: The Game’s newest playable game mode, is now available!
 
@@ -13,7 +13,7 @@ Test your skills as Jason Voorhees by clearing out all of the counselors in Camp
 There are also 30 new unlockable emotes that can be obtained in the Single Player Challenges! Each Challenge has a reward of 3 unique emotes through the collection of these following skulls: No Survivors Skull, XP Score Skull, and the Undetected Skull. Good Luck and Happy Hunting!
 
 
-<h1 style="text-align: left;"><span style="font-size:38px;"><strong>New Playable Counselor: Victoria Sterling</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:30px;"><strong>New Playable Counselor: Victoria Sterling</strong></span></h1>
 
 Introducing Victoria Sterling, the newest counselor to arrive at Camp Crystal Lake!
 
@@ -27,7 +27,7 @@ Victoria has a level requirement of 42 and her stats are the following:
 * Stealth - 7
 * Strength - 2
 
-<h1 style="text-align: left;"><span style="font-size:38px;"><strong>Legendary Perks & Perk Changes</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:30px;"><strong>Legendary Perks & Perk Changes</strong></span></h1>
 
 
 <h3 style="text-align: left;"><span style="font-size:27px;"><strong>Legendary Perks</strong></span></h3>
@@ -110,7 +110,7 @@ Perk rarity can now also be distinguished by a numbering system added to the per
 
 
 
-<h1 style="text-align: left;"><span style="font-size:38px;"><strong>Combat Update</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:30px;"><strong>Combat Update</strong></span></h1>
 
 
 <h3 style="text-align: left;"><span style="font-size:27px;"><strong>Weapon Swapping Feature</strong></span></h3>
@@ -187,14 +187,14 @@ For more information about this system, please visit our official forums.
 
 The Spawn Preference system only affects Private Matches only when a Jason has not been picked manually.
 
-<h1 style="text-align: left;"><span style="font-size:38px;"><strong>Keybinding Support</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:30px;"><strong>Keybinding Support</strong></span></h1>
 
 Keybinding Support is now available on the PC for players using a keyboard and mouse
 
 This feature may be accessed through Settings > Keybindings
 
 
-<h1 style="text-align: left;"><span style="font-size:38px;"><strong>General Changes and Bugfixes</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:30px;"><strong>General Changes and Bugfixes</strong></span></h1>
 
 
 **General**
