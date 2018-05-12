@@ -27,10 +27,10 @@ Victoria has a level requirement of 42 and her stats are the following:
 * Stealth - 7
 * Strength - 2
 
-<h3 style="text-align: left;"><span style="font-size:40px;"><strong>Legendary Perks & Perk Changes</strong></span></h3>
+<h4 style="text-align: left;"><span style="font-size:30px;"><strong>Legendary Perks & Perk Changes</strong></span></h4>
 
 
-<h4 style="text-align: left;"><span style="font-size:27px;">Legendary Perks</span></h4>
+<h4 style="text-align: left;"><span style="font-size:20px;">Legendary Perks</span></h4>
 
 A new perk rarity tier has been introduced! Legendary perks!
 
@@ -89,7 +89,7 @@ Here are the traits that are tied to each Legendary perk:
 | Thrasher             |          Reduced Weapon Damage Taken |
 | Tinker               |              Boat Start Time Reduced |
 
-<h4 style="text-align: left;"><span style="font-size:27px;">Perk Values Adjusted</span></h4>
+<h4 style="text-align: left;"><span style="font-size:20px;">Perk Values Adjusted</span></h4>
 
 The following perks have had their possible values adjusted:
 
@@ -108,7 +108,7 @@ The following perks have had their possible values adjusted:
 [Aquanaut] Increases the Counselor’s swimming speed by 5% - 35% (was 1% - 15%)
 
 
-<h4 style="text-align: left;"><span style="font-size:27px;">Perk Selection Screen Updated</span></h4>
+<h4 style="text-align: left;"><span style="font-size:20px;">Perk Selection Screen Updated</span></h4>
 
 
 
