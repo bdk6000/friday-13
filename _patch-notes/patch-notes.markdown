@@ -37,8 +37,6 @@ Victoria has a level requirement of 42 and her stats are the following:
 
 <h4 style="text-align: left;"><span style="font-size:23px;">Legendary Perks</span></h4>
 
-<p>&nbsp;</p>
-
 A new perk rarity tier has been introduced! Legendary perks!
 
 Legendary perks are now the rarest perks that can be obtained.
@@ -100,8 +98,6 @@ Here are the traits that are tied to each Legendary perk:
 
 <h4 style="text-align: left;"><span style="font-size:23px;">Perk Values Adjusted</span></h4>
 
-<p>&nbsp;</p>
-
 The following perks have had their possible values adjusted:
 
 [Easy Listening] - Increases the Radio proximity recharge rate by 10% - 40% (was 1% - 10%)
@@ -122,8 +118,6 @@ The following perks have had their possible values adjusted:
 
 <h4 style="text-align: left;"><span style="font-size:23px;">Perk Selection Screen Updated</span></h4>
 
-<p>&nbsp;</p>
-
 Perk rarity can now also be distinguished by a numbering system added to the perk graphic in order to assist players with color blindness
 
 
@@ -134,8 +128,6 @@ Perk rarity can now also be distinguished by a numbering system added to the per
 <p>&nbsp;</p>
 
 <h4 style="text-align: left;"><span style="font-size:23px;">Weapon Swapping Feature</span></h4>
-
-<p>&nbsp;</p>
 
 A new option is now available in the Jason selection screen! 
 Players will now be able to equip different weapons on each Jason.
@@ -156,8 +148,6 @@ All the grab kills tied to the weapons (including the DLC kills) will also be av
 
 <h4 style="text-align: left;"><span style="font-size:23px;">Jason’s Swing Animation</span></h4>
 
-<p>&nbsp;</p>
-
 All of Jason’s weapons have had their swinging animations adjusted to swing lower towards the ground. 
 This change should help prevent Jason’s swings from missing players that are on uneven terrain or crouching.
 
@@ -167,16 +157,12 @@ This change should help prevent Jason’s swings from missing players that are o
 <p>&nbsp;</p>
 <h4 style="text-align: left;"><span style="font-size:23px;">Jason’s Grab Changes</span></h4>
 
-<p>&nbsp;</p>
-
 Jason’s grab has been updated with a new animation and sound effect. 
 These change should more accurately represent the distance of Jason’s grab and also feel more gratifying when landing a grab on a counselor.
 
 
 <p>&nbsp;</p>
 <h4 style="text-align: left;"><span style="font-size:23px;">Doorway Combat Changes</span></h4>
-
-<p>&nbsp;</p>
 
 We have made some adjustments to the way that combat works when there is a door in between Jason and a counselor. Originally, players were able to initiate combat from both sides of a closed door. This allowed counselors to time their swings and safely interrupt/damage Jason during his process of breaking down the door. Because of the way that combat works, there was little counterplay to these occurrences. In order to combat this one-sided exchange, counselors will no longer be able to hit Jason through doors. However, Jason will still have the ability to damage counselors that are standing too close to the door.
 
@@ -186,7 +172,6 @@ We have made some adjustments to the way that combat works when there is a door 
 <p>&nbsp;</p>
 <h4 style="text-align: left;"><span style="font-size:23px;"><strong>Counselor Weapon Stats Adjusted</strong></span></h4>
 
-<p>&nbsp;</p>
 
 The pips that represent the weapon stats in the How to Play section have had their values per pip adjusted to be more consistent.
 The following weapons have had their stats adjusted.
@@ -208,7 +193,6 @@ The following weapons have had their stats adjusted.
 
 <h4 style="text-align: left;"><span style="font-size:23px;">Infraction System</span></h4>
 
-<p>&nbsp;</p>
 
 An infraction system has been added in order to combat issues with players prematurely leaving matches.
 Players will now gain infraction points by performing any of the following actions in a Quickplay match:
@@ -226,8 +210,6 @@ Accumulating too many infractions points will place you in a low priority queue 
 
 <p>&nbsp;</p>
 <h4 style="text-align: left;"><span style="font-size:23px;">Spawn Preference System</span></h4>
-
-<p>&nbsp;</p>
 
 In the December patch of last year, we introduced a "ticketing" system to the Spawn Preferences to combat some of the issues players were having with the Jason selection process. To improve on this system, we have made multiple changes to the Spawn Preferences this patch. The most noteworthy improvement is that this system is now tied to each individual player’s account. This means that a player’s chance to be selected as Jason will now persist even after changing lobbies. In addition, we have also made adjustments to the values in the preference system in order to provide players a fairer distribution of chances to become Jason. 
 
