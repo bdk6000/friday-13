@@ -30,7 +30,7 @@ Victoria has a level requirement of 42 and her stats are the following:
 <h1 style="text-align: left;"><span style="font-size:30px;"><strong>Legendary Perks & Perk Changes</strong></span></h1>
 
 
-<h3 style="text-align: left;"><span style="font-size:27px;"><strong>Legendary Perks</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:27px;">Legendary Perks</span></h3>
 
 A new perk rarity tier has been introduced! Legendary perks!
 
@@ -101,7 +101,7 @@ The following perks have had their possible values adjusted:
 [Lead Foot] - Increases the Car movement speed by 5% - 20% (was 1% - 25%)
 [Aquanaut] Increases the Counselor’s swimming speed by 5% - 35% (was 1% - 15%)
 
-<h3 style="text-align: left;"><span style="font-size:27px;"><strong>Perk Selection Screen Updated</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:27px;">Perk Selection Screen Updated</span></h3>
 
 
 
@@ -113,7 +113,7 @@ Perk rarity can now also be distinguished by a numbering system added to the per
 <h1 style="text-align: left;"><span style="font-size:30px;"><strong>Combat Update</strong></span></h1>
 
 
-<h3 style="text-align: left;"><span style="font-size:27px;"><strong>Weapon Swapping Feature</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:27px;">Weapon Swapping Feature</span></h3>
 
 
 A new option is now available in the Jason selection screen! 
@@ -131,17 +131,17 @@ This feature unlocks for players at level 113 and will allow the swapping of the
 
 All the grab kills tied to the weapons (including the DLC kills) will also be available through the swap.
 
-<h3 style="text-align: left;"><span style="font-size:27px;"><strong>Jason’s Swing Animation</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:27px;">Jason’s Swing Animation></span></h3>
 
 All of Jason’s weapons have had their swinging animations adjusted to swing lower towards the ground. 
 This change should help prevent Jason’s swings from missing players that are on uneven terrain or crouching.
 
-<h3 style="text-align: left;"><span style="font-size:27px;"><strong>Jason’s Grab Changes</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:27px;">Jason’s Grab Changes</span></h3>
 
 Jason’s grab has been updated with a new animation and sound effect. 
 These change should more accurately represent the distance of Jason’s grab and also feel more gratifying when landing a grab on a counselor.
 
-<h3 style="text-align: left;"><span style="font-size:27px;"><strong>Doorway Combat Changes</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:27px;">Doorway Combat Changes</span></h3>
 
 We have made some adjustments to the way that combat works when there is a door in between Jason and a counselor. Originally, players were able to initiate combat from both sides of a closed door. This allowed counselors to time their swings and safely interrupt/damage Jason during his process of breaking down the door. Because of the way that combat works, there was little counterplay to these occurrences. In order to combat this one-sided exchange, counselors will no longer be able to hit Jason through doors. However, Jason will still have the ability to damage counselors that are standing too close to the door.
 
@@ -178,7 +178,7 @@ Accumulating too many infractions points will place you in a low priority queue 
 
 
 
-<h3 style="text-align: left;"><span style="font-size:27px;"><strong>Spawn Preference System</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:27px;">Spawn Preference System</span></h3>
 
 In the December patch of last year, we introduced a "ticketing" system to the Spawn Preferences to combat some of the issues players were having with the Jason selection process. To improve on this system, we have made multiple changes to the Spawn Preferences this patch. The most noteworthy improvement is that this system is now tied to each individual player’s account. This means that a player’s chance to be selected as Jason will now persist even after changing lobbies. In addition, we have also made adjustments to the values in the preference system in order to provide players a fairer distribution of chances to become Jason. 
 
