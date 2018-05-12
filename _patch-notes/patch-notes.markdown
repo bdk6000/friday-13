@@ -18,7 +18,7 @@ There are also 30 new unlockable emotes that can be obtained in the Single Playe
 <h1 style="text-align: left;"><span style="font-size:38px;"><strong>Legendary Perks & Perk Changes</strong></span></h1>
 
 
-<h2 style="text-align: left;"><span style="font-size:27px;"><strong>Legendary Perks</strong></span></h2>
+<h3 style="text-align: left;"><span style="font-size:27px;"><strong>Legendary Perks</strong></span></h3>
 
 A new perk rarity tier has been introduced! Legendary perks!
 
@@ -77,10 +77,10 @@ Here are the traits that are tied to each Legendary perk:
 | Thrasher             |          Reduced Weapon Damage Taken |
 | Tinker               |              Boat Start Time Reduced |
 
-<h3 style="text-align: left;"><span style="font-size:38px;"><strong>Combat Update</strong></span></h3>
+<h1 style="text-align: left;"><span style="font-size:38px;"><strong>Combat Update</strong></span></h1>
 
 
-<h2 style="text-align: left;"><span style="font-size:27px;"><strong>Weapon Swapping Feature</strong></span></h2>
+<h3 style="text-align: left;"><span style="font-size:27px;"><strong>Weapon Swapping Feature</strong></span></h3>
 
 
 A new option is now available in the Jason selection screen! 
@@ -98,7 +98,7 @@ This feature unlocks for players at level 113 and will allow the swapping of the
 
 All the grab kills tied to the weapons (including the DLC kills) will also be available through the swap.
 
-<h2 style="text-align: left;"><span style="font-size:27px;"><strong>Jason’s Swing Animation</strong></span></h2>
+<h3 style="text-align: left;"><span style="font-size:27px;"><strong>Jason’s Swing Animation</strong></span></h3>
 
 All of Jason’s weapons have had their swinging animations adjusted to swing lower towards the ground. 
 This change should help prevent Jason’s swings from missing players that are on uneven terrain or crouching.
@@ -161,9 +161,10 @@ Keybinding Support is now available on the PC for players using a keyboard and m
 This feature may be accessed through Settings > Keybindings
 
 
-<h3 style="text-align: left;"><span style="font-size:38px;"><strong>General Changes and Bugfixes</strong></span></h3>
+<h1 style="text-align: left;"><span style="font-size:38px;"><strong>General Changes and Bugfixes</strong></span></h1>
 
-**General**
+
+<h2 style="text-align: left;"><span style="font-size:22px;"><strong>General Changes and Bugfixes</strong></span></h2>
 
 **Jason**
 
