@@ -4,8 +4,9 @@ date: 2018-05-03 20:00:00 -04:00
 published: false
 ---
 
+<p>&nbsp;</p>
 <h4 style="text-align: left;"><span style="font-size:30px;"><strong>New Game Mode: Single Player Challenges</strong></span></h4>
-
+<p>&nbsp;</p>
 Single Player Challenges, Friday the 13th: The Game’s newest playable game mode, is now available!
 
 Test your skills as Jason Voorhees by clearing out all of the counselors in Camp Crystal Lake in each of the 10 unique scenarios. Each level contains special cinematic kills that are available only in Single Player Challenges. There are also multiple challenge objectives that are available in each level that can only be completed through proper planning and preparation. Play as Jason in any way you like. You may choose to be slow and sneaky for that suspenseful cinematic experience, or you may choose to brute force your way through, hacking and slashing! 
@@ -14,7 +15,7 @@ There are also 30 new unlockable emotes that can be obtained in the Single Playe
 
 
 <h4 style="text-align: left;"><span style="font-size:30px;"><strong>New Playable Counselor: Victoria Sterling</strong></span></h4>
-
+<p>&nbsp;</p>
 Introducing Victoria Sterling, the newest counselor to arrive at Camp Crystal Lake!
 
 Victoria has a level requirement of 42 and her stats are the following:
