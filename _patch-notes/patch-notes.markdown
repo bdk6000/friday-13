@@ -30,9 +30,8 @@ Victoria has a level requirement of 42 and her stats are the following:
 <h4 style="text-align: left;"><span style="font-size:30px;"><strong>Legendary Perks & Perk Changes</strong></span></h4>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
-<h4 style="text-align: left;"><span style="font-size:15px;">Legendary Perks</span></h4>
+<h4 style="text-align: left;"><span style="font-size:20px;">Legendary Perks</span></h4>
 
 A new perk rarity tier has been introduced! Legendary perks!
 
@@ -140,7 +139,7 @@ This feature unlocks for players at level 113 and will allow the swapping of the
 
 All the grab kills tied to the weapons (including the DLC kills) will also be available through the swap.
 
-<h4 style="text-align: left;"><span style="font-size:27px;">Jason’s Swing Animation></span></h4>
+<h4 style="text-align: left;"><span style="font-size:27px;">Jason’s Swing Animation</span></h4>
 
 All of Jason’s weapons have had their swinging animations adjusted to swing lower towards the ground. 
 This change should help prevent Jason’s swings from missing players that are on uneven terrain or crouching.
