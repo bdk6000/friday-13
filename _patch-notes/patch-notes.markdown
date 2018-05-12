@@ -18,7 +18,7 @@ There are also 30 new unlockable emotes that can be obtained in the Single Playe
 <h1 style="text-align: left;"><span style="font-size:38px;"><strong>Legendary Perks & Perk Changes</strong></span></h1>
 
 
-<h3 style="text-align: left;"><span style="font-size:27px;"><strong>Legendary Perks</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:35px;"><strong>Legendary Perks</strong></span></h3>
 
 A new perk rarity tier has been introduced! Legendary perks!
 
@@ -76,6 +76,27 @@ Here are the traits that are tied to each Legendary perk:
 | Thick Skinned        |           Ecscape From Traps Quicker |
 | Thrasher             |          Reduced Weapon Damage Taken |
 | Tinker               |              Boat Start Time Reduced |
+
+<h3 style="text-align: left;"><span style="font-size:35px;">Perk Values Adjusted</span></h3>
+
+The following perks have had their possible values adjusted:
+
+[Easy Listening] - Increases the Radio proximity recharge rate by 10% - 40% (was 1% - 10%)
+[Motorboating] - Increases the Boat movement speed by 5% - 35% (was 1% - 15%)
+[Man at Arms] - Increases Weapon durability by 5% - 15% (was 5% - 25%)
+[My Dad’s a Cop] - Reduces the Police arrival time by 5% - 25% (was 5% - 30%)
+[Quiet Swimmer] - Reduces the Sense detection chance by 5% - 20% (was 1% - 25%)
+[Lead Foot] - Increases the Car movement speed by 5% - 20% (was 1% - 25%)
+[Aquanaut] Increases the Counselor’s swimming speed by 5% - 35% (was 1% - 15%)
+
+<h3 style="text-align: left;"><span style="font-size:35px;"><strong>Perk Selection Screen Updated</strong></span></h3>
+
+
+
+Perk rarity can now also be distinguished by a numbering system added to the perk graphic in order to assist players with color blindness
+
+
+
 
 <h1 style="text-align: left;"><span style="font-size:38px;"><strong>Combat Update</strong></span></h1>
 
