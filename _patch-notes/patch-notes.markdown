@@ -30,7 +30,7 @@ Victoria has a level requirement of 42 and her stats are the following:
 <h1 style="text-align: left;"><span style="font-size:30px;"><strong>Legendary Perks & Perk Changes</strong></span></h1>
 
 
-<h3 style="text-align: left;"><span style="font-size:27px;">Legendary Perks</span></h3>
+<h4 style="text-align: left;"><span style="font-size:27px;">Legendary Perks</span></h4>
 
 A new perk rarity tier has been introduced! Legendary perks!
 
@@ -89,7 +89,7 @@ Here are the traits that are tied to each Legendary perk:
 | Thrasher             |          Reduced Weapon Damage Taken |
 | Tinker               |              Boat Start Time Reduced |
 
-<h3 style="text-align: left;"><span style="font-size:27px;">Perk Values Adjusted</span></h3>
+<h4 style="text-align: left;"><span style="font-size:27px;">Perk Values Adjusted</span></h4>
 
 The following perks have had their possible values adjusted:
 
@@ -101,7 +101,7 @@ The following perks have had their possible values adjusted:
 [Lead Foot] - Increases the Car movement speed by 5% - 20% (was 1% - 25%)
 [Aquanaut] Increases the Counselor’s swimming speed by 5% - 35% (was 1% - 15%)
 
-<h3 style="text-align: left;"><span style="font-size:27px;">Perk Selection Screen Updated</span></h3>
+<h4 style="text-align: left;"><span style="font-size:27px;">Perk Selection Screen Updated</span></h4>
 
 
 
@@ -113,7 +113,7 @@ Perk rarity can now also be distinguished by a numbering system added to the per
 <h1 style="text-align: left;"><span style="font-size:30px;"><strong>Combat Update</strong></span></h1>
 
 
-<h3 style="text-align: left;"><span style="font-size:27px;">Weapon Swapping Feature</span></h3>
+<h4 style="text-align: left;"><span style="font-size:27px;">Weapon Swapping Feature</span></h4>
 
 
 A new option is now available in the Jason selection screen! 
@@ -131,21 +131,21 @@ This feature unlocks for players at level 113 and will allow the swapping of the
 
 All the grab kills tied to the weapons (including the DLC kills) will also be available through the swap.
 
-<h3 style="text-align: left;"><span style="font-size:27px;">Jason’s Swing Animation></span></h3>
+<h4 style="text-align: left;"><span style="font-size:27px;">Jason’s Swing Animation></span></h4>
 
 All of Jason’s weapons have had their swinging animations adjusted to swing lower towards the ground. 
 This change should help prevent Jason’s swings from missing players that are on uneven terrain or crouching.
 
-<h3 style="text-align: left;"><span style="font-size:27px;">Jason’s Grab Changes</span></h3>
+<h4 style="text-align: left;"><span style="font-size:27px;">Jason’s Grab Changes</span></h4>
 
 Jason’s grab has been updated with a new animation and sound effect. 
 These change should more accurately represent the distance of Jason’s grab and also feel more gratifying when landing a grab on a counselor.
 
-<h3 style="text-align: left;"><span style="font-size:27px;">Doorway Combat Changes</span></h3>
+<h4 style="text-align: left;"><span style="font-size:27px;">Doorway Combat Changes</span></h4>
 
 We have made some adjustments to the way that combat works when there is a door in between Jason and a counselor. Originally, players were able to initiate combat from both sides of a closed door. This allowed counselors to time their swings and safely interrupt/damage Jason during his process of breaking down the door. Because of the way that combat works, there was little counterplay to these occurrences. In order to combat this one-sided exchange, counselors will no longer be able to hit Jason through doors. However, Jason will still have the ability to damage counselors that are standing too close to the door.
 
-<h2 style="text-align: left;"><span style="font-size:27px;"><strong>Counselor Weapon Stats Adjusted</strong></span></h2>
+<h4 style="text-align: left;"><span style="font-size:27px;"><strong>Counselor Weapon Stats Adjusted</strong></span></h4>
 
 The pips that represent the weapon stats in the How to Play section have had their values per pip adjusted to be more consistent.
 The following weapons have had their stats adjusted.
@@ -161,7 +161,7 @@ The following weapons have had their stats adjusted.
 
 <h1 style="text-align: left;"><span style="font-size:38px;"><strong>Matchmaking Changes</strong></span></h1>
 
-<h3 style="text-align: left;"><span style="font-size:27px;">Infraction System</span></h3>
+<h4 style="text-align: left;"><span style="font-size:27px;">Infraction System</span></h4>
 
 An infraction system has been added in order to combat issues with players prematurely leaving matches.
 Players will now gain infraction points by performing any of the following actions in a Quickplay match:
@@ -178,7 +178,7 @@ Accumulating too many infractions points will place you in a low priority queue 
 
 
 
-<h3 style="text-align: left;"><span style="font-size:27px;">Spawn Preference System</span></h3>
+<h4 style="text-align: left;"><span style="font-size:27px;">Spawn Preference System</span></h4>
 
 In the December patch of last year, we introduced a "ticketing" system to the Spawn Preferences to combat some of the issues players were having with the Jason selection process. To improve on this system, we have made multiple changes to the Spawn Preferences this patch. The most noteworthy improvement is that this system is now tied to each individual player’s account. This means that a player’s chance to be selected as Jason will now persist even after changing lobbies. In addition, we have also made adjustments to the values in the preference system in order to provide players a fairer distribution of chances to become Jason. 
 
