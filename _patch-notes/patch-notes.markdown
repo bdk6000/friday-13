@@ -185,7 +185,7 @@ This feature may be accessed through Settings > Keybindings
 <h1 style="text-align: left;"><span style="font-size:38px;"><strong>General Changes and Bugfixes</strong></span></h1>
 
 
-<h2 style="text-align: left;"><span style="font-size:22px;"><strong>General Changes and Bugfixes</strong></span></h2>
+**General**
 
 **Jason**
 
