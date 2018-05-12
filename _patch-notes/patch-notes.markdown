@@ -27,7 +27,7 @@ Victoria has a level requirement of 42 and her stats are the following:
 * Stealth - 7
 * Strength - 2
 
-<h1 style="text-align: left;"><span style="font-size:30px;"><strong>Legendary Perks & Perk Changes</strong></span></h1>
+<h2 style="text-align: left;"><span style="font-size:40px;"><strong>Legendary Perks & Perk Changes</strong></span></h2>
 
 
 <h4 style="text-align: left;"><span style="font-size:27px;">Legendary Perks</span></h4>
@@ -94,12 +94,19 @@ Here are the traits that are tied to each Legendary perk:
 The following perks have had their possible values adjusted:
 
 [Easy Listening] - Increases the Radio proximity recharge rate by 10% - 40% (was 1% - 10%)
+
 [Motorboating] - Increases the Boat movement speed by 5% - 35% (was 1% - 15%)
+
 [Man at Arms] - Increases Weapon durability by 5% - 15% (was 5% - 25%)
+
 [My Dad’s a Cop] - Reduces the Police arrival time by 5% - 25% (was 5% - 30%)
+
 [Quiet Swimmer] - Reduces the Sense detection chance by 5% - 20% (was 1% - 25%)
+
 [Lead Foot] - Increases the Car movement speed by 5% - 20% (was 1% - 25%)
+
 [Aquanaut] Increases the Counselor’s swimming speed by 5% - 35% (was 1% - 15%)
+
 
 <h4 style="text-align: left;"><span style="font-size:27px;">Perk Selection Screen Updated</span></h4>
 
