@@ -48,7 +48,7 @@ These traits are predetermined and work in addition to the perk’s original tra
 Here are the traits that are tied to each Legendary perk:
 
 
-|                      |                                      |
+|                            |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                      |
 |----------------------------|--------------------------------------------------|
 | **[Adrenaline Rush]**      |                        Total Stamina |
 | **[Aquanaut]**             |           Avoid Sense While Swimming |
