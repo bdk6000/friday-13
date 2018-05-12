@@ -89,7 +89,7 @@ Here are the traits that are tied to each Legendary perk:
 | Thrasher             |          Reduced Weapon Damage Taken |
 | Tinker               |              Boat Start Time Reduced |
 
-<h3 style="text-align: left;"><span style="font-size:35px;">Perk Values Adjusted</span></h3>
+<h3 style="text-align: left;"><span style="font-size:27px;">Perk Values Adjusted</span></h3>
 
 The following perks have had their possible values adjusted:
 
@@ -101,7 +101,7 @@ The following perks have had their possible values adjusted:
 [Lead Foot] - Increases the Car movement speed by 5% - 20% (was 1% - 25%)
 [Aquanaut] Increases the Counselor’s swimming speed by 5% - 35% (was 1% - 15%)
 
-<h3 style="text-align: left;"><span style="font-size:35px;"><strong>Perk Selection Screen Updated</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:27px;"><strong>Perk Selection Screen Updated</strong></span></h3>
 
 
 
@@ -161,7 +161,7 @@ The following weapons have had their stats adjusted.
 
 <h1 style="text-align: left;"><span style="font-size:38px;"><strong>Matchmaking Changes</strong></span></h1>
 
-<h3 style="text-align: left;"><span style="font-size:27px;"><strong>Infraction System</strong></span></h3>
+<h3 style="text-align: left;"><span style="font-size:27px;">Infraction System</span></h3>
 
 An infraction system has been added in order to combat issues with players prematurely leaving matches.
 Players will now gain infraction points by performing any of the following actions in a Quickplay match:
