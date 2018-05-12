@@ -4,7 +4,7 @@ date: 2018-05-03 20:00:00 -04:00
 published: false
 ---
 
-<p>&nbsp;</p>
+
 <h4 style="text-align: left;"><span style="font-size:30px;"><strong>New Game Mode: Single Player Challenges</strong></span></h4>
 <p>&nbsp;</p>
 Single Player Challenges, Friday the 13th: The Game’s newest playable game mode, is now available!
@@ -13,7 +13,8 @@ Test your skills as Jason Voorhees by clearing out all of the counselors in Camp
 
 There are also 30 new unlockable emotes that can be obtained in the Single Player Challenges! Each Challenge has a reward of 3 unique emotes through the collection of these following skulls: No Survivors Skull, XP Score Skull, and the Undetected Skull. Good Luck and Happy Hunting!
 
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <h4 style="text-align: left;"><span style="font-size:30px;"><strong>New Playable Counselor: Victoria Sterling</strong></span></h4>
 <p>&nbsp;</p>
 Introducing Victoria Sterling, the newest counselor to arrive at Camp Crystal Lake!
@@ -28,11 +29,16 @@ Victoria has a level requirement of 42 and her stats are the following:
 * Stealth - 7
 * Strength - 2
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <h4 style="text-align: left;"><span style="font-size:30px;"><strong>Legendary Perks & Perk Changes</strong></span></h4>
 
 <p>&nbsp;</p>
 
-<h4 style="text-align: left;"><span style="font-size:20px;">Legendary Perks</span></h4>
+<h4 style="text-align: left;"><span style="font-size:22px;">Legendary Perks</span></h4>
+
+<p>&nbsp;</p>
 
 A new perk rarity tier has been introduced! Legendary perks!
 
