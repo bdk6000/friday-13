@@ -52,7 +52,7 @@ Here are the traits that are tied to each Legendary perk:
 |----------------------------|--------------------------------------------------|
 | **[Adrenaline Rush]**      |                        Total Stamina |
 | **[Aquanaut]**             |           Avoid Sense While Swimming |
-| **[Controlled Breathing]** &nbsp;  &nbsp;  &nbsp;  &nbsp;  |               Overall Fear Reduction |
+| **[Controlled Breathing]** &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;   |               Overall Fear Reduction |
 | **[Easy Listening]**       |                        Total Stamina |
 | **[Escape Artist]**        |                          Avoid Sense |
 | **[Evasion]**              |                          Avoid Sense |
