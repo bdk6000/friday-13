@@ -273,19 +273,57 @@ This feature may be accessed through Settings > Keybindings
 * Fixed an issue that caused an incorrect animation to play when certain Counselors would direct hit a wall with the Baseball Bat
 
 **Perks**
+* Fixed an issue with the **Slugger** perk that caused the spawned baseball bat to have incorrect stats
+* Fixed a bug with the **Teamwork** perk that caused the attack strength decreased to not work properly
 
 **Vehicles**
+* Physics have updated! Vehicles now handle differently and players will now be able to drift in cars via the handbrakes 
+* Added countermeasures to prevent Counselors from standing on top of cars
+* The rear view camera that is available while driving in reverse can now be accessed at any time while driving by holding down the Rear View button (Default: R, Triangle, or Y) 
+* Fixed an issue that was causing the vehicle starting animations to not play
+ 
 
 **Maps**
 
 **General**
-**Jarvis House**
-**Pinehurst**
-**Crystal Lake**
-**Packanack**
+* Repair Parts dropped into the lake should now respawn by the shore more consistently across all maps
+* Regular doors (that do not have a barricade attached) can now be locked/unlocked from both sides
+* Added blockers to the cemeteries to prevent cars from traveling through
+* Addressed several exploit locations across all maps
+* Addressed several locations across all maps in which the environmental kills were inaccessible or not working properly
+* Drawers will no longer have an extended collision volume once they have been opened
+* Adjusted lighting throughout the multiplayer maps
 
+**Jarvis House**
+* Made adjustments to several cabins to prevent Repair Parts from spawning in an inaccessible location
+* The lights in the Vacation House will now be properly disabled when the corresponding power box has been destroyed
+
+**Pinehurst**
+* Fixed an issue where one of the doors in the Halfway House could only be opened by Jason from the outside 
+* Addressed an issue that caused some of the shorelines to have an incorrect collision which prevented players from exiting the water in those locations
+* Fixed a bed that was missing an interaction button
+Changed the date that appears in the opening cinematic cutscene from 1986 to 1989
+**Crystal Lake**
+* Fixed a bug where Rob would sometimes appear bloody in the opening cinematic cutscene 
+**Packanack**
+* Fixed a bug that prevented Bear Traps from being placeable in two of the cabins
 **Bots**
+* General improvements made to AI behavior
+* Improvements with AI interaction with vehicles
+* AI will now make an attempt to interact or avoid Jason’s traps
+* AI will now be able to place Bear Traps
+* AI will now turn on radios as a distraction
+* The difficulty setting in Offline Bots will now affect the bots in the following ways:
+    * Ranged accuracy
+    * Weapon pickup preferences
+    * Item location awareness
+    * Starting items and preset perks
 
 **Sound**
+* Fixed an issue that was causing the vehicle starting sounds to not play
+* Fixed an issue that was causing the car braking sounds to not play for the driver
+* Cars braking in reverse will now play the appropriate sound
 
 **UI**
+* The Controller Bumpers should now scroll in the right direction when in the Jason selection screen
+* The How To Play section has been updated to include the Single Player Challenges
