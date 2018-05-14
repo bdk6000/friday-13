@@ -33,9 +33,9 @@ Victoria has a level requirement of 42 and her stats are the following:
 
 <p>&nbsp;</p>
 
-<h1 style="text-align: left;"><span style="font-size:30px;"><strong>Legendary Perks & Perk Changes</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:35px;"><strong>Legendary Perks & Perk Changes</strong></span></h1>
 
-<p>&nbsp;</p>
+
 
 <h4 style="text-align: left;"><span style="font-size:23px;">Legendary Perks</span></h4>
 
@@ -127,7 +127,7 @@ Perk rarity can now also be distinguished by a numbering system added to the per
 
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>Combat Update</strong></span></h1>
 
-<p>&nbsp;</p>
+
 
 <h4 style="text-align: left;"><span style="font-size:23px;">Weapon Swapping Feature</span></h4>
 
@@ -191,7 +191,6 @@ The following weapons have had their stats adjusted.
 
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>Matchmaking Changes</strong></span></h1>
 
-<p>&nbsp;</p>
 
 <h4 style="text-align: left;"><span style="font-size:23px;">Infraction System</span></h4>
 
@@ -234,7 +233,6 @@ This feature may be accessed through Settings > Keybindings
 <p>&nbsp;</p>
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>General Changes and Bugfixes</strong></span></h1>
 
-<p>&nbsp;</p>
 
 **General**
 
