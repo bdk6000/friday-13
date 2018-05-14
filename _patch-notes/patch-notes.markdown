@@ -257,6 +257,20 @@ This feature may be accessed through Settings > Keybindings
 * Fixed a bug that prevented Jason from breaking a phone box that has been repaired multiple times
 
 **Counselors**
+* Killing Jason will now grant XP when the Jason player quits after the kill sequence has been initiated
+* Bear Traps are no longer able to be placed inside tents
+* An equipped item that is being swapped out with another item will now attempt to locate the best available spot to be placed (i.e., the ground)
+    * Note: This was to address the issue with players being able to stack items infinitely on top of each other until an item becomes unreachable
+* Fixed a bug where the Bear Trap arming animation would continue to play when the Bear Trap is triggered prematurely
+* Fixed a bug that was giving counselors too many attempts at triggering Jason's vulnerable state during the sweater stun kill sequence
+* Fixed a bug where the phone calling animation would continue to play when the player has stepped into a Bear Trap at the same time
+* Fixed a bug where if a Counselor starts calling the police and steps into a Bear Trap at the same time, the phone would continue to fly around like a spooky ghost while the Counselor attempts to escape the Bear Trap
+* Fixed a bug where the emote wheel persist on the screen after the player has been killed
+* Fixed a bug where the player could become interaction locked by spamming the interact button on the phone while Jason is destroying the phone box
+* Fixed a bug where placing Bear Traps in certain locations would sometimes launch the player into the sky 
+* Fixed a bug that caused the player’s fear effect to persist during the outro cinematic
+* Fixed an issue that caused the map to drop as an item when the player is killed in certain hiding spots
+* Fixed an issue that caused an incorrect animation to play when certain Counselors would direct hit a wall with the Baseball Bat
 
 **Perks**
 
