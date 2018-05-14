@@ -21,7 +21,7 @@ There are also **30 new unlockable emotes** that can be obtained in the Single P
 
 Introducing Victoria Sterling, the newest counselor to arrive at Camp Crystal Lake!
 
-Victoria has a level requirement of 42 and her stats are the following:
+Victoria has a **level requirement of 42** and her stats are the following:
 
 * Composure - 4
 * Luck - 8
