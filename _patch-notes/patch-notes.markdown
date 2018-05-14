@@ -5,7 +5,7 @@ published: false
 ---
 
 
-<h1 style="text-align: left;"><span style="font-size:30px;"><strong>New Game Mode: Single Player Challenges</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:35px;"><strong>New Game Mode: Single Player Challenges</strong></span></h1>
 
 Single Player Challenges, Friday the 13th: The Game’s newest playable game mode, is now available!
 
@@ -17,7 +17,7 @@ There are also 30 new unlockable emotes that can be obtained in the Single Playe
 <p>&nbsp;</p>
 
 
-<h1 style="text-align: left;"><span style="font-size:30px;"><strong>New Playable Counselor: Victoria Sterling</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:35px;"><strong>New Playable Counselor: Victoria Sterling</strong></span></h1>
 
 Introducing Victoria Sterling, the newest counselor to arrive at Camp Crystal Lake!
 
@@ -125,7 +125,7 @@ Perk rarity can now also be distinguished by a numbering system added to the per
 
 
 
-<h1 style="text-align: left;"><span style="font-size:30px;"><strong>Combat Update</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:35px;"><strong>Combat Update</strong></span></h1>
 
 <p>&nbsp;</p>
 
@@ -189,7 +189,7 @@ The following weapons have had their stats adjusted.
 <p>&nbsp;</p>
 
 
-<h1 style="text-align: left;"><span style="font-size:30px;"><strong>Matchmaking Changes</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:35px;"><strong>Matchmaking Changes</strong></span></h1>
 
 <p>&nbsp;</p>
 
@@ -222,7 +222,7 @@ The Spawn Preference system only affects Private Matches only when a Jason has n
 
 
 <p>&nbsp;</p>
-<h1 style="text-align: left;"><span style="font-size:30px;"><strong>Keybinding Support</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:35px;"><strong>Keybinding Support</strong></span></h1>
 <p>&nbsp;</p>
 
 Keybinding Support is now available on the PC for players using a keyboard and mouse
@@ -232,7 +232,7 @@ This feature may be accessed through Settings > Keybindings
 
 
 <p>&nbsp;</p>
-<h1 style="text-align: left;"><span style="font-size:30px;"><strong>General Changes and Bugfixes</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:35px;"><strong>General Changes and Bugfixes</strong></span></h1>
 
 <p>&nbsp;</p>
 
