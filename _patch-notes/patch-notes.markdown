@@ -303,6 +303,7 @@ This feature may be accessed through Settings > Keybindings
 * Addressed an issue that caused some of the shorelines to have an incorrect collision which prevented players from exiting the water in those locations
 * Fixed a bed that was missing an interaction button
 Changed the date that appears in the opening cinematic cutscene from 1986 to 1989
+
 **Crystal Lake**
 * Fixed a bug where Rob would sometimes appear bloody in the opening cinematic cutscene 
 
