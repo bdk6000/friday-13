@@ -102,19 +102,19 @@ Here are the traits that are tied to each Legendary perk:
 
 The following perks have had their possible values adjusted:
 
-[Easy Listening] - Increases the Radio proximity recharge rate by 10% - 40% (was 1% - 10%)
+**[Easy Listening]** - Increases the Radio proximity recharge rate by 10% - 40% (was 1% - 10%)
 
-[Motorboating] - Increases the Boat movement speed by 5% - 35% (was 1% - 15%)
+**[Motorboating]** - Increases the Boat movement speed by 5% - 35% (was 1% - 15%)
 
-[Man at Arms] - Increases Weapon durability by 5% - 15% (was 5% - 25%)
+**[Man at Arms]** - Increases Weapon durability by 5% - 15% (was 5% - 25%)
 
-[My Dad’s a Cop] - Reduces the Police arrival time by 5% - 25% (was 5% - 30%)
+**[My Dad’s a Cop]** - Reduces the Police arrival time by 5% - 25% (was 5% - 30%)
 
-[Quiet Swimmer] - Reduces the Sense detection chance by 5% - 20% (was 1% - 25%)
+**[Quiet Swimmer]** - Reduces the Sense detection chance by 5% - 20% (was 1% - 25%)
 
-[Lead Foot] - Increases the Car movement speed by 5% - 20% (was 1% - 25%)
+**[Lead Foot]** - Increases the Car movement speed by 5% - 20% (was 1% - 25%)
 
-[Aquanaut] Increases the Counselor’s swimming speed by 5% - 35% (was 1% - 15%)
+**[Aquanaut]** Increases the Counselor’s swimming speed by 5% - 35% (was 1% - 15%)
 
 <p>&nbsp;</p>
 
