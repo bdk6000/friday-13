@@ -242,6 +242,19 @@ This feature may be accessed through Settings > Keybindings
 * Added countermeasures to several character selection exploits [PC]
 
 **Jason**
+* Part 5 Jason has a new color variant for his default skin available!
+    * Note: Bloody skins for both the blue and green color variants have identical level requirements
+* Part 7 Jason: Replaced +Grip Strength with +Weapon Strength
+* Part 7 Jason: Replaced -Shift with -Stun Resistance
+* Fixed an issue where stun damage would not cause Jason’s mask to fall off even after Jason has hit the HP threshold 
+* Reworded the tooltip for the Strength “Throwing Knives” to reflect previous changes made to Jason
+* Fixed a bug where the throwing knife crosshair would sometimes become stuck on the screen
+* Fixed a bug where the player could sometimes become unable to move after being hit during the grab animation
+* Adjusted the animation for Part 4 Jason’s weapon to properly align with his hands during door / wall destruction animations
+* Fixed an issue that was causing some of Jason’s weapons to not become bloody
+* Fixed a bug with Part 5 Jason’s Shift ability having an incorrect recharge rate
+* Fixed a bug where Jason would have the incorrect stun animation when shot by a flare gun
+* Fixed a bug that prevented Jason from breaking a phone box that has been repaired multiple times
 
 **Counselors**
 
