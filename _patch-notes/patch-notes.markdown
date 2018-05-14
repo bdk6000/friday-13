@@ -305,8 +305,10 @@ This feature may be accessed through Settings > Keybindings
 Changed the date that appears in the opening cinematic cutscene from 1986 to 1989
 **Crystal Lake**
 * Fixed a bug where Rob would sometimes appear bloody in the opening cinematic cutscene 
+
 **Packanack**
 * Fixed a bug that prevented Bear Traps from being placeable in two of the cabins
+
 **Bots**
 * General improvements made to AI behavior
 * Improvements with AI interaction with vehicles
