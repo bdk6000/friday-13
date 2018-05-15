@@ -7,11 +7,15 @@ published: false
 
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>New Game Mode: Single Player Challenges</strong></span></h1>
 
-<p><a title="SP Challenges 1" href="/uploads/SPChallenges%201%20Screen.png"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/SPChallenges%201%20Screen.png" alt="SP Challenges1" width="760" /></a></p>
+
 
 Single Player Challenges, Friday the 13th: The Game’s newest playable game mode, is now available!
 
 Test your skills as Jason Voorhees by clearing out all of the counselors in Camp Crystal Lake in each of the 10 unique scenarios. Each level contains special cinematic kills that are available only in Single Player Challenges. There are also multiple challenge objectives that are available in each level that can only be completed through proper planning and preparation. Play as Jason in any way you like. You may choose to be slow and sneaky for that suspenseful cinematic experience, or you may choose to brute force your way through, hacking and slashing! 
+
+<p><a title="SP Challenges 1" href="/uploads/SPChallenges%201%20Screen.png"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/SPChallenges%201%20Screen.png" alt="SP Challenges1" width="760" /></a></p>
+
+
 
 There are also **30 new unlockable emotes** that can be obtained in the Single Player Challenges! Each Challenge has a reward of 3 unique emotes through the collection of these following skulls: No Survivors Skull, XP Score Skull, and the Undetected Skull. 
 
