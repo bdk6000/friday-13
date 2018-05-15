@@ -228,7 +228,7 @@ In the December patch of last year, we introduced a "ticketing" system to the Sp
 The probability of a player being chosen as Jason is affected by their preference settings and also their recent amount of Jason games. Playing as Jason too many times in a small timeframe will cause the player to no longer be considered as a candidate to play as Jason. However, the player’s chance to be selected as Jason rapidly “recharges” over time and this system will have no long lasting effects on players. 
 For more information about this system, please visit our official forums.
 
-*The Spawn Preference system only affects Private Matches only when a Jason has* _not_ been picked manually.*
+*The Spawn Preference system only affects Private Matches only when a Jason has not been picked manually.*
 
 
 <p>&nbsp;</p>
