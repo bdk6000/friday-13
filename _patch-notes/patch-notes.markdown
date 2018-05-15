@@ -144,7 +144,7 @@ Perk rarity can now also be distinguished by a numbering system added to the per
 
 A new option is now available in the Jason selection screen! 
 Players will now be able to equip different weapons on each Jason.
-This feature unlocks for players at *level 113* and will allow the swapping of the following weapons:
+This feature unlocks for players at **level 113** and will allow the swapping of the following weapons:
 
 * Pickaxe
 * Machete
