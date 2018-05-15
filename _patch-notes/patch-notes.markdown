@@ -13,7 +13,7 @@ Single Player Challenges, Friday the 13th: The Game’s newest playable game mod
 
 Test your skills as Jason Voorhees by clearing out all of the counselors in Camp Crystal Lake in each of the 10 unique scenarios. Each level contains special cinematic kills that are available only in Single Player Challenges. There are also multiple challenge objectives that are available in each level that can only be completed through proper planning and preparation. Play as Jason in any way you like. You may choose to be slow and sneaky for that suspenseful cinematic experience, or you may choose to brute force your way through, hacking and slashing! 
 
-<p><a title="SP Challenges 1" href="/uploads/SPChallenges1ScreenB1.png"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/SPChallenges1Screen.png" alt="SP Challenges1" width="760" /></a></p>
+<p><a title="SP Challenges 1" href="/uploads/SPChallenges1ScreenB1JPG.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/SPChallenges1ScreenJPG.jpg" alt="SP Challenges1" width="760" /></a></p>
 
 
 
@@ -132,7 +132,7 @@ The following perks have had their possible values adjusted:
 Perk rarity can now also be distinguished by a numbering system added to the perk graphic in order to assist players with color blindness
 
 
-<p><a title="Perk Colors" href="/uploads/PerkColorsB1.png"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/PerkColors1.png" alt="Perk Colors" width="760" /></a></p>
+<p><a title="Perk Colors" href="/uploads/PerkColorsB1JPG.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/PerkColors1JPG.jpg" alt="Perk Colors" width="760" /></a></p>
 
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>Combat Update</strong></span></h1>
 
@@ -196,7 +196,7 @@ The following weapons have had their stats adjusted.
 * Cooking Pot
 
 <p>&nbsp;</p>
-<p><a title="Updated Weapon Stats Guide" href="/uploads/WeaponStatsB181.png"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/WeaponStats181.png" alt="Updated Weapon Stats Guide" width="760" /></a></p>
+<p><a title="Updated Weapon Stats Guide" href="/uploads/WeaponStatsB181JPG.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/WeaponStats181JPG.jpg" alt="Updated Weapon Stats Guide" width="760" /></a></p>
 
 
 
