@@ -132,7 +132,7 @@ The following perks have had their possible values adjusted:
 Perk rarity can now also be distinguished by a numbering system added to the perk graphic in order to assist players with color blindness
 
 
-<p><a title="Perk Colors" href="/uploads/Perk%20Colors.png"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/Perk%20Colors.png" alt="Perk Colors" width="760" /></a></p>
+<p><a title="Perk Colors" href="/uploads/PerkColors1.png"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/PerkColors1.png" alt="Perk Colors" width="760" /></a></p>
 
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>Combat Update</strong></span></h1>
 
