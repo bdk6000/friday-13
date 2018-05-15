@@ -111,7 +111,7 @@ Here are the traits that are tied to each Legendary perk:
 
 The following perks have had their possible values adjusted:
 
-**[Easy Listening]** - Increases the Radio proximity recharge rate by 10% - 40% (was 1% - 10%)
+**[Easy Listening]** - Increases the Radio proximity recharge rate by **10% - 40%** (was 1% - 10%)
 
 **[Motorboating]** - Increases the Boat movement speed by **5% - 35%** (was 1% - 15%)
 
