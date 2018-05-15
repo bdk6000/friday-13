@@ -40,7 +40,7 @@ Victoria has a **level requirement of 42** and her stats are the following:
 * Strength - 2
 
 
-<p><a title="Victoria Stats" href="/uploads/VictoriaStats1JPG.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/VictoriaStatsB1JPG.jpg" alt="Victoria Stats" width="760" /></a></p>
+<p><a title="Victoria Stats" href="/uploads/VictoriaStatsB1JPG.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/VictoriaStatsB1JPG.jpg" alt="Victoria Stats" width="760" /></a></p>
 
 
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>Legendary Perks & Perk Changes</strong></span></h1>
