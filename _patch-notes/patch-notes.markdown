@@ -288,7 +288,11 @@ This feature may be accessed through Settings > Keybindings
 * Fixed a bug with the **Teamwork** perk that caused the attack strength decreased to not work properly
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Vehicles</span></h4>
-* Physics have updated! Vehicles now handle differently and players will now be able to drift in cars via the handbrakes 
+* Improvements have been made to the way that cars are affected by physics
+* Improved car handling by changing the cars to front wheel drive (instead of rear wheel drive) 
+* Added an small invincibility frame for the brief period when a counselor is exiting a car
+* Fixed an issue with cars becoming "jittery" or unstable after reaching top speeds
+* Cars have had their brakes improved. Cars can now come to a full stop more quickly and using the hand brakes allows a player to "drift".
 * Added countermeasures to prevent Counselors from standing on top of cars
 * The rear view camera that is available while driving in reverse can now be accessed at any time while driving by holding down the Rear View button (Default: R, Triangle, or Y) 
 * Fixed an issue that was causing the vehicle starting animations to not play
