@@ -348,4 +348,4 @@ Changed the date that appears in the opening cinematic cutscene from 1986 to 198
 * The Controller Bumpers should now scroll in the right direction when in the Jason selection screen
 * The How To Play section has been updated to include the Single Player Challenges
 
-### [[Click here to discuss the patch notes on the Official Forums]]()
+### [[Click here to discuss the patch notes on the Official Forums ADD LINK ADD LINK ADD LINK]]()
