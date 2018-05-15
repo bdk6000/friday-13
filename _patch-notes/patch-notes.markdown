@@ -214,7 +214,8 @@ Players will now gain infraction points by performing any of the following actio
 * Leaving the match while still alive as a Counselor
 * Leaving the match while in the process of being killed
 
-Accumulating too many infractions points will place you in a low priority queue in matchmaking with other similar players. These Infraction points are not permanent and will decay over time. For more information about this system, please visit our official forums.
+Accumulating too many infractions points will place you in a low priority queue in matchmaking with other similar players. These Infraction points are not permanent and will decay over time. 
+For more information about this system, please visit our official forums.
 
 
 
