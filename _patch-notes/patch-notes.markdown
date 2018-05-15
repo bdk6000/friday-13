@@ -23,7 +23,6 @@ Good Luck and Happy Hunting!
 
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>New Playable Counselor: Victoria Sterling</strong></span></h1>
@@ -295,8 +294,7 @@ This feature may be accessed through Settings > Keybindings
 * Fixed an issue that was causing the vehicle starting animations to not play
  
 
-**Maps**
-
+<h4 style="text-align: left;"><span style="font-size:19px;">Maps</span></h4>
 **General**
 * Repair Parts dropped into the lake should now respawn by the shore more consistently across all maps
 * Regular doors (that do not have a barricade attached) can now be locked/unlocked from both sides
@@ -305,7 +303,6 @@ This feature may be accessed through Settings > Keybindings
 * Addressed several locations across all maps in which the environmental kills were inaccessible or not working properly
 * Drawers will no longer have an extended collision volume once they have been opened
 * Adjusted lighting throughout the multiplayer maps
-
 **Jarvis House**
 * Made adjustments to several cabins to prevent Repair Parts from spawning in an inaccessible location
 * The lights in the Vacation House will now be properly disabled when the corresponding power box has been destroyed
@@ -322,7 +319,7 @@ Changed the date that appears in the opening cinematic cutscene from 1986 to 198
 **Packanack**
 * Fixed a bug that prevented Bear Traps from being placeable in two of the cabins
 
-**Bots**
+<h4 style="text-align: left;"><span style="font-size:19px;">Bots</span></h4>
 * General improvements made to AI behavior
 * Improvements with AI interaction with vehicles
 * AI will now make an attempt to interact or avoid Jason’s traps
@@ -334,11 +331,11 @@ Changed the date that appears in the opening cinematic cutscene from 1986 to 198
     * Item location awareness
     * Starting items and preset perks
 
-**Sound**
+<h4 style="text-align: left;"><span style="font-size:19px;">Sound</span></h4>
 * Fixed an issue that was causing the vehicle starting sounds to not play
 * Fixed an issue that was causing the car braking sounds to not play for the driver
 * Cars braking in reverse will now play the appropriate sound
 
-**UI**
+<h4 style="text-align: left;"><span style="font-size:19px;">UI</span></h4>
 * The Controller Bumpers should now scroll in the right direction when in the Jason selection screen
 * The How To Play section has been updated to include the Single Player Challenges
