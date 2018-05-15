@@ -171,7 +171,7 @@ This change should help prevent Jason’s swings from missing players that are o
 <h4 style="text-align: left;"><span style="font-size:23px;">Jason’s Grab Changes</span></h4>
 
 Jason’s grab has been updated with a new animation and sound effect. 
-These change should more accurately represent the distance of Jason’s grab and also feel more gratifying when landing a grab on a counselor.
+These changes should more accurately represent the distance of Jason’s grab and also feel more gratifying when landing a grab on a counselor.
 
 
 <p>&nbsp;</p>
