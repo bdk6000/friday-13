@@ -235,7 +235,7 @@ This feature may be accessed through Settings > Keybindings
 
 
 **General**
-* New Free Emote added! The Poppin’ Robot
+* New Free Emote added! **The Poppin’ Robot**
 * Intro/Outro cinematic cutscenes will now show the weapons/skins that the Jason player has equipped
 * Rain has been re-enabled [XB1]
 * Fixed multiple issues related to the Sweater
