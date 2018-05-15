@@ -153,7 +153,7 @@ This feature unlocks for players at *level 113* and will allow the swapping of t
 * Pig Splitter
 * Shears
 
-All the grab kills tied to the weapons (including the DLC kills) will also be available through the swap.
+*All the grab kills tied to the weapons (including the DLC kills) will also be available through the swap.*
 
 <p>&nbsp;</p>
 
