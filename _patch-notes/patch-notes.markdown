@@ -245,14 +245,14 @@ This feature may be accessed through Settings > Keybindings
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>General Changes and Bugfixes</strong></span></h1>
 
 
-**General**
+<h4 style="text-align: left;"><span style="font-size:22px;">General</span></h4>
 * New Free Emote added! **The Poppin’ Robot**
 * Intro/Outro cinematic cutscenes will now show the weapons/skins that the Jason player has equipped
 * Rain has been re-enabled [XB1]
 * Fixed multiple issues related to the Sweater
 * Added countermeasures to several character selection exploits [PC]
 
-**Jason**
+<h4 style="text-align: left;"><span style="font-size:22px;">Jason</span></h4>
 * Part 5 Jason has a new color variant for his default skin available!
     * *Note: Bloody skins for both the blue and green color variants have identical level requirements*
 * Part 7 Jason: Replaced **+Grip Strength** with **+Weapon Strength**
@@ -267,7 +267,7 @@ This feature may be accessed through Settings > Keybindings
 * Fixed a bug where Jason would have the incorrect stun animation when shot by a flare gun
 * Fixed a bug that prevented Jason from breaking a phone box that has been repaired multiple times
 
-**Counselors**
+<h4 style="text-align: left;"><span style="font-size:22px;">Counselors</span></h4>
 * Killing Jason will now grant XP when the Jason player quits after the kill sequence has been initiated
 * Bear Traps are no longer able to be placed inside tents
 * An equipped item that is being swapped out with another item will now attempt to locate the best available spot to be placed (i.e., the ground)
@@ -283,18 +283,18 @@ This feature may be accessed through Settings > Keybindings
 * Fixed an issue that caused the map to drop as an item when the player is killed in certain hiding spots
 * Fixed an issue that caused an incorrect animation to play when certain Counselors would direct hit a wall with the Baseball Bat
 
-**Perks**
+<h4 style="text-align: left;"><span style="font-size:22px;">Perks</span></h4>
 * Fixed an issue with the **Slugger** perk that caused the spawned baseball bat to have incorrect stats
 * Fixed a bug with the **Teamwork** perk that caused the attack strength decreased to not work properly
 
-**Vehicles**
+<h4 style="text-align: left;"><span style="font-size:22px;">Vehicles</span></h4>
 * Physics have updated! Vehicles now handle differently and players will now be able to drift in cars via the handbrakes 
 * Added countermeasures to prevent Counselors from standing on top of cars
 * The rear view camera that is available while driving in reverse can now be accessed at any time while driving by holding down the Rear View button (Default: R, Triangle, or Y) 
 * Fixed an issue that was causing the vehicle starting animations to not play
  
 
-<h4 style="text-align: left;"><span style="font-size:19px;">Maps</span></h4>
+<h4 style="text-align: left;"><span style="font-size:22px;">Maps</span></h4>
 **General**
 * Repair Parts dropped into the lake should now respawn by the shore more consistently across all maps
 * Regular doors (that do not have a barricade attached) can now be locked/unlocked from both sides
@@ -303,6 +303,7 @@ This feature may be accessed through Settings > Keybindings
 * Addressed several locations across all maps in which the environmental kills were inaccessible or not working properly
 * Drawers will no longer have an extended collision volume once they have been opened
 * Adjusted lighting throughout the multiplayer maps
+
 **Jarvis House**
 * Made adjustments to several cabins to prevent Repair Parts from spawning in an inaccessible location
 * The lights in the Vacation House will now be properly disabled when the corresponding power box has been destroyed
@@ -319,7 +320,7 @@ Changed the date that appears in the opening cinematic cutscene from 1986 to 198
 **Packanack**
 * Fixed a bug that prevented Bear Traps from being placeable in two of the cabins
 
-<h4 style="text-align: left;"><span style="font-size:19px;">Bots</span></h4>
+<h4 style="text-align: left;"><span style="font-size:22px;">Bots</span></h4>
 * General improvements made to AI behavior
 * Improvements with AI interaction with vehicles
 * AI will now make an attempt to interact or avoid Jason’s traps
@@ -331,11 +332,11 @@ Changed the date that appears in the opening cinematic cutscene from 1986 to 198
     * Item location awareness
     * Starting items and preset perks
 
-<h4 style="text-align: left;"><span style="font-size:19px;">Sound</span></h4>
+<h4 style="text-align: left;"><span style="font-size:22px;">Sound</span></h4>
 * Fixed an issue that was causing the vehicle starting sounds to not play
 * Fixed an issue that was causing the car braking sounds to not play for the driver
 * Cars braking in reverse will now play the appropriate sound
 
-<h4 style="text-align: left;"><span style="font-size:19px;">UI</span></h4>
+<h4 style="text-align: left;"><span style="font-size:22px;">UI</span></h4>
 * The Controller Bumpers should now scroll in the right direction when in the Jason selection screen
 * The How To Play section has been updated to include the Single Player Challenges
