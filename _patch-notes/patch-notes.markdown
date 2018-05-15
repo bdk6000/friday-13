@@ -195,6 +195,8 @@ The following weapons have had their stats adjusted.
 * Wrench
 * Cooking Pot
 
+<p><a title="Updated Weapon Stats Guide" href="/uploads/WeaponStats181.png"><img style="display: block; margin-left: auto; margin-right: auto;" src="/uploads/WeaponStats181.png" alt="Updated Weapon Stats Guide" width="760" /></a></p>
+
 <p>&nbsp;</p>
 
 
