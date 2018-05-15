@@ -260,7 +260,7 @@ This feature may be accessed through Settings > Keybindings
 * Killing Jason will now grant XP when the Jason player quits after the kill sequence has been initiated
 * Bear Traps are no longer able to be placed inside tents
 * An equipped item that is being swapped out with another item will now attempt to locate the best available spot to be placed (i.e., the ground)
-    * Note: This was to address the issue with players being able to stack items infinitely on top of each other until an item becomes unreachable
+    * *Note: This was to address the issue with players being able to stack items infinitely on top of each other until an item becomes unreachable*
 * Fixed a bug where the Bear Trap arming animation would continue to play when the Bear Trap is triggered prematurely
 * Fixed a bug that was giving counselors too many attempts at triggering Jason's vulnerable state during the sweater stun kill sequence
 * Fixed a bug where the phone calling animation would continue to play when the player has stepped into a Bear Trap at the same time
