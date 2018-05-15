@@ -244,8 +244,8 @@ This feature may be accessed through Settings > Keybindings
 **Jason**
 * Part 5 Jason has a new color variant for his default skin available!
     * Note: Bloody skins for both the blue and green color variants have identical level requirements
-* Part 7 Jason: Replaced +Grip Strength with +Weapon Strength
-* Part 7 Jason: Replaced -Shift with -Stun Resistance
+* Part 7 Jason: Replaced **+Grip Strength** with **+Weapon Strength**
+* Part 7 Jason: Replaced **-Shift** with **-Stun Resistance**
 * Fixed an issue where stun damage would not cause Jason’s mask to fall off even after Jason has hit the HP threshold 
 * Reworded the tooltip for the Strength “Throwing Knives” to reflect previous changes made to Jason
 * Fixed a bug where the throwing knife crosshair would sometimes become stuck on the screen
