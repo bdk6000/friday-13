@@ -7,6 +7,9 @@ published: false
 Welcome to the Patch Notes for the upcoming patch that will be released on *Thursday, May 28th at 4PM EST*. In this patch, we have introduced many new gameplay changes and bugfixes as well as the new single player game mode and a new counselor!
 
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>New Game Mode: Single Player Challenges</strong></span></h1>
