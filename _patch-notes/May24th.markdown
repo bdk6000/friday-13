@@ -1,7 +1,6 @@
 ---
 title: Patch Notes
-date: 2018-05-23 14:00:00 -04:00
-published: false
+date: 2018-05-23 13:59:00 -04:00
 release-date: 2018-05-24 14:00:00 -04:00
 ---
 
