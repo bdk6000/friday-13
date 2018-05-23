@@ -192,7 +192,8 @@ We have made some adjustments to the way that combat works when there is a door 
 
 
 The pips that represent the weapon stats in the How to Play section have had their values per pip adjusted to be more consistent.
-The following weapons have had their stats adjusted.
+
+In addition, the following weapons have had their stats adjusted.
 
 * 2X4
 * Frying Pan
