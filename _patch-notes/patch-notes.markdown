@@ -4,7 +4,7 @@ date: 2018-05-03 20:00:00 -04:00
 published: false
 ---
 
-Welcome to the Patch Notes for the upcoming patch that will be released on *Thursday, May 28th at 4PM EST*. In this patch, we have introduced many new gameplay changes and bugfixes as well as the new single player game mode and a new counselor!
+Welcome to the Patch Notes for the upcoming patch that will be released on *Thursday, May 28th at 4PM EST*.
 
 
 <p>&nbsp;</p>
