@@ -5,7 +5,7 @@ published: false
 release-date: 2018-05-23 14:00:00 -04:00
 ---
 
-Welcome to the Patch Notes for the upcoming patch that will be released **Tomorrow, May 24th**.
+Welcome to the Patch Notes for the upcoming patch that will be released **Tomorrow, May 24th**
 
 
 <p>&nbsp;</p>
