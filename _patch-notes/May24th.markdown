@@ -1,8 +1,8 @@
 ---
 title: Patch Notes
-date: 2018-05-24 14:00:00 -04:00
+date: 2018-05-23 14:00:00 -04:00
 published: false
-release-date: 2018-05-23 14:00:00 -04:00
+release-date: 2018-05-24 14:00:00 -04:00
 ---
 
 Welcome to the Patch Notes for the upcoming patch that will be released **Tomorrow, May 24th**
