@@ -8,8 +8,6 @@ Welcome to the Patch Notes for the upcoming patch that will be released on **Thu
 
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>New Game Mode: Single Player Challenges</strong></span></h1>
