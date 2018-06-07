@@ -36,15 +36,22 @@ published: false
 <h4 style="text-align: left;"><span style="font-size:22px;">Jason</span></h4>
 * Addressed a bug that sometimes allowed players to select an unreleased Jason
 * Fixed an issue with Jason holding his weapons incorrectly when weapon swapping
+* Fixed an issue that caused Jason to become “shiny” when equipped with a bloody skin
+* Fixed an issue with Part 5 Jason’s hands being “bright orange”
+* Fixed an issue with Part 6 Jason’s mask strap being discolored
+* Fixed an issue that caused Savini Jason’s clothes to “flicker”
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Counselors</span></h4>
 * Fixed an issue with Medical Sprays not functioning properly
+* Fixed an issue with Victoria’s pants changing into the incorrect pattern when the player equips the Sweater
+* Fixed an issue where Tiffany’s swimsuit outfit was not able to be individually customized between the top and bottom
+* Fixed a bug where Buggzy’s shoes would deform when performing certain emotes
+* Fixed an issue with Jenny and Tiffany’s model in the character selection menu
 
-<h4 style="text-align: left;"><span style="font-size:22px;">Perks</span></h4>
-* 
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Vehicles</span></h4>
-* 
+* Addressed the "Rubberbanding" bugs
+* Made adjustments to the kill volume on top of the car
  
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Maps</span></h4>
@@ -54,25 +61,22 @@ published: false
 
 
 **Jarvis House**
-* 
+* Fixed an issue where players would incorrectly take damage when climbing out one of the windows in the Vacation House
 
 **Pinehurst**
-* 
-
-**Crystal Lake**
-* 
-
-**Packanack**
-* 
+* Added a car blocking volume to the small bridge next to the Halfway House
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Single Player Challenges</span></h4>
-* Fixed an issue on Vacation Party where killing Vanessa during her conversation with Kenny would break Kenny’s AI
-* Fixed a bug on JASON IS HERE where Lachappa’s VO would play twice in the intro
-* Addressed an issue on Stargazing where Shelly would jump out the windows instead of using the front door
-* Fixed a bug on Lights Out where Speed Demon would become unobtainable after 1 minute
 * Fixed an issue on Broken Down where Buggzy’s head and neck were slightly disconnected in the opening cinematic
+* Fixed a bug on Lights Out where Speed Demon would become unobtainable after 1 minute
+* Addressed an issue on Stargazing where Shelly would jump out the windows instead of using the front door
+* Fixed a bug on Packanack Party that caused A.J. and Adam's VO to play even after they had been killed  
 * Fixed an issue on Strip Poker where there could sometimes be a duplicate A.J. in the opening cinematic
-* Fixed a bug on JASON IS HERE where the movie that Vanessa and Lachappa are watching is too interesting and they never get off the couch 
+* Fixed a bug on JASON IS HERE where Lachappa’s VO would play twice in the intro
+* Fixed a bug on JASON IS HERE where Buggzy and Vanessa’s conversation was not playing properly
+* Fixed a bug on JASON IS HERE where Buggzy would sometimes start sleepwalking for a few moments before falling back to sleep
+* Fixed an issue on Vacation Party where the counselors may sit in mid air or behave erratically when Jason walked past the window by the side of the building
+* Fixed an issue on Vacation Party where killing Vanessa during her conversation with Kenny would break Kenny’s AI
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Sound</span></h4>
 * Fixed a bug where certain weapons would not produce the sound effect that occurs when Jason destroys a hiding spot
