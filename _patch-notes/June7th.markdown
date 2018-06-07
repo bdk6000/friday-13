@@ -51,7 +51,7 @@ published: false
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Vehicles</span></h4>
 * Addressed the "Rubberbanding" bugs
-* Made adjustments to the kill volume on top of the car
+
  
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Maps</span></h4>
