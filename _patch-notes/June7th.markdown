@@ -50,7 +50,7 @@ published: false
 <h4 style="text-align: left;"><span style="font-size:22px;">Maps</span></h4>
 **General**
 * Increased the amount of shore spawners on each map
-    * ***Note: These are the item spawners that are used to respawn weapons and repair parts when a counselor escapes or dies in the water***
+    * *Note: These are the item spawners that are used to respawn weapons and repair parts when a counselor escapes or dies in the water*
 
 
 **Jarvis House**
