@@ -1,7 +1,7 @@
 ---
 title: Patch Notes
 date: 2018-06-08 11:00:00 -04:00
-published: false
+release-date: 2018-06-08 11:00:00 -04:00
 ---
 
 Welcome to the June 8th Patch notes! This patch will be released initially for the **PC only**. 
