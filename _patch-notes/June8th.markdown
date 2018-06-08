@@ -7,6 +7,8 @@ release-date: 2018-06-08 11:00:00 -04:00
 
 Welcome to the June 8th Patch notes! This patch will be released initially for the **PC only**. 
 The XB1 and PS4 patch will be released at a later date
+
+** UPDATE: 6/8/18 - PS4 Patch is now live**
 <p>&nbsp;</p>
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>General Changes and Bugfixes</strong></span></h1>
 
