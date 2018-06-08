@@ -1,9 +1,11 @@
 ---
 title: Patch Notes
-date: 2018-06-07 12:54:00 -04:00
+date: 2018-06-08 11:00:00 -04:00
 published: false
+release-date: 2018-06-08 11:00:00 -04:00
 ---
 
+Welcome to the June 8th Patch notes! This patch will be released initially for PC and PS4 users only. The XB1 patch will be released sometime next week 
 <p>&nbsp;</p>
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>General Changes and Bugfixes</strong></span></h1>
 
