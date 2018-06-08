@@ -21,7 +21,6 @@ published: false
     * The Cabin Boogie
     * Freaky Friday
     * Friday Night Fever
-    * Getting Silly
     * Sexy Sway
     * The Pumpkin Patch
     * The Running Man
