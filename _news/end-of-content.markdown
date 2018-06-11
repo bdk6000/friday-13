@@ -1,7 +1,7 @@
 ---
 title: End of content
 date: 2018-06-11 17:04:00 -04:00
-subtitle: No future DLC
+subtitle: No future content
 main-image: "/uploads/end_of_content_main.png"
 hero-image: "/uploads/end_of_content_hero.png"
 ---
