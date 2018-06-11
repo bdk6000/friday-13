@@ -22,8 +22,5 @@ So what does this mean exactly? There will be no additional content added to Fri
 **- Gun**
 
 
-**About Gun Media**
-Based in Kentucky, Gun Media is a publisher of interactive entertainment comprised of industry veterans with unique and complementary backgrounds. The team shares a passion for horror and a vision that game development is not just the creation of a product, but the blending of art, design, and technology to produce experiences that engage and entertain players from all over the world. The mission of Gun is to foster fresh voices in interactive horror experiences, engaging gamers and fans of the genre across a wide range of platforms.
-
 *FRIDAY THE 13TH and all related characters and elements are trademarks of and © New Line Productions, 
 Inc. and Horror, Inc. (each to the extent of their interest).*
