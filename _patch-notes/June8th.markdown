@@ -9,6 +9,7 @@ Welcome to the June 8th Patch notes! This patch will be released initially for t
 The XB1 and PS4 patch will be released at a later date
 
 ** UPDATE: 6/8/18 - PS4 Patch is now live**
+
 ** UPDATE: 6/11/18 - XB1 Patch is now live**
 <p>&nbsp;</p>
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>General Changes and Bugfixes</strong></span></h1>
