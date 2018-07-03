@@ -38,6 +38,7 @@ published: false
 **General**
 * Addressed several counselor exploit locations on various maps
 * Fixed an issue that was causing Counselors to die if they escaped via the car in Higgins Haven, Crystal Lake, or Packanack
+* Fixed an issue that caused drawers to sometimes close after they have been opened
 * Addressed an issue that allowed players to leave the boundaries of the map through the police exit
 * Fixed an issue that caused an inconsistent number of Medical Sprays to spawn in Packanack Small, Higgins Haven Small, and Crystal Lake Small
 * Added an additional countermeasure to the firepits to prevent players from dropping repair parts into them
