@@ -53,7 +53,7 @@ release-date: 2018-07-03 00:00:00 -04:00
 **Pinehurst**
 * Fixed a bug that allowed players to walk through one of the walls in the Halfway House
 * Fixed a bug that allowed players to walk on water in some areas of the map
-* Fixed some texture issues that were occuring in some areas of the map
+* Fixed some texture issues that were occurring in some areas of the map
 
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Single Player Challenges</span></h4>
