@@ -72,4 +72,4 @@ published: false
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-### [[Click here to discuss the patch notes on the Official Forums]]()
+### [[Click here to discuss the patch notes on the Official Forums]](http://forum.f13game.com/topic/20423-patch-notes-070318/)
