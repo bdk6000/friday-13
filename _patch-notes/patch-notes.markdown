@@ -1,7 +1,8 @@
 ---
 title: Patch Notes
-date: 2018-06-28 17:07:00 -04:00
+date: 2018-06-08 10:00:00 -04:00
 published: false
+release-date: 2018-07-03 00:00:00 -04:00
 ---
 
 <p>&nbsp;</p>
