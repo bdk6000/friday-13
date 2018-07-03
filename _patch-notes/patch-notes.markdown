@@ -11,7 +11,6 @@ published: false
 <h4 style="text-align: left;"><span style="font-size:22px;">General</span></h4>
 * Fixed several issues that were causing crashes
 * Fixed an issue where the match would sometimes end prematurely even when there are Counselors still alive on the map
-* Added an additional countermeasure to the firepits to prevent players from dropping repair parts into them
 * Fixed an issue that caused players to load into a match with a different character than the one that was chosen
 
 
@@ -21,9 +20,9 @@ published: false
 
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Counselors</span></h4>
-* No more big weapons :(
-* Fixed an issue that caused counselors to continue the repair animation even after death
+* No more giant weapons
 * Counselors can no longer cancel out of the sweater stun animation by using an emote
+* Fixed an issue that caused counselors to continue the repair animation even after death
 * Fixed a bug that caused counselors to temporarily lose parts of their model when entering a hiding spot and stepping on a bear trap at the same time
 * Fixed a visual bug that occured when a counselor stunned Jason at the same time that they are grabbed
 * Fixed an issue that occured when a counselor holds their breath at the same time that they are exiting out from under a bed
@@ -31,15 +30,17 @@ published: false
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Vehicles</span></h4>
 * Fixed several issues that allowed players to get on top of a moving car without dying to the kill volume
-* Made adjustments to the collision volume that exists on top of boats
 * Fixed an issue that caused players to sometimes become stuck inside the vehicle after repairing
+* Made adjustments to the collision volume that exists on top of boats
+
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Maps</span></h4>
 **General**
+* Addressed several counselor exploit locations on various maps
 * Fixed an issue that was causing Counselors to die if they escaped via the car in Higgins Haven, Crystal Lake, or Packanack
 * Addressed an issue that allowed players to leave the boundaries of the map through the police exit
-* Addressed several counselor exploit locations on various maps
 * Fixed an issue that caused an inconsistent number of Medical Sprays to spawn in Packanack Small, Higgins Haven Small, and Crystal Lake Small
+* Added an additional countermeasure to the firepits to prevent players from dropping repair parts into them
 
 **Higgins Haven**
 * Fixed a crash that would occur when breaking one of the doors in Higgins Haven
@@ -60,7 +61,7 @@ published: false
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Offline Bots</span></h4>
 * Bots will now correctly fix broken power generators
-* Bots will no longer turn their flashlights on while in a hiding spot
+* Bots will no longer turn on their flashlights while in a hiding spot
 
 
 
