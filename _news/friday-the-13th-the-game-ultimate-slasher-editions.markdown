@@ -1,6 +1,7 @@
 ---
 title: 'Friday the 13th: The Game Ultimate Slasher Editions'
 date: 2018-07-17 13:48:00 -04:00
+subtitle: Pre Orders Available Now!
 main-image: "/uploads/cabin_main-6bcfeb.png"
 hero-image: "/uploads/cabin_hero-7586f2.png"
 ---
