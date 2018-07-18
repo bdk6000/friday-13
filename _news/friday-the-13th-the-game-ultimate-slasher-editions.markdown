@@ -6,7 +6,7 @@ main-image: "/uploads/cabin_main-6bcfeb.png"
 hero-image: "/uploads/cabin_hero-7586f2.png"
 ---
 
-LEXINGTON, KENTUCKY July 17, 2018
+LEXINGTON, KENTUCKY July 18, 2018
 Gun Media and Nighthawk Interactive are happy to announce two special physical editions of Friday the 13th: The Game. Ultimate Slasher Edition, which includes Friday the 13th: The Game and all available premium DLC*, as well as a Limited Edition poster, and the Ultimate Slasher Collector’s Edition, which includes everything from the Ultimate Slasher Edition, as well as a NECA Friday the 13th Part 3 Jason mask replica.
 
 We take pride in providing our fans with the most screen accurate collectibles on the market. The team behind Friday the 13th: The Game shares that same approach and that attention to detail comes through as soon as you load up the game. It was a no-brainer for us to collaborate with them and include a Part 3 mask with their Ultimate Slasher Collector’s Edition. - Randy Falk, Director at NECA
