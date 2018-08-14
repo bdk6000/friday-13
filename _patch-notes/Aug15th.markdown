@@ -1,9 +1,11 @@
 ---
-title: Patch Notes
+title: Patch Notes [PC ONLY]
 date: 2018-08-14 18:35:00 -04:00
 published: false
 release-date: 2018-08-15 00:00:00 -04:00
 ---
+
+
 
 <p>&nbsp;</p>
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>General Changes and Bugfixes</strong></span></h1>
