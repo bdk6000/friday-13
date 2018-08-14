@@ -47,7 +47,7 @@ release-date: 2018-08-15 00:00:00 -04:00
 <h4 style="text-align: left;"><span style="font-size:22px;">Maps</span></h4>
 **General**
 * Addressed several counselor exploit locations
-The medical spray static spawns on the Crystal Lake Large map and the Packanack Large map will once again properly spawn medical sprays
+* The medical spray static spawns on the Crystal Lake Large map and the Packanack Large map will once again properly spawn medical sprays
     * *Note: The location of static spawners for medical sprays have been adjusted on each map (including Crystal Lake Large and Packanack Large) for this patch and the previous patch.*
 
 **Jarvis House**
