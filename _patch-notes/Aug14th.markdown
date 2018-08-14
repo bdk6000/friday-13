@@ -16,7 +16,7 @@ published: false
 
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Jason</span></h4>
-* Part 5 Jason’s Shift duration has been increased for consistency
+* Fixed an issue with Part 5 Jason’s Shift Duration being lower than intended
 * Sense is no longer automatically cancelled when Jason enters the water
 * Jason's pickaxe kill "Canopener" now appears as "Neck Twisted" instead of “Decapitated on the scoreboard
 * Fixed an issue where window environment kills may temporarily become inaccessible if Jason grabs a counselor that is in the process of vaulting through the window
@@ -45,7 +45,7 @@ Counselors that have been pulled out of a vehicle will now display the correct s
 **General**
 * Addressed several counselor exploit locations
 The medical spray static spawns on the Crystal Lake Large map and the Packanack Large map will once again properly spawn medical sprays
-    * *Note: The location of static spawners for medical sprays have been adjusted on each map (including Crystal Lake Large and Packanack Large) for this patch and the previous patch. *
+    * *Note: The location of static spawners for medical sprays have been adjusted on each map (including Crystal Lake Large and Packanack Large) for this patch and the previous patch.*
 
 **Jarvis House**
 * Fixed an issue where a car battery may spawn in an unreachable location
