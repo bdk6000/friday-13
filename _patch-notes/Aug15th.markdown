@@ -54,7 +54,7 @@ release-date: 2018-08-15 00:00:00 -04:00
 * Fixed an issue where a car battery may spawn in an unreachable location
 
 **Pinehurst**
-*  Fixed an issue where the model of the boat may disappear upon entering any of the Pinehurst boat escape volumes
+*  Fixed an issue where the boat may disappear upon exiting through any of the Pinehurst boat escape volumes
 
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Single Player Challenges</span></h4>
