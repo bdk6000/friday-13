@@ -60,4 +60,4 @@ The medical spray static spawns on the Crystal Lake Large map and the Packanack 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-### [[Click here to discuss the patch notes on the Official Forums]](http://forum.f13game.com/topic/20423-patch-notes-070318/)
+### [[Click here to discuss the patch notes on the Official Forums]](http://forum.f13game.com/topic/20919-patch-notes-081418/)
