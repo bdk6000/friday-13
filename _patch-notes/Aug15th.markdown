@@ -1,8 +1,8 @@
 ---
 title: Patch Notes [PC]
-date: 2018-08-14 18:35:00 -04:00
+date: 2018-08-15 10:00:00 -04:00
 published: false
-release-date: 2018-08-15 00:00:00 -04:00
+release-date: 2018-08-15 10:00:00 -04:00
 ---
 
 <h2 style="text-align: left;"><span style="font-size:45px;">THIS PATCH IS PC ONLY</span></h2>
