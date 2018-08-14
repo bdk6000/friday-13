@@ -27,12 +27,12 @@ published: false
 * Fixed an issue that caused player to sometimes load into a match as a spectator
 Counselors that have been pulled out of a vehicle will now display the correct struggle animation
 * Small items (medical sprays, firecrackers, etc.) are no longer usable for the counselor that is performing the sweater stun
-* Addressed an issue that could sometimes cause the player to become stuck if the player opened the map while vaulting through a window
+* Addressed an issue that would sometimes cause the player to become stuck if the player opened the map while vaulting through a window
 
 
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Vehicles</span></h4>
-* Added additional countermeasures to prevent players from “car surfing”
+* Added additional countermeasures to prevent players from being able to stand on top of cars
 * Made adjustments to the car escape volumes to prevent vehicles from falling off the map
 * Starting a boat will once again alert Jason via sound effect
 * Fixed an issue where the repair minigame prompt may temporarily not appear if the player is rapidly toggling the repair interact button repeatedly
