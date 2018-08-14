@@ -5,7 +5,7 @@ published: false
 release-date: 2018-08-15 00:00:00 -04:00
 ---
 
-<h4 style="text-align: left;"><span style="font-size:45px;">THIS PATCH IS PC ONLY</span></h4>
+<h1 style="text-align: left;"><span style="font-size:45px;">THIS PATCH IS PC ONLY</span></h1>
 
 <p>&nbsp;</p>
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>General Changes and Bugfixes</strong></span></h1>
@@ -27,8 +27,8 @@ release-date: 2018-08-15 00:00:00 -04:00
 
 
 <h4 style="text-align: left;"><span style="font-size:22px;">Counselors</span></h4>
-* Fixed an issue that caused player to sometimes load into a match as a spectator
-Counselors that have been pulled out of a vehicle will now display the correct struggle animation
+* Fixed an issue that caused players to sometimes load into a match as a spectator
+* Counselors that have been pulled out of a vehicle will now display the correct struggle animation
 * Small items (medical sprays, firecrackers, etc.) are no longer usable for the counselor that is performing the sweater stun
 * Addressed an issue that would sometimes cause the player to become stuck if the player opened the map while vaulting through a window
 
