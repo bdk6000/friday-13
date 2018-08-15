@@ -36,7 +36,7 @@ release-date: 2018-08-15 10:00:00 -04:00
 * Added additional countermeasures to prevent players from being able to stand on top of cars
 * Made adjustments to the car escape volumes to prevent vehicles from falling off the map
 * Starting a boat will once again alert Jason via sound effect
-* Fixed an issue where the repair minigame prompt may temporarily not appear if the player is rapidly toggling the repair interact button repeatedly
+* Fixed an issue where the repair mini game prompt may temporarily not appear if the player is rapidly toggling the repair interact button repeatedly
 * Fixed an issue that caused Jason to be able to walk through cars under certain conditions
 * Fixed an issue where the reverse camera on the vehicles may sometimes not be working properly
 
