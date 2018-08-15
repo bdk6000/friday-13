@@ -1,7 +1,7 @@
 ---
 title: Patch Notes
 date: 2017-12-18 12:54:00 -05:00
-position: 4
+position: 6
 release-date: 2017-12-18 00:00:00 -05:00
 ---
 
