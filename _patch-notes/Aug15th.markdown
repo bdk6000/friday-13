@@ -5,10 +5,8 @@ published: false
 release-date: 2018-08-15 10:00:00 -04:00
 ---
 
-<h2 style="text-align: left;"><span style="font-size:45px;">THIS PATCH IS PC ONLY</span></h2>
-
 <p>&nbsp;</p>
-<h1 style="text-align: left;"><span style="font-size:35px;"><strong>General Changes and Bugfixes</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:35px;"><strong>General Changes and Bugfixes [PC]</strong></span></h1>
 
 
 <h4 style="text-align: left;"><span style="font-size:22px;">General</span></h4>
