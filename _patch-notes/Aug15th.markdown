@@ -2,7 +2,7 @@
 title: Patch Notes [PC]
 date: 2018-08-15 10:00:00 -04:00
 published: false
-position: 1
+position: 0
 release-date: 2018-08-15 10:00:00 -04:00
 ---
 
