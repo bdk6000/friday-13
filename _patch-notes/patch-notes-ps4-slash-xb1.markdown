@@ -5,7 +5,7 @@ published: false
 ---
 
 <p>&nbsp;</p>
-<h1 style="text-align: left;"><span style="font-size:35px;"><strong>General Changes and Bugfixes [PC]</strong></span></h1>
+<h1 style="text-align: left;"><span style="font-size:35px;"><strong>General Changes and Bugfixes [PS4/XB1]</strong></span></h1>
 
 
 <h4 style="text-align: left;"><span style="font-size:22px;">General</span></h4>
