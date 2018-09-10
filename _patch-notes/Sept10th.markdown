@@ -1,7 +1,6 @@
 ---
 title: Patch Notes [PS4/XB1]
 date: 2018-09-10 15:50:00 -04:00
-published: false
 release-date: 2018-09-10 00:00:00 -04:00
 ---
 
