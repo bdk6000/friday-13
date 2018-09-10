@@ -1,13 +1,13 @@
 ---
 title: Patch Notes [PS4/XB1]
-date: 2018-10-20 15:50:00 -04:00
+date: 2018-09-10 15:50:00 -04:00
 published: false
 release-date: 2018-09-10 00:00:00 -04:00
 ---
 
 <p>&nbsp;</p>
 
-* Note: These patch notes are for both the PS4 and XB1.
+* Note: These patch notes are for both the PS4 and XB1
 
 **The PS4 patch will be the only platform receiving this update today.**
 
