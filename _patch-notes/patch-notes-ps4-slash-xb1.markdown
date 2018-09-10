@@ -6,9 +6,9 @@ published: false
 
 <p>&nbsp;</p>
 
-**Note: These patch notes are for both the PS4 and XB1.**
+* Note: These patch notes are for both the PS4 and XB1.
 
-The PS4 patch will be the only platform receiving this update today. 
+**The PS4 patch will be the only platform receiving this update today.**
 The XB1 patch is still undergoing the certification process and we hope to have this completed as soon as possible.
 We’ll let you all know when the XB1 patch is ready to go and update this page with the release!
 
