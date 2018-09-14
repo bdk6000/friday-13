@@ -8,10 +8,12 @@ release-date: 2018-09-10 00:00:00 -04:00
 
 * Note: These patch notes are for both the PS4 and XB1
 
-**The PS4 patch will be the only platform receiving this update today.**
+* The patch for PS4 and XB1 are now both live!
 
-The XB1 patch is still currently undergoing the certification process and we hope to have this completed as soon as possible.
-We’ll let you all know when the XB1 patch is ready to go and update this page with the release!
+~~**The PS4 patch will be the only platform receiving this update today.**~~
+
+~~The XB1 patch is still currently undergoing the certification process and we hope to have this completed as soon as possible.
+We’ll let you all know when the XB1 patch is ready to go and update this page with the release!~~
 
 <h1 style="text-align: left;"><span style="font-size:35px;"><strong>Console Dedicated Servers</strong></span></h1>
 In this patch, we are releasing the long awaited **dedicated servers for the PS4 and XB1!** 
