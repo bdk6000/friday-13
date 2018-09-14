@@ -8,7 +8,7 @@ release-date: 2018-09-10 00:00:00 -04:00
 
 * Note: These patch notes are for both the PS4 and XB1
 
-* **The patch for PS4 and XB1 are now both live!**
+* **The patch for the PS4 and XB1 are now both live!**
 
 ~~**The PS4 patch will be the only platform receiving this update today.**~~
 
