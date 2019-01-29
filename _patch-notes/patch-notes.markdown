@@ -2,6 +2,7 @@
 title: Patch Notes
 date: 2019-01-29 13:57:00 -05:00
 published: false
+position: 2
 release-date: 2018-11-16 16:00:00 -05:00
 ---
 
