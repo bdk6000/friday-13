@@ -14,7 +14,7 @@ Entering Combat Stance while swinging weapon
 
 **ENVIRONMENT AND COLLISION**
 * Falling Animation Loop - Fixed various areas where players enter a falling animation and cannot continue, including:
-* Firewood Logs on Pinehurst Map
+**  Firewood Logs on Pinehurst Map
 Cardboard Box on Packanack Map
 Coffee Table in Jarvis House
 Counselor Catch - Fixed various spots that could snag the counselors and make them unable to move, including:
