@@ -43,4 +43,4 @@ Fixed a floating campfire in Packanack Small
 Fixed collision with a bucket in Packanack Small
 Fixed a floating trash can in Packanack Small
 
-[[Click here to discuss the patch notes on the Official Forums]](http://forum.f13game.com/topic/25343-patch-notes-111618/)
+### [[Click here to discuss the patch notes on the Official Forums]](http://forum.f13game.com/topic/25343-patch-notes-111618/)
