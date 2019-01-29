@@ -6,23 +6,23 @@ position: 0
 release-date: 2018-11-16 16:00:00 -05:00
 ---
 
-GENERAL
+**GENERAL**
 
-Fixed an issue where Jason’s throwing knives sometimes ignored car collision
+* Fixed an issue where Jason’s throwing knives sometimes ignored car collision
 Fixed an issue that prevented Pamela’s laugh from playing at the end of a round  
 Fixed an issue that could result in a Counselor not being killed if they have the Thick-Skinned Perk equipped
 Fixed an issue that prevented the loading screen images from cycling
 Fixed an issue that could allow Counselors to continue holding items while being grabbed by Jason
  
 
-XBOX
+**XBOX**
 
-Fixed an issue that could result in the morph cursor not appearing on Xbox One.
+* Fixed an issue that could result in the morph cursor not appearing on Xbox One.
  
 
-MAPS
+**MAPS**
 
-Fixed an issue that could cause display errors with blood and wood particles on Pinehurst
+* Fixed an issue that could cause display errors with blood and wood particles on Pinehurst
 Fixed an issue that could cause graphical artifacts in Packanack Lodge
 Fixed an issue that could prevent players from picking up the shotgun if it spawns on top of a barrel in Higgins Haven
 Fixed an issue that could cause Counselor players to become stuck in a falling animation from barrels in Pinehurst
@@ -42,3 +42,5 @@ Fixed collisions with a rock pile in Crystal Lake
 Fixed a floating campfire in Packanack Small
 Fixed collision with a bucket in Packanack Small
 Fixed a floating trash can in Packanack Small
+
+[[Click here to discuss the patch notes on the Official Forums]](http://forum.f13game.com/topic/25343-patch-notes-111618/)
