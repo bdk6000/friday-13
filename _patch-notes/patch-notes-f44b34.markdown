@@ -6,23 +6,23 @@ release-date: 2019-01-29 16:00:00 -05:00
 
 **INTERACTION LOCK** - The team has fixed various interaction lock issues, including:
 * Stumbling while dropping an item
-Entering Combat Stance while swinging weapon
+* Entering Combat Stance while swinging weapon
 
 **CONNECTIVITY AND CRASHES** - Multiple connectivity/crash fixes including:
 * Network Error after joining lobby in Quick Play
-“Need Updated Client” error
+* “Need Updated Client” error
 
 **ENVIRONMENT AND COLLISION**
 * Falling Animation Loop - Fixed various areas where players enter a falling animation and cannot continue, including:
-**  Firewood Logs on Pinehurst Map
-Cardboard Box on Packanack Map
-Coffee Table in Jarvis House
+     * Firewood Logs on Pinehurst Map
+     * Cardboard Box on Packanack Map
+     * Coffee Table in Jarvis House
 Counselor Catch - Fixed various spots that could snag the counselors and make them unable to move, including:
-Cemetery fence on the Crystal Lake map.
+* Cemetery fence on the Crystal Lake map.
 Safe Spots - Fixed various safe spots where the counselors are unreachable once entered, including:
-The cemetery in Higgin’s Haven
-Parking the car inside the barn on Pinehurst
-Fixed an issue where an invisible collision would occur at the barn fence on Pinehurst, causing the car to shift vertically after restarting the car.
+* The cemetery in Higgin’s Haven
+* Parking the car inside the barn on Pinehurst
+* Fixed an issue where an invisible collision would occur at the barn fence on Pinehurst, causing the car to shift vertically after restarting the car.
 Fixed an exploit where counselors could use the car as a barricade at Jason’ shack, affecting several maps.
 Fixed an issue where the counselors could control their directional axis while climbing through windows, allowing them to reach unplayable areas of the maps.
 Fixed an issue where counselors are able to reach the rooftop of the Pinehurst Halfway House by escaping Jason's grab with a pocket knife.
