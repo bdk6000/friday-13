@@ -1,7 +1,7 @@
 ---
 title: Patch Notes
 date: 2018-06-08 10:00:00 -04:00
-position: 3
+position: 5
 release-date: 2018-07-03 00:00:00 -04:00
 ---
 

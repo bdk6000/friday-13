@@ -1,6 +1,7 @@
 ---
 title: 7.7.19
 date: 2019-05-07 14:07:00 -04:00
+position: 0
 ---
 
 **GENERAL & FINE TUNING**

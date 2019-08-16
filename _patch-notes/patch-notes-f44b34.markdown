@@ -1,6 +1,7 @@
 ---
 title: Patch Notes
 date: 2019-01-29 14:37:00 -05:00
+position: 1
 release-date: 2019-01-29 16:00:00 -05:00
 ---
 
