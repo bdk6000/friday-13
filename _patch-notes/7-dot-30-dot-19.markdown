@@ -1,7 +1,7 @@
 ---
 title: Patch Notes
 date: 2019-07-30 14:27:00 -04:00
-position: 0
+position: 1
 release-date: 2019-07-30 00:00:00 -04:00
 ---
 
