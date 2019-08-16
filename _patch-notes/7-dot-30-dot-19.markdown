@@ -1,5 +1,5 @@
 ---
-title: 7.30.19
+title: Patch Notes
 date: 2019-07-30 14:27:00 -04:00
 release-date: 2019-07-30 00:00:00 -04:00
 ---
