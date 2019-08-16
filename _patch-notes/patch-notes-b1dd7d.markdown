@@ -19,8 +19,9 @@ position: 0
 * Cars no longer damage players through walls.
 * Fixes applied to prevent counselors from parking the car and blocking Jason from reaching them.
 
-**INTERACTION LOCKS**\
+**INTERACTION LOCKS**
 * Corrected several scenarios that caused players to suffer an interaction lock including:
+
     **COUNSELOR:**
         * During bear trap deployment or interaction.
         * While performing blocks.
