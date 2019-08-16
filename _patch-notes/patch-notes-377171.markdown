@@ -1,6 +1,8 @@
 ---
-title: Patch Notes
+title: Patch Note
 date: 2019-08-16 14:36:00 -04:00
+release-date: 2019-08-09 00:00:00 -04:00
+Field name: 
 ---
 
 * FIXED - Various issues with cooldown speed and timings for Jason's Abilities (Shift, Sense, etc).
