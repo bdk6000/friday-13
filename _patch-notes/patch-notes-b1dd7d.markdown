@@ -1,7 +1,8 @@
 ---
-title: 7.7.19
+title: Patch Notes
 date: 2019-05-07 14:07:00 -04:00
 position: 0
+release-date: 2019-05-07 00:00:00 -04:00
 ---
 
 **GENERAL & FINE TUNING**
