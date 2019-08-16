@@ -20,22 +20,22 @@ position: 0
 * Fixes applied to prevent counselors from parking the car and blocking Jason from reaching them.
 
 **INTERACTION LOCKS**
-* Corrected several scenarios that caused players to suffer an interaction lock including:
+Corrected several scenarios that caused players to suffer an interaction lock including:
 
-    **COUNSELOR:**
-        * During bear trap deployment or interaction.
-        * While performing blocks.
-        * While weapon swapping.
-        * While weapon swapping and entering combat stance.
-        * During small item use.
-        * While dropping items.
-        * After using the map.
-        * After aiming the flare gun or shotgun.
-        * Dodging while dropping a weapon.
+COUNSELOR:
+* During bear trap deployment or interaction.
+* While performing blocks.
+* While weapon swapping.
+* While weapon swapping and entering combat stance.
+* During small item use.
+* While dropping items.
+* After using the map.
+* After aiming the flare gun or shotgun.
+* Dodging while dropping a weapon.
 
-    **JASON:**
-        * When shifting and interacting with items, environment, or counselors.
-        * When shifting into water. (He really wasn’t a good swimmer.)
+JASON:
+* When shifting and interacting with items, environment, or counselors.
+* When shifting into water. (He really wasn’t a good swimmer.)
 
 **JASON SPECIFIC CHANGES**
 * Using the sweater to stun Jason while he is already down will not activate the next phase of the kill progression, and will not allow players to kneel him directly from the down state. This was an unintended effect where players were able to stun a stunned Jason, leading to the Tommy Jarvis kill on Jason.
