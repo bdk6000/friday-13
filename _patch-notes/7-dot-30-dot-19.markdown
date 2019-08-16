@@ -1,6 +1,7 @@
 ---
 title: 7.30.19
 date: 2019-07-30 14:27:00 -04:00
+release-date: 2019-07-30 00:00:00 -04:00
 ---
 
 * Resolved Various Issues Regarding 'Interaction Lock' for Counselor and Jason Interactions Which Would Result in Unintended Gameplay Issues.
