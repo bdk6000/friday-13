@@ -32,6 +32,7 @@ position: 0
         * After using the map.
         * After aiming the flare gun or shotgun.
         * Dodging while dropping a weapon.
+
     **JASON:**
         * When shifting and interacting with items, environment, or counselors.
         * When shifting into water. (He really wasn’t a good swimmer.)
